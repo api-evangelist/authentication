@@ -22,7 +22,7 @@ tags_path : /tags.html
 
 # Masthead title
 masthead_link: http://authentication.apievangelist.com
-masthead_font_size: 65
+masthead_font_size: 80
 masthead_title: '{"Authentication"}'
 
 # Feature
