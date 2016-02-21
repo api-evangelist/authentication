@@ -82,7 +82,7 @@
 		]
 	},
 	{
-		"category_name": "Formats",
+		"category_name": "Approaches",
 		"building_blocks": [
 			{
 				"building_block_id": "pcOLuEzec8wvIjuuzzZz45MbLH123A1eyTNtRf9R7Qt123w117",
@@ -90,7 +90,7 @@
 				"name": "Basic Auth",
 				"about": "Usage of the basic authentication format that is part of the standard HTTP operations, employing a username and password as credentials for accessing API resources.",
 				"category_id": "285",
-				"category": "Formats",
+				"category": "Approaches",
 				"category_about": null,
 				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
 				"category_hex": "#EE352E",
@@ -114,7 +114,7 @@
 				"name": "Key Access",
 				"about": "Providing simple tokens, often called API key as a common way to access to APIs, issuing one to each developer and per application they register.",
 				"category_id": "285",
-				"category": "Formats",
+				"category": "Approaches",
 				"category_about": null,
 				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
 				"category_hex": "#EE352E",
@@ -138,7 +138,7 @@
 				"name": "JSON Web Token",
 				"about": "JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object.",
 				"category_id": "285",
-				"category": "Formats",
+				"category": "Approaches",
 				"category_about": null,
 				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
 				"category_hex": "#EE352E",
@@ -162,7 +162,7 @@
 				"name": "oAuth",
 				"about": "Providing an oAuth layer to API operations, securing high value APIs, while also opening up a conversation between an API platform, developers, and end-users regarding the access of their content and data.",
 				"category_id": "285",
-				"category": "Formats",
+				"category": "Approaches",
 				"category_about": null,
 				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
 				"category_hex": "#EE352E",
