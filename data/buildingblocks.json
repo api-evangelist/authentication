@@ -1,134 +1,185 @@
 [
 	{
-		"building_block_id": "cYJk2vslY4t51aFEtcXB2Uh2EJRD5RMn7pmxCOL6O116Vosh0R0QJxbxdpqwI14EJ73Nc5Yo1QTTAxr7Fks2MxSQ117117",
-		"building_block_category_id": "0tNXBLteHs4Jb6gmDTaWotSUVXnHRRTvxFVY7RuLJoWD116FutUEoTq3LFYAE6Eo25zZ7AjUgmnDzi2AJpFKO1eQ117117",
-		"name": "Containers",
-		"about": "A single unit of compute, complete with operating system, and application layer.",
-		"category_id": "251",
-		"category": "Core Concepts",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
+		"category_name": "Overview",
+		"building_blocks": [
+			{
+				"building_block_id": "ZC1w1235rIQrytcpr03n9DAn9S7BEadv9CBXhHH4FynbE117",
+				"building_block_category_id": "nRWeWRTxZOrmadY9lXewBsMTtrr7lDdxV0h3Qah8Hs4117",
+				"name": "Authentication Overview",
+				"about": "An overview of how authentication is handled for a platform, and which formats are supported, setting expectations for consumers.",
+				"category_id": "4",
+				"category": "Overview",
+				"category_about": "Authentication is central to many other lines of the API life cycle. There are several common elements present in modern API solutions that address authentication.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-authentication.png",
+				"image_width": "150",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "LhRne3C3lAglZvD116liajoC8NK7BNo9lwmS1gBOt3FHQ117",
+				"building_block_category_id": "nRWeWRTxZOrmadY9lXewBsMTtrr7lDdxV0h3Qah8Hs4117",
+				"name": "Authentication Tester",
+				"about": "Providing a testing tool for authentication, that allows developers to test key and Basic Auth to oAuth, to help them understand how authentication works and if they are using proper credentials.",
+				"category_id": "4",
+				"category": "Overview",
+				"category_about": "Authentication is central to many other lines of the API life cycle. There are several common elements present in modern API solutions that address authentication.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-authentication-test.png",
+				"image_width": "150",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "rnLsqHAWgaRsNK123JkmhM123e80xQCeggrUYVMYLaWdE9M117",
+				"building_block_category_id": "nRWeWRTxZOrmadY9lXewBsMTtrr7lDdxV0h3Qah8Hs4117",
+				"name": "OAuth Scopes",
+				"about": "Providing a dedicated page or section to listing out the different OAuth scopes used by a platform. Providing a transparent window into all the scopes available, and some of the logic into why they exist.",
+				"category_id": "4",
+				"category": "Overview",
+				"category_about": "Authentication is central to many other lines of the API life cycle. There are several common elements present in modern API solutions that address authentication.",
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+					{
+						"name": "Reference",
+						"url": "https://api.slack.com/docs/oauth-scopes",
+						"text": "Slack has a page dedicated to showcasing their OAuth scopes."
+					}
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
 	},
 	{
-		"building_block_id": "XOF8mdYIKOYsd123LSecfeLAUVyjUv8x0OYdXn5FVP1163i2uED66h70EOcnXtyglkLd1LjPOrKc6KmPdBHtFObCDw117117",
-		"building_block_category_id": "0tNXBLteHs4Jb6gmDTaWotSUVXnHRRTvxFVY7RuLJoWD116FutUEoTq3LFYAE6Eo25zZ7AjUgmnDzi2AJpFKO1eQ117117",
-		"name": "Images",
-		"about": "A snapshot of a single container instance that then allows it to be deployed as a container.",
-		"category_id": "251",
-		"category": "Core Concepts",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "PealcONwPPlGi932wt2nGctvQKt123Wnb1IFlKJOetNfCp8U6n8WsdxDj7x5UscqxQ1L41v123n0L116x0XH116e8R7Z8Q117117",
-		"building_block_category_id": "0tNXBLteHs4Jb6gmDTaWotSUVXnHRRTvxFVY7RuLJoWD116FutUEoTq3LFYAE6Eo25zZ7AjUgmnDzi2AJpFKO1eQ117117",
-		"name": "Nodes",
-		"about": "A single server instance, where many containers can be deployed and managed.",
-		"category_id": "251",
-		"category": "Core Concepts",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "q6C116116XGIOoNF2lFE4aCUCJ3BimPldgm8NBuro881g8Q116uQJGk2Vh0PeW7Z25dp1jh7116uwSjy6kXjincrlSitaw117117",
-		"building_block_category_id": "0tNXBLteHs4Jb6gmDTaWotSUVXnHRRTvxFVY7RuLJoWD116FutUEoTq3LFYAE6Eo25zZ7AjUgmnDzi2AJpFKO1eQ117117",
-		"name": "Volumes",
-		"about": "A data volume is a specially-designated directory within one or more containers that bypasses the local.",
-		"category_id": "251",
-		"category": "Core Concepts",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "yoC116OsdEzh0bkn3geTcwYQvkwy02CgFyid4uChAgnkuJK6arLYHjvenOBmy51X1cuGpo9tpeTSUyvsK5f0kkSA117117",
-		"building_block_category_id": "0tNXBLteHs4Jb6gmDTaWotSUVXnHRRTvxFVY7RuLJoWD116FutUEoTq3LFYAE6Eo25zZ7AjUgmnDzi2AJpFKO1eQ117117",
-		"name": "Clusters",
-		"about": "Allows for the creation and access to a pool of containers, organized into a meaningful group.",
-		"category_id": "251",
-		"category": "Core Concepts",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "xP2vvT4bOkKWcwIk72qzBtpmVMsOdDLie33yHEffZFf4wQnQduRsidLOcXB29jNAHzYBtFlNQKSIZe9JUXVgRw117117",
-		"building_block_category_id": "0tNXBLteHs4Jb6gmDTaWotSUVXnHRRTvxFVY7RuLJoWD116FutUEoTq3LFYAE6Eo25zZ7AjUgmnDzi2AJpFKO1eQ117117",
-		"name": "Networks",
-		"about": "Defining the network linkage between containers.",
-		"category_id": "251",
-		"category": "Core Concepts",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "C7yKrFE116PBVrnlARolrEXhWHBWGzZxNgcCveTxLBR116UDDeFviwHWaE5I6agEGYP4DkBg0ZOherBjTUwl8Iqv2w117117",
-		"building_block_category_id": "0tNXBLteHs4Jb6gmDTaWotSUVXnHRRTvxFVY7RuLJoWD116FutUEoTq3LFYAE6Eo25zZ7AjUgmnDzi2AJpFKO1eQ117117",
-		"name": "Hub",
-		"about": "A cloud-based registry service for building and shipping application or service containers.",
-		"category_id": "251",
-		"category": "Core Concepts",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "YIKoQcw7SjcZkvOc17C6XFOZGE5FwwUPyjr8utWWKALXqcsffkljfVQnD3DwJrAfi2bgS9W1167qrWCgKh123AJ2zQ117117",
-		"building_block_category_id": "0tNXBLteHs4Jb6gmDTaWotSUVXnHRRTvxFVY7RuLJoWD116FutUEoTq3LFYAE6Eo25zZ7AjUgmnDzi2AJpFKO1eQ117117",
-		"name": "Registry",
-		"about": "A server location for registering, storing, and distributing container images.",
-		"category_id": "251",
-		"category": "Core Concepts",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "Z2b8TZQm3vl73Xk91239HNjLzKB3dppJc2ZRFcj1SVzyhPjGhTfbTdNU7TjitrwKDPU51K58Eentr6WBYvHHsC8g117117",
-		"building_block_category_id": "DWkI8dBzf95r8KN14jofGeulR90KmfjSUEO4Omqs6fp4u116O0uGNvH19nvN1NWP9OJprqi7M123uDj3dN7rH9h0eA117117",
-		"name": "Containers",
-		"about": "A web API for managing containers.",
-		"category_id": "252",
-		"category": "API",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "XWeRjUrIUW7689WfU2FXRDNEntcfROBgWsP2KL7VRm6PUvhkQHK6NGZs2JhjmGJxY8lSSW123kHYfuK4xPEDDq8w117117",
-		"building_block_category_id": "DWkI8dBzf95r8KN14jofGeulR90KmfjSUEO4Omqs6fp4u116O0uGNvH19nvN1NWP9OJprqi7M123uDj3dN7rH9h0eA117117",
-		"name": "Image",
-		"about": "A web API for managing container images.",
-		"category_id": "252",
-		"category": "API",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "RHnNI1aUVY1y6GaFRYFIFLKOgA0frTV1LwV2I6BYyxbpjpAfr1qQNUEFUyRPauU6HOWevtNpipLEfPVMqklqjw117117",
-		"building_block_category_id": "DWkI8dBzf95r8KN14jofGeulR90KmfjSUEO4Omqs6fp4u116O0uGNvH19nvN1NWP9OJprqi7M123uDj3dN7rH9h0eA117117",
-		"name": "Volumes",
-		"about": "A web API for managing the volumes used by containers.",
-		"category_id": "252",
-		"category": "API",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
-	},
-	{
-		"building_block_id": "lfGuvJQnxLxYjhflvmdjB8MxrG8QHDXc116FJT6ZE2N6igrg9ds8VIpya6eVcKyFaTpEr69FpPY9IgjCivBMH8ZA117117",
-		"building_block_category_id": "DWkI8dBzf95r8KN14jofGeulR90KmfjSUEO4Omqs6fp4u116O0uGNvH19nvN1NWP9OJprqi7M123uDj3dN7rH9h0eA117117",
-		"name": "Networks",
-		"about": "A web API for managing container networks.",
-		"category_id": "252",
-		"category": "API",
-		"image": "",
-		"image_width": "100",
-		"sort_order": "0"
+		"category_name": "Formats",
+		"building_blocks": [
+			{
+				"building_block_id": "pcOLuEzec8wvIjuuzzZz45MbLH123A1eyTNtRf9R7Qt123w117",
+				"building_block_category_id": "nyTgU1165wABm4ih4NhFsoZ01Bxm3oK802Wnks4nh9A4U117",
+				"name": "Basic Auth",
+				"about": "Usage of the basic authentication format that is part of the standard HTTP operations, employing a username and password as credentials for accessing API resources.",
+				"category_id": "285",
+				"category": "Formats",
+				"category_about": null,
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "1",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "Ihe5ETCYWEVC6o4Q1NHSd165lgc116MqgMsSfosPtXO4o117",
+				"building_block_category_id": "nyTgU1165wABm4ih4NhFsoZ01Bxm3oK802Wnks4nh9A4U117",
+				"name": "Key Access",
+				"about": "Providing simple tokens, often called API key as a common way to access to APIs, issuing one to each developer and per application they register.",
+				"category_id": "285",
+				"category": "Formats",
+				"category_about": null,
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-key.png",
+				"image_width": "150",
+				"sort_order": "2",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "92S9kWLspqW0cWaIgAVnDbNojbmP3m6UAdTTxgsgWD0117",
+				"building_block_category_id": "nyTgU1165wABm4ih4NhFsoZ01Bxm3oK802Wnks4nh9A4U117",
+				"name": "JSON Web Token",
+				"about": "JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact and self-contained way for securely transmitting information between parties as a JSON object.",
+				"category_id": "285",
+				"category": "Formats",
+				"category_about": null,
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "3",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"building_block_id": "LiWUTbRqDZFOsUPVkCRdnAjb0hR2ZFG1160vJn6OlvFco117",
+				"building_block_category_id": "nyTgU1165wABm4ih4NhFsoZ01Bxm3oK802Wnks4nh9A4U117",
+				"name": "oAuth",
+				"about": "Providing an oAuth layer to API operations, securing high value APIs, while also opening up a conversation between an API platform, developers, and end-users regarding the access of their content and data.",
+				"category_id": "285",
+				"category": "Formats",
+				"category_about": null,
+				"category_image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/services/api-management.png",
+				"category_hex": "#EE352E",
+				"image": "",
+				"image_width": "100",
+				"sort_order": "4",
+				"organizations": [
+				],
+				"apis": [
+				],
+				"links": [
+				],
+				"tools": [
+				],
+				"questions": [
+				]
+			}
+		]
 	}
 ]
