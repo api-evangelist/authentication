@@ -1,40 +1,24 @@
 ---
 layout: page
-title: 'Building Blocks'
+title: Building Blocks
 ---
-<p>These are some of the common building blocks I have pullled from my research into this layer of the API space.</p>
-<table width="100%" border="0"><tr>
-<td align="left" valign="top" style="padding-left:10px; padding-bottom:5px; background-color: #E0E0E0;">
-<h2>Core Concepts</h2>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<ul>
-<li><strong>Containers</strong> - A single unit of compute, complete with operating system, and application layer.</li>
-<li><strong>Images</strong> - A snapshot of a single container instance that then allows it to be deployed as a container.</li>
-<li><strong>Nodes</strong> - A single server instance, where many containers can be deployed and managed.</li>
-<li><strong>Volumes</strong> - A data volume is a specially-designated directory within one or more containers that bypasses the local.</li>
-<li><strong>Clusters</strong> - Allows for the creation and access to a pool of containers, organized into a meaningful group.</li>
-<li><strong>Networks</strong> - Defining the network linkage between containers.</li>
-<li><strong>Hub</strong> - A cloud-based registry service for building and shipping application or service containers.</li>
-<li><strong>Registry</strong> - A server location for registering, storing, and distributing container images.</li>
-</ul>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top" style="padding-left:10px; padding-bottom:5px; background-color: #E0E0E0;">
-<h2>API</h2>
-</td>
-</tr>
-<tr>
-<td align="left" valign="top">
-<ul>
-<li><strong>Containers</strong> - A web API for managing containers.</li>
-<li><strong>Image</strong> - A web API for managing container images.</li>
-<li><strong>Volumes</strong> - A web API for managing the volumes used by containers.</li>
-<li><strong>Networks</strong> - A web API for managing container networks.</li>
-</ul>
-</td>
-</tr>
+<p>These are the common building blocks I have organized as part of this research, organized by category.</p>
+<table width="100%" border="0" cellpadding="2" cellspacing="2">
+  {% for category in site.data.buildingblocks %}
+  <tr>
+    <td align="left" valign="top" style="padding-left:10px; padding-bottom:5px; background-color: #E0E0E0;">
+      <h2>{{ category.category_name }}</h2>
+    </td>
+  </tr>
+  {% for buildingblock in category.building_blocks %}
+  <tr>
+    <td align="left" valign="top">
+      <ul style="padding: 2px 10px 2px 10px;">
+        <li><strong>{{ buildingblock.name }}</strong> - {{ buildingblock.about }}</li>
+      </ul>
+    </td>
+  </tr>
+  {% endfor %}
+  {% endfor %}
 </table>
+<p>I am constantly updating, reording, and evolving these building blocks based upon where the space is going.</p>
