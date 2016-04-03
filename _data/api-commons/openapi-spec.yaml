@@ -1,0 +1,1232 @@
+- swagger: "2.0"
+  info:
+    title: API
+    description: This is my API for working with the APIs I track on. I use this API
+      to add, update, and delete the APIs, their details, an I am working to create
+      as many API focused endpoints, which let me manage even more APIs, whether they
+      are mine or other publicly available APIs I am interested in.
+    termsOfService: http://kinlane.com/terms-of-service.html
+    version: v1
+  host: api.api.kinlane.com
+  basePath: /
+  schemes:
+  - http
+  produces:
+  - application/json
+  consumes:
+  - application/json
+  paths:
+    /api/:
+      get:
+        summary: Get APIs
+        description: retrieves all apis
+        operationId: getAPIs
+        parameters:
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: query
+          description: a text query to search across APIs
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - API
+        security: []
+      post:
+        summary: Add API
+        description: add api
+        operationId: addAPI
+        parameters:
+        - in: query
+          name: about
+          description: details about the API
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: name
+          description: name of the API
+          type: string
+          format: string
+        - in: query
+          name: organization_id
+          description: organization ID for the API
+          type: string
+          format: string
+        - in: query
+          name: rank
+          description: ranking of API
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - API
+        security: []
+    /api/{api_id}/:
+      delete:
+        summary: Delete API
+        description: delete an API
+        operationId: deleteAPI
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the API
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - API
+        security: []
+      get:
+        summary: Get API
+        description: retrieve an API
+        operationId: getAPI
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the API
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - API
+        security: []
+      put:
+        summary: Update API
+        description: update an API
+        operationId: updateAPI
+        parameters:
+        - in: query
+          name: about
+          description: details about the API
+          type: string
+          format: string
+        - in: path
+          name: api_id
+          description: id for the API
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: name
+          description: name of the API
+          type: string
+          format: string
+        - in: query
+          name: organization_id
+          description: organization ID for the API
+          type: string
+          format: string
+        - in: query
+          name: rank
+          description: ranking of API
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - API
+        security: []
+    /api/{api_id}/buildingblocks/:
+      get:
+        summary: Get Building Blocks for API
+        description: retrieve an APIs building blocks
+        operationId: getAPIBuildingBlocks
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the API
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - Building Blocks
+        security: []
+      post:
+        summary: Add Building Block for API
+        description: add an API building block
+        operationId: addAPIBuildingBlock
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the API
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: building_block_api
+          description: id for the building block
+          type: string
+          format: string
+        - in: query
+          name: building_block_id
+          description: id for the building block
+        - in: query
+          name: organization_id
+          description: id for the organization
+          type: string
+          format: string
+        - in: query
+          name: tool_id
+          description: id for the tool
+          type: string
+          format: string
+        - in: query
+          name: url
+          description: the url for the building block
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - Building Blocks
+        security: []
+    /api/{api_id}/buildingblocks/{buildingblock_id}:
+      delete:
+        summary: Delete Building Block for API
+        description: delete an API building block
+        operationId: deleteAPIBuildingBlocks
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the API
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        - in: path
+          name: buildingblock_id
+          description: id for the building block
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - Building Blocks
+        security: []
+    /api/{api_id}/definitions/code/php/generate/definition/parameters/:
+      get:
+        summary: Generate Definition Parameters for API
+        description: generate php array parameters
+        operationId: generatePHPArrayParameters
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the api
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+        - in: query
+          name: filterobject
+          description: the api definition object to filter by
+        responses:
+          200:
+            description: OK
+        tags:
+        - Code
+        security: []
+    /api/{api_id}/definitions/code/php/generate/path/parameters/:
+      get:
+        summary: Generate Path Parameters for API
+        description: generate php array parameters
+        operationId: generatePHPArrayParameters
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the api
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+        - in: query
+          name: filterpath
+          description: the api path to filter by
+        - in: query
+          name: filterverb
+          description: the api verb to filter by
+        responses:
+          200:
+            description: OK
+        tags:
+        - Code
+        security: []
+    /api/{api_id}/definitions/export/apisjson/.14/:
+      get:
+        summary: Export APIs.json 1.4 Definition
+        description: export an apis.json definition
+        operationId: exportAPIsJSON
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the api
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+        responses:
+          200:
+            description: OK
+        tags:
+        - Definitions
+        security: []
+    /api/{api_id}/definitions/export/apisjson/.14/master/:
+      get:
+        summary: Export APIs.json Master Definition
+        description: export an apis.json master definition
+        operationId: exportAPIsJSONMaster
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the api
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+        responses:
+          200:
+            description: OK
+        tags:
+        - Definitions
+        security: []
+    /api/{api_id}/definitions/export/swagger/1.2/:
+      get:
+        summary: Export OpenAPI Spec 1.2 Definition
+        description: export a Swagger 1.2 definition
+        operationId: exportSwagger12Definition
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the api item
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - Definitions
+        security: []
+    /api/{api_id}/definitions/export/swagger/2.0/:
+      get:
+        summary: Export OpenAPI Spec 2.0 Definition
+        description: exports a Swagger 2.0 definition
+        operationId: exportSwagger20Definition
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the api item
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - Definitions
+        security: []
+    /api/{api_id}/definitions/import/swagger/1.2/:
+      post:
+        summary: Import OpenAPI Spec 1.2 Definition
+        description: imports a Swagger 1.2 definition
+        operationId: importSwagger12Definition
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the api item
+          type: string
+          format: string
+        - in: formData
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: formData
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        - in: formData
+          name: url
+          description: url of the Swagger definition
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - Definitions
+        security: []
+    /api/{api_id}/definitions/import/swagger/2.0/:
+      post:
+        summary: Import OpenAPI Spec 2.0 Definition
+        description: import a Swagger 2.0 definition
+        operationId: importSwagger20Definition
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the api item
+          type: string
+          format: string
+        - in: formData
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: formData
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        - in: formData
+          name: url
+          description: url of the Swagger definition
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - Definitions
+        security: []
+    /api/{api_id}/images/:
+      get:
+        summary: Get Images for API
+        description: retrieve an APIs images
+        operationId: getAPIImages
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the API
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - Images
+        security: []
+      post:
+        summary: Add Image for API
+        description: add an API image
+        operationId: addAPIImage
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the API
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: name
+          description: name of the image
+          type: string
+          format: string
+        - in: query
+          name: path
+          description: path of the image
+          type: string
+          format: string
+        - in: query
+          name: type
+          description: type of image
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - Images
+        security: []
+    /api/{api_id}/images/{image_id}:
+      delete:
+        summary: Delete Image for API
+        description: delete an API image
+        operationId: deleteAPIImage
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the API
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        - in: path
+          name: image_id
+          description: id for the image
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - Images
+        security: []
+    /api/{api_id}/logs/:
+      get:
+        summary: Get Logs for API
+        description: retrieve an APIs logs
+        operationId: getAPILogs
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the API
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - Logs
+        security: []
+      post:
+        summary: Add Log for API
+        description: add an API log
+        operationId: addAPILog
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the api item
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: details
+          description: log details
+          type: string
+          format: string
+        - in: query
+          name: log_date
+          description: date of the log entry
+          type: string
+          format: string
+        - in: query
+          name: type
+          description: type of log entry
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - Logs
+        security: []
+    /api/{api_id}/logs/{log_id}/:
+      delete:
+        summary: Delete Log for API
+        description: delete an API log
+        operationId: deleteAPILog
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the api
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+        - in: path
+          name: log_id
+          description: id for the log
+        responses:
+          200:
+            description: OK
+        tags:
+        - Logs
+        security: []
+    /api/{api_id}/notes/:
+      get:
+        summary: Get Notes for API
+        description: retrieve an APIs notes
+        operationId: getAPINotes
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the API
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - Notes
+        security: []
+      post:
+        summary: Add Note for API
+        description: add an API note
+        operationId: addAPINote
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the api item
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: note
+          description: the full text of note
+          type: string
+          format: string
+        - in: query
+          name: type
+          description: type of the note
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - Notes
+        security: []
+    /api/{api_id}/notes/{note_id}/:
+      delete:
+        summary: Delete Note for API
+        description: delete an API note
+        operationId: deleteAPINote
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the API
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+        - in: path
+          name: note_id
+          description: id for the note
+        responses:
+          200:
+            description: OK
+        tags:
+        - Notes
+        security: []
+    /api/{api_id}/screenshots/:
+      get:
+        summary: Get Screenshots for API
+        description: retrieve API screenshots
+        operationId: getAPIScreenshots
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the API
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - Screenshots
+        security: []
+      post:
+        summary: Add Screenshot for API
+        description: add an API screenshot
+        operationId: addAPIScreenshot
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the API
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: name
+          description: name of the screenshot
+          type: string
+          format: string
+        - in: query
+          name: path
+          description: path of the screenshot
+          type: string
+          format: string
+        - in: query
+          name: type
+          description: type of screenshot
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - Screenshots
+        security: []
+    /api/{api_id}/screenshots/{screenshot_id}:
+      delete:
+        summary: Delete Screenshot for API
+        description: delete an API screenshot
+        operationId: deleteAPIScreenshot
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the API
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        - in: path
+          name: screenshot_id
+          description: id for the screenshot
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - Screenshots
+        security: []
+    /api/{api_id}/tags/:
+      get:
+        summary: Get Tags for API
+        description: retrieve API tags
+        operationId: getAPITags
+        parameters:
+        - in: path
+          name: api_id
+          description: id for API
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - Tags
+        security: []
+      post:
+        summary: Add Tag for API
+        description: add tag to API
+        operationId: addAPITag
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the API
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: tag
+          description: tag name
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - Tags
+        security: []
+    /api/{api_id}/tags/{tag}:
+      delete:
+        summary: Delete Tag for API
+        description: delete an API tag
+        operationId: deleteAPITag
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the API
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        - in: path
+          name: tag
+          description: tag to remove from API
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - Tags
+        security: []
+    /api/{api_id}/urls/:
+      get:
+        summary: Get URLs for API
+        description: retrieve an APIs URLs
+        operationId: getAPIURLs
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the API
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - URLs
+        security: []
+      post:
+        summary: Add URL for API
+        description: add an API URL
+        operationId: addAPIURL
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the API
+          type: string
+          format: string
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+          type: string
+          format: string
+        - in: query
+          name: name
+          description: a name for the url
+          type: string
+          format: string
+        - in: query
+          name: type
+          description: type of url
+          type: string
+          format: string
+        - in: query
+          name: url
+          description: the url
+          type: string
+          format: string
+        responses:
+          200:
+            description: OK
+        tags:
+        - URLs
+        security: []
+    /api/{api_id}/urls/{url_id}/:
+      delete:
+        summary: Delete URL for API
+        description: delete an API URL
+        operationId: deleteAPIURL
+        parameters:
+        - in: path
+          name: api_id
+          description: id for the api
+        - in: query
+          name: appid
+          description: your appid for accessing the API
+        - in: query
+          name: appkey
+          description: your appkey for accessing the API
+        - in: path
+          name: url_id
+          description: id for the url
+        responses:
+          200:
+            description: OK
+        tags:
+        - URLs
+        security: []
+  definitions:
+    api:
+      properties:
+        api_id:
+          description: This is a default description.
+          type: get
+        title:
+          description: This is a default description.
+          type: get
+        link:
+          description: This is a default description.
+          type: get
+        item_date:
+          description: This is a default description.
+          type: get
+        details:
+          description: This is a default description.
+          type: get
+        status:
+          description: This is a default description.
+          type: get
+        public_comment:
+          description: This is a default description.
+          type: get
+        original_date:
+          description: This is a default description.
+          type: get
+        author:
+          description: This is a default description.
+          type: get
+        processed:
+          description: This is a default description.
+          type: get
+        domain:
+          description: This is a default description.
+          type: get
+        screenshot_url:
+          description: This is a default description.
+          type: get
+        resolved_url:
+          description: This is a default description.
+          type: get
+        weekly_summary:
+          description: This is a default description.
+          type: get
+        weekly_roundup:
+          description: This is a default description.
+          type: get
+    tag:
+      properties:
+        tag_id:
+          description: This is a default description.
+          type: get
+        tag:
+          description: This is a default description.
+          type: get
+        api_count:
+          description: This is a default description.
+          type: get
+    note:
+      properties:
+        note_id:
+          description: This is a default description.
+          type: get
+        type:
+          description: This is a default description.
+          type: get
+        note:
+          description: This is a default description.
+          type: get
+    snippet:
+      properties:
+        content:
+          description: This is a default description.
+          type: get
+    url:
+      properties:
+        note_id:
+          description: This is a default description.
+          type: get
+        type:
+          description: This is a default description.
+          type: get
+        url:
+          description: This is a default description.
+          type: get
+        name:
+          description: This is a default description.
+          type: get
+    image:
+      properties:
+        api_id:
+          description: This is a default description.
+          type: get
+        image_id:
+          description: This is a default description.
+          type: get
+        name:
+          description: This is a default description.
+          type: get
+        path:
+          description: This is a default description.
+          type: get
+        type:
+          description: This is a default description.
+          type: get
+    screenshot:
+      properties:
+        api_id:
+          description: This is a default description.
+          type: get
+        screenshot_id:
+          description: This is a default description.
+          type: get
+        name:
+          description: This is a default description.
+          type: get
+        path:
+          description: This is a default description.
+          type: get
+        type:
+          description: This is a default description.
+          type: get
+    buildingblock:
+      properties:
+        api_id:
+          description: This is a default description.
+          type: get
+        building_block_id:
+          description: This is a default description.
+          type: get
+        organization_id:
+          description: This is a default description.
+          type: get
+        tool_id:
+          description: This is a default description.
+          type: get
+        url:
+          description: This is a default description.
+          type: get
+    log:
+      properties:
+        api_id:
+          description: This is a default description.
+          type: get
+        type:
+          description: This is a default description.
+          type: get
+        note:
+          description: This is a default description.
+          type: get
+        details:
+          description: This is a default description.
+          type: get
+        log_date:
+          description: This is a default description.
+          type: get
+    definition:
+      properties:
+        url:
+          description: This is a default description.
+          type: get
+    parameters:
+      properties:
+        body:
+          description: This is a default description.
+          type: get

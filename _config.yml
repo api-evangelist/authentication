@@ -38,9 +38,9 @@ navigation:
   - label1: Home
     link1: /index.html
     size1: 80
-    extend: 0
-    label2:
-    link2:
+    extend: 1
+    label2: 2
+    link2: /inde2.html
     size2: 0
     padding: 0
     decorate: 0
@@ -70,7 +70,7 @@ navigation:
     link2: /data/buildingblocks.json
     size2: 60
     padding: 0
-    decorate: 0    
+    decorate: 0
   - label1: Return to API Evangelist
     link1: http://apievangelist.com
     size1: 80

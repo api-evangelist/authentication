@@ -20,11 +20,11 @@
           <ul class="colophon-links">
             {% for nav in site.navigation %}
             <li style="padding-top:{{ nav.padding }}px">
-              <a href="{{ nav.link1 }}" style="font-size: {{ nav.size1 }}%;">
+              <a href="{{ site.url }}{{ nav.link1 }}" style="font-size: {{ nav.size1 }}%;">
                 {% if nav.decorate == 1 %} <span style="font-size: {{ nav.size1 }}">&#8668;</span>{% endif %}
                 {{ nav.label1 }}
               </a>
-              {% if nav.extend == 1 %} <span style="font-size: {{ nav.size2 }}%;">(<a href="{{ nav.link2 }}">{{ nav.label2 }}</a>)</span>{% endif %}
+              {% if nav.extend == 1 %} <span style="font-size: {{ nav.size2 }}%;">(<a href="{{ site.url }}{{ nav.link2 }}">{{ nav.label2 }}</a>)</span>{% endif %}
             </li>
             {% endfor %}
           </ul>
@@ -33,7 +33,7 @@
         <!-- Sponsorship -->
         <script id="parterListingTemplate" type="text/template">
             {% raw  %}
-            <a href="{{url}}" target="_blank" title="{{title}}">
+            <a href="{{ site.repo }}/{{url}}" target="_blank" title="{{title}}">
            		<img src="{{logo}}" width="{{width}}" style="padding: 2px;" />
             </a>
             {% endraw %}
@@ -56,13 +56,13 @@
       </div>
     </header>
 
-    <div class="content container">
+    <div class="content uicontainer">
 
       <p align="center"><a href="{{ site.url }}"><img src="{{ site.logo }}" align="center" width="{{ site.logo_width }}%" style="padding-bottom: {{ site.logo_bottom_padding }}px;" /></a></p>
 
       {{ content }}
 
-      <center><hr style="padding: 5px 5px 5px 5px; margin: 5px; width: 85%;" /></center>
+      <center><hr style="padding: 5px 5px 5px 5px; margin: 20px 5px 5px 5px; width: 85%;" /></center>
   		<!-- 3scale -->
   		<p align="center">
     		<a href="http://apis.how/ake3nxbapm" target="_blank" title="API Infrastructure From 3Scale">
@@ -93,36 +93,6 @@
 	    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
 	    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 	  })();
-
-	  function checkLinkRot()
-	    {
-	    var linkArray = [];
-	    var links = document.getElementsByTagName("a");
-	    for(var i=0; i<links.length; i++) {
-	        linkArray.push(links[i].href);
-	    }
-	    url = "http://linkrot.api.laneworks.net/v1/links/";
-	    var myJsonString = JSON.stringify(linkArray);
-	    $.ajax({
-	        type: "POST",
-	        url: url,
-	        data: myJsonString,
-	        success: function (data) {
-	             $.each(data, function($Key,$Value) {
-	                $URL = $Value['URL'];
-	                $returnURL = $Value['returnURL'];
-	                var links = document.getElementsByTagName("a");
-	                for(var i=0; i<links.length; i++) {
-	                    if(links[i].href==$URL)
-	                        {
-	                        document.getElementsByTagName("a")[i].href=$returnURL;
-	                        }
-	                     }
-	             });
-	        }
-	       });
-	    }
-
 	</script>
 
 	<!-- Google Code for API Evangelist visitors -->
@@ -141,12 +111,6 @@
 	   <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/964245031/?value=1.000000&amp;label=U2foCJGT0wkQp-zkywM&amp;guid=ON&amp;script=0"/>
 	</div>
 	</noscript>
-
-  <script type="text/javascript">
-    // project view log
-  	$url = "http://project.api.kinlane.com/project/view/";
-  	$vlog = $.post($url, function() {});
-  </script>
 
   </body>
 
