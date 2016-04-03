@@ -1,40 +1,32 @@
 [{
-	"name": "APIs",
-	"description": "This is my API for working with the APIs I track on. I use this API to add, update, and delete the APIs, their details, an I am working to create as many API focused endpoints, which let me manage even more APIs, whether they are mine or other publicly available APIs I am interested in.",
-	"image": "https://s3.amazonaws.com/kinlane-productions/api-commons/api-commons-icon.png",
+	"name": "Authentication",
+	"description": "",
+	"image": "https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-authentication-2.png",
 	"x-open-ranking": "0",
-	"tags": ["Kin Lane API API"],
-	"created": "2016-04-02",
-	"modified": "2016-04-02",
-	"url": "http://kin-lane.github.io/api/"
+	"tags": ["Authentication"],
+	"created": "2016-04-03",
+	"modified": "2016-04-03",
+	"url": "http://authentication.apievangelist.com"
 	"specificationVersion": "0.14",
 	"apis": [{
-		"name": "Kin Lane API",
-		"description": "<p><span>This is my API for working with the APIs I track on. I use this API to add, update, and delete the APIs, their details, an I am working to create as many API focused endpoints, which let me manage even more APIs, whether they are mine or other publicly available APis I am interested in.</span></p>",
-		"image": "http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kin.png",
-		"humanURL": "http://kin-lane.github.io/api/",
-		"baseURL": "/",
-		"tags": ["Kin Lane API API"],
+		"name": "API Evangelist - Authentication API",
+		"description": "This is my professional presence as the API Evangelist, where I work to better understand the world of APIs. Im always working towards a better understanding of how they are being used, both the good and the bad, across the technology, business, and politics of APIs as I see it.",
+		"image": "https://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png",
+		"humanURL": "",
+		"baseURL": "http://api.apievangelist.com",
+		"tags": ["Authentication"],
 		"properties": [{
 			"type": "x-openapi-spec",
 			"url": "api-commons/openapi-spec.json"
 		}]
 	}],
 	"x-common": [{
-		"type": "x-blog-rss-feed",
-		"url": "http://www.talkwalker.com/alerts/rss/NG2GCZBIIN4ULOCFJRSUK6EIY2AZLCE2YTABNE6EHW4OAA2B53FA%3D%3D%3D%3D"
-	},
-	{
-		"type": "x-authentication-overview",
-		"url": "authentication/"
-	},
-	{
 		"type": "x-base-url-for-api",
-		"url": "http://api.kinlane.com"
+		"url": "http://api.apievangelist.com"
 	},
 	{
 		"type": "x-blog",
-		"url": "blog/"
+		"url": "/blog"
 	},
 	{
 		"type": "x-blog-rss-feed",
@@ -46,7 +38,7 @@
 	},
 	{
 		"type": "x-portal",
-		"url": "https://kin-lane.github.io"
+		"url": "http://developer.apievangelist.com"
 	},
 	{
 		"type": "x-documentation",
@@ -62,7 +54,7 @@
 	},
 	{
 		"type": "x-github",
-		"url": "https://github.com/kinlane"
+		"url": "https://github.com/api-evangelist"
 	},
 	{
 		"type": "x-issues",
@@ -102,15 +94,11 @@
 	},
 	{
 		"type": "x-twitter",
-		"url": "https://twitter.com/kinlane"
-	},
-	{
-		"type": "x-api-plan",
-		"url": "api-commons/api-plan.json"
+		"url": "https://twitter.com/apievangelist"
 	}],
 	"include": [{
 		"name": "Parent",
-		"url": "http://kin-lane.github.io/api//apis.yaml"
+		"url": "http://authentication.apievangelist.com/apis.yaml"
 	}],
 	"maintainers": [{
 		"FN": "Kin Lane",
