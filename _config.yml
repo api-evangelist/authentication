@@ -39,8 +39,8 @@ navigation:
     link1: /index.html
     size1: 80
     extend: 1
-    label2: 2
-    link2: /inde2.html
+    label2: Two
+    link2: /index2.html
     size2: 0
     padding: 0
     decorate: 0
