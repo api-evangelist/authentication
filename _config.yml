@@ -18,6 +18,16 @@ paginate_path: "/news/page:num/"
 categories_path : /categories.html
 tags_path : /tags.html
 
+org: api-evangelist
+repo: authentication
+resource: authentication
+oauthio: qUDL4eZqKPFb41SwuWIYIwLR6jI
+
+get_color: 009900
+post_color: 0000ff
+put_color: FF0080
+delete_color: FF9900
+
 # Masthead title
 masthead_link: http://authentication.apievangelist.com
 masthead_font_size: 80
