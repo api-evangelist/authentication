@@ -6,7 +6,7 @@
     "termsOfService": "http://kinlane.com/terms-of-service.html",
     "version": "v1"
   },
-  "host": "authentication.authentication.authenticationevangelist.com",
+  "host": "authentication.api.apievangelist.com",
   "basePath": "/",
   "schemes": [
     "http"
@@ -41,6 +41,13 @@
             "description": "a text query to search across authentication entries",
             "type": "string",
             "format": "string"
+          },
+          {
+            "in": "query",
+            "name": "host",
+            "description": "host for the authentication entry",
+            "type": "string",
+            "format": "string"
           }
         ],
         "responses": {
@@ -72,42 +79,49 @@
         "operationId": "addAuthentication",
         "parameters": [
           {
-            "in": "formData",
+            "in": "query",
             "name": "appid",
             "description": "your appid for accessing the API",
             "type": "string",
             "format": "string"
           },
           {
-            "in": "formData",
+            "in": "query",
             "name": "appkey",
             "description": "your appkey for accessing the API",
             "type": "string",
             "format": "string"
           },
           {
-            "in": "formData",
+            "in": "query",
+            "name": "host",
+            "description": "host of the authentication entry",
+            "type": "string",
+            "format": "string"
+          },
+          {
+            "in": "query",
             "name": "title",
             "description": "title of the authentication entry",
             "type": "string",
             "format": "string"
           },
           {
-            "in": "formData",
+            "in": "query",
             "name": "image",
             "description": "image for the authentication entry",
             "type": "string",
             "format": "string"
           },
           {
-            "in": "formData",
+            "in": "query",
             "name": "header",
             "description": "header for the authentication entry",
             "type": "string",
             "format": "string"
           },
           {
-            "in": "formData",
+            "in": "query",
             "name": "footer",
             "description": "footer for the authentication entry",
             "type": "string",
@@ -162,6 +176,13 @@
             "in": "query",
             "name": "appkey",
             "description": "your appkey for accessing the API",
+            "type": "string",
+            "format": "string"
+          },
+          {
+            "in": "query",
+            "name": "host",
+            "description": "host for the authentication entry",
             "type": "string",
             "format": "string"
           }
@@ -245,44 +266,242 @@
         "operationId": "updateAuthentication",
         "parameters": [
           {
-            "in": "formData",
+            "in": "query",
             "name": "appid",
             "description": "your appid for accessing the API",
             "type": "string",
             "format": "string"
           },
           {
-            "in": "formData",
+            "in": "query",
             "name": "appkey",
             "description": "your appkey for accessing the API",
             "type": "string",
             "format": "string"
           },
           {
-            "in": "formData",
+            "in": "query",
             "name": "title",
             "description": "title of the authentication entry",
             "type": "string",
             "format": "string"
           },
           {
-            "in": "formData",
+            "in": "query",
             "name": "image",
             "description": "image for the authentication entry",
             "type": "string",
             "format": "string"
           },
           {
-            "in": "formData",
+            "in": "query",
             "name": "header",
             "description": "header for the authentication entry",
             "type": "string",
             "format": "string"
           },
           {
-            "in": "formData",
+            "in": "query",
             "name": "footer",
             "description": "footer for the authentication entry",
+            "type": "string",
+            "format": "string"
+          },
+          {
+            "in": "query",
+            "name": "host",
+            "description": "host for the authentication entry",
+            "type": "string",
+            "format": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "authentication response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/authentication"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Authentication"
+        ],
+        "security": [
+          {
+            "appid": []
+          },
+          {
+            "appkey": []
+          }
+        ]
+      }
+    },
+    "/authentication/{authentication_id}/keys/": {
+      "post": {
+        "summary": "Add Authentication Key",
+        "description": "Add authentication key",
+        "operationId": "addAuthenticationKey",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "appid",
+            "description": "your appid for accessing the API",
+            "type": "string",
+            "format": "string"
+          },
+          {
+            "in": "query",
+            "name": "appkey",
+            "description": "your appkey for accessing the API",
+            "type": "string",
+            "format": "string"
+          },
+          {
+            "in": "query",
+            "name": "authentication_id",
+            "description": "unique id of the authentication entry",
+            "type": "string",
+            "format": "string"
+          },
+          {
+            "in": "query",
+            "name": "name",
+            "description": "name of the authentication entry key",
+            "type": "string",
+            "format": "string"
+          },
+          {
+            "in": "query",
+            "name": "description",
+            "description": "description for the authentication entry key",
+            "type": "string",
+            "format": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "authentication response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/keys"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Keys"
+        ],
+        "security": [
+          {
+            "appid": []
+          },
+          {
+            "appkey": []
+          }
+        ]
+      }
+    },
+    "/authentication/{host}/default/": {
+      "post": {
+        "summary": "Set Default Authentication For Host",
+        "description": "set default authentication for host",
+        "operationId": "setDefaultAuthenticationForHost",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "appid",
+            "description": "your appid for accessing the API",
+            "type": "string",
+            "format": "string"
+          },
+          {
+            "in": "query",
+            "name": "appkey",
+            "description": "your appkey for accessing the API",
+            "type": "string",
+            "format": "string"
+          },
+          {
+            "in": "query",
+            "name": "authentication_id",
+            "description": "unique id of the authentication entry",
+            "type": "string",
+            "format": "string"
+          },
+          {
+            "in": "query",
+            "name": "name",
+            "description": "name of the authentication entry key",
+            "type": "string",
+            "format": "string"
+          },
+          {
+            "in": "query",
+            "name": "description",
+            "description": "description for the authentication entry key",
+            "type": "string",
+            "format": "string"
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "authentication response",
+            "schema": {
+              "type": "array",
+              "items": {
+                "$ref": "#/definitions/keys"
+              }
+            }
+          }
+        },
+        "tags": [
+          "Keys"
+        ],
+        "security": [
+          {
+            "appid": []
+          },
+          {
+            "appkey": []
+          }
+        ]
+      }
+    },
+    "/authentication/{host}/": {
+      "get": {
+        "summary": "Get Authentication by Host",
+        "description": "retrieves all authentication entries by host",
+        "operationId": "getAuthentication",
+        "parameters": [
+          {
+            "in": "query",
+            "name": "appid",
+            "description": "your appid for accessing the API",
+            "type": "string",
+            "format": "string"
+          },
+          {
+            "in": "query",
+            "name": "appkey",
+            "description": "your appkey for accessing the API",
+            "type": "string",
+            "format": "string"
+          },
+          {
+            "in": "query",
+            "name": "query",
+            "description": "a text query to search across authentication entries",
+            "type": "string",
+            "format": "string"
+          },
+          {
+            "in": "query",
+            "name": "host",
+            "description": "host for the authentication entry",
             "type": "string",
             "format": "string"
           }
@@ -317,23 +536,23 @@
       "properties": {
         "authentication_id": {
           "description": "The unique id for the authentication entry.",
-          "type": "get"
+          "type": "string"
         },
         "title": {
           "description": "The title for the authentication entry.",
-          "type": "get"
+          "type": "string"
         },
         "image": {
           "description": "The image for the authentication entry.",
-          "type": "get"
+          "type": "string"
         },
         "header": {
           "description": "The header for the authentication entry.",
-          "type": "get"
+          "type": "string"
         },
         "footer": {
           "description": "The footer for the authentication entry.",
-          "type": "get"
+          "type": "string"
         },
         "keys": {
           "description": "The keys for the authentication entry.",
