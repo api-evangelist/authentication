@@ -38,9 +38,9 @@ navigation:
   - label1: Home
     link1: /index.html
     size1: 80
-    extend: 1
-    label2: Two
-    link2: /index2.html
+    extend: 0
+    label2:
+    link2:
     size2: 0
     padding: 0
     decorate: 0
@@ -52,15 +52,6 @@ navigation:
     link2: /blog.xml
     size2: 60
     padding: 5
-    decorate: 0
-  - label1: Organizations
-    link1: /organizations/
-    size1: 80
-    extend: 1
-    label2: JSON
-    link2: /data/companies.json
-    size2: 60
-    padding: 0
     decorate: 0
   - label1: Building Blocks
     link1: /building-blocks/
