@@ -1,5 +1,9 @@
 - name: Authentication
-  description: ""
+  description: This is my work to track on the standard approaches to providing authentication
+    for APIs. As I do with all my research areas, I aggregate the approaches I find,
+    and share the information here. REcently I am working to standardize some of this,
+    and apply to my open APIs, while sharing the information tools, and APIs I create
+    along the way.
   image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-authentication-2.png
   x-open-ranking: "0"
   tags:
@@ -9,11 +13,12 @@
   url: ""
   specificationVersion: "0.14"
   apis:
-  - name: API Evangelist - Authentication API
-    description: This is my professional presence as the API Evangelist, where I work
-      to better understand the world of APIs. Im always working towards a better understanding
-      of how they are being used, both the good and the bad, across the technology,
-      business, and politics of APIs as I see it.
+  - name: API Evangelist Authentication API
+    description: <p>This is my work to track on the standard approaches to providing
+      authentication for APIs. As I do with all my research areas, I aggregate the
+      approaches I find, and share the information here. REcently I am working to
+      standardize some of this, and apply to my open APIs, while sharing the information
+      tools, and APIs I create along the way.</p>
     image: https://s3.amazonaws.com/kinlane-productions/api-evangelist/t-shirts/KL_InApiWeTrust-1000.png
     humanURL: ""
     baseURL: http://api.apievangelist.com
