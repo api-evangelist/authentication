@@ -37,7 +37,7 @@
 						"description": "OK"
 					}
 				},
-				"tags": [""],
+				"tags": ["Authentication"],
 				"security": []
 			},
 			"post": {
@@ -79,7 +79,7 @@
 						"description": "OK"
 					}
 				},
-				"tags": [""],
+				"tags": ["Authentication"],
 				"security": []
 			}
 		},
@@ -108,7 +108,7 @@
 						"description": "OK"
 					}
 				},
-				"tags": [""],
+				"tags": ["Authentication"],
 				"security": []
 			},
 			"get": {
@@ -135,7 +135,7 @@
 						"description": "OK"
 					}
 				},
-				"tags": [""],
+				"tags": ["Authentication"],
 				"security": []
 			},
 			"put": {
@@ -177,7 +177,7 @@
 						"description": "OK"
 					}
 				},
-				"tags": [""],
+				"tags": ["Authentication"],
 				"security": []
 			}
 		}
