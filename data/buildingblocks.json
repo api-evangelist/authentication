@@ -1,2 +1,37 @@
 [
+	{
+		"id": "RzagSPMvqLGXv16lczX4do0123JTOMM116x123tWMM503vuU0117",
+		"name": "Authentication",
+		"categories": [
+			{
+				"id": "nRWeWRTxZOrmadY9lXewBsMTtrr7lDdxV0h3Qah8Hs4117",
+				"name": "Overview",
+				"about": "Authentication is central to many other lines of the API life cycle. There are several common elements present in modern API solutions that address authentication.",
+				"building_blocks": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"id": "nyTgU1165wABm4ih4NhFsoZ01Bxm3oK802Wnks4nh9A4U117",
+				"name": "Approaches",
+				"about": "There are a handful of approaches to authentication that have been embraced by leading APIs, as well as the overall industry.",
+				"building_blocks": [
+				],
+				"questions": [
+				]
+			},
+			{
+				"id": "VelliThkw3dqvv123muRbOrfVuSkm97mZDaff6v9J11eM117",
+				"name": "Additional",
+				"about": "Any additional considerations when it comes to API Authentication for providers, and consumers.",
+				"building_blocks": [
+				],
+				"questions": [
+				]
+			}
+		],
+		"questions": [
+		]
+	}
 ]
