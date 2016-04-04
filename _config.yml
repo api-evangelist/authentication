@@ -54,7 +54,7 @@ navigation:
     padding: 5
     decorate: 0
   - label1: APIs
-    link1: /apis/
+    link1: /api/
     size1: 80
     extend: 1
     label2: JSON
