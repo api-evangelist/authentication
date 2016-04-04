@@ -34,7 +34,7 @@
           200:
             description: OK
         tags:
-        - ""
+        - Authentication
         security: []
       post:
         summary: Add Authentication
@@ -63,7 +63,7 @@
           200:
             description: OK
         tags:
-        - ""
+        - Authentication
         security: []
     /authentication/{authentication_id}/:
       delete:
@@ -84,7 +84,7 @@
           200:
             description: OK
         tags:
-        - ""
+        - Authentication
         security: []
       get:
         summary: Get Authentication
@@ -104,7 +104,7 @@
           200:
             description: OK
         tags:
-        - ""
+        - Authentication
         security: []
       put:
         summary: Update Authentication
@@ -133,7 +133,7 @@
           200:
             description: OK
         tags:
-        - ""
+        - Authentication
         security: []
   definitions:
     authentication:
