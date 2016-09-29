@@ -1,9 +1,281 @@
 [
 	{
+		"curated_id": "GYHieTKtsqjW4d116hmVRiTvXYm1239CjeWdxckk2SOjkDckaAoJGhyOOUpeWUfWzIVEhJG2AsejRfhVIsD116Ee2Z116Q117117",
+		"item_date": "2016-09-22 00:00:00",
+		"title": "Apache Shiro Stormpath Integration 071 Released",
+		"url": "https://stormpath.com/blog/apache-shiro-stormpath-0-7-1",
+		"domain": "stormpath.com",
+		"image": ""
+	},
+	{
+		"curated_id": "7OHBf56VlLPfOkMrGxuVDKoX0H3piyFWXal7x1238XkmG123dTjq0QWz1167NIvIKUfwCmvrn41wI6A2JMd4Jv4aNWEA117117",
+		"item_date": "2016-09-19 00:00:00",
+		"title": "Twostep authentication has arrived on iOS",
+		"url": "http://www.xero.com/blog/2016/09/two-step-authentication-arrived-ios-2/",
+		"domain": "www.xero.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ssLi6IcJUxunuDPpJIQNgTcenQmlYeiepWeHafLzVHgl4GJB3saqgAhLWwHs9123123Z9jxY7d2DkF1XuoyCOp35jg117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "Moving from LDAP to SAML authentication",
+		"url": "http://blogs.splunk.com/2016/09/21/moving-from-ldap-to-saml-authentication/",
+		"domain": "blogs.splunk.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Sne7AQAkSflKMHoQmmGuQMK7xxUMiIHpdhPX44IEDaOCGDR66F116FuS5QNB807wjXvYCYN1BWgkxj7zSgPT12dQ117117",
+		"item_date": "2016-09-21 00:00:00",
+		"title": "Increased account security via OAuth 20 token revocation",
+		"url": "http://googleappsdeveloper.blogspot.com/2016/09/increased-account-security-via-oauth-2-0-token-revocation.html",
+		"domain": "googleappsdeveloper.blogspot.com",
+		"image": ""
+	},
+	{
+		"curated_id": "UjaNVyB25nX2jszgg6tnpBoZsgkxQxJ6UCGSyppeqn4116tPpf82oxmOOsUtMttkzR4XJJhPq116erwH8AlmitMfjg117117",
+		"item_date": "2016-09-15 13:00:06",
+		"title": "Tweet A personal hackathon with the goal of demystifying OAuth2 in a fun way The result  OZorkAuth httpstcojPezy5tGsj",
+		"url": "https://twitter.com/goStormpath/statuses/776510927730536448",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "JgvUKzaogslIr7sRgz4s9EZmwZFbTxXoLOeksbBiaeBof116oxLDnZ0uMt2Nwu123tNZfKmNJ9Wdy6rbBgih7gnJow117117",
+		"item_date": "2016-09-17 00:00:00",
+		"title": "Setting Expectations for Accessing User Data via OAuth",
+		"url": "http://googleappsdeveloper.blogspot.com/2016/09/setting-expectations-for-accessing-user-data-via-oauth.html",
+		"domain": "googleappsdeveloper.blogspot.com",
+		"image": ""
+	},
+	{
+		"curated_id": "BKNJ125iGYagNhMLGUk1166jbxFg8gWqvohB9jL3tDv8IHtrpsXGcn9Cso1uH0SvA22ehzBGWZsZz116P9123zv43AgA117117",
+		"item_date": "2016-09-14 00:00:00",
+		"title": "Intuit OAuth Server Maintenance on September 21st 2016  Some Action Required",
+		"url": "https://developer.intuit.com/hub/blog/2016/09/14/oauth-maintenance-september-21st-2016-action-required-java-v1-8_20-v1-8_59-v1-7_71-v1-7_84",
+		"domain": "developer.intuit.com",
+		"image": ""
+	},
+	{
+		"curated_id": "TRhfhcktD5QUh6t452Msfz5lh581167bowviD0xYN4ZH1WCkAx88116IztAMKJX1168a5Wozqhr8b00e8Ey123gajqbeJQ117117",
+		"item_date": "2016-09-08 11:51:00",
+		"title": "Tweet Intro to QuickBooks Online REST API with OAuth10 by manasmukh httpstcoK8vxfYB6q5 developer",
+		"url": "https://twitter.com/IntuitDev/statuses/773956822570971136",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "LHKLHYPqdfjr1RE116YqMHhSaw7116jJ0niIldLOkoIRMbKlBgYekPfCppYokfiyIml6V1WRobmzkyI1p62mkAe7lw117117",
+		"item_date": "2016-09-05 00:00:00",
+		"title": "Spring Security OAuth2  Client Authentication Issue",
+		"url": "https://dzone.com/articles/spring-security-oauth2-client-authentication-issue",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "4UNoU7yx7eN7KJEq9oJ5P123niRFcpA3Xu860OLjizasZmLIZq3Ar7AQvlfgkrF55lmCv2jrY5NcsKTVOEBNyMQQ117117",
+		"item_date": "2016-09-07 00:00:00",
+		"title": "Authenticating Users to Existing Applications with OpenIDConnect and NGINXPlus",
+		"url": "https://www.nginx.com/blog/authenticating-users-existing-applications-openid-connect-nginx-plus/",
+		"domain": "www.nginx.com",
+		"image": ""
+	},
+	{
+		"curated_id": "c6iEjWEzYI4N2ZKAGjaZKT3kYNGNxMTwXwsSgavs2ljV9mg123gX123peGcmTLMoERC79RQe8FnF41qpDOQEX5oFAg117117",
+		"item_date": "2016-09-08 10:50:19",
+		"title": "My SPA demo",
+		"url": "https://myapp-7175.restdb.io/public/index",
+		"domain": "myapp-7175.restdb.io",
+		"image": ""
+	},
+	{
+		"curated_id": "Jy8Wf3jWmRMYAkLg7Lk02n6C40rLt7dkkF0mSjbqdIvPKLyZsFbMXDYmExUQkM4km1kvKj2T123DzmcRwFA1165mUg117117",
+		"item_date": "2016-09-08 10:50:19",
+		"title": "Twitter",
+		"url": "https://twitter.com/restdbio/status/773941550141345793/photo/1",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hSL7YutlWb1P5PGvqxKXw1FbF2QngVOgucJfoLLmuunPvIZy0s1RPB28ye4DwiNiSFIXuwfYSQxLR3PSR0WZXQ117117",
+		"item_date": "2016-09-09 00:00:00",
+		"title": "Analyzing Passwordless Connections Data What can we learn",
+		"url": "https://auth0.com/blog/analysis-of-passwordless-connections/",
+		"domain": "auth0.com",
+		"image": ""
+	},
+	{
+		"curated_id": "NZ6iSVfuICvjOfHu1VGXEXE1233dC3tLYo5u116gHv972VRQZVBy7dkI3us2tiKp11674GBRdN116o79IqOvYPfB8rV7BA117117",
+		"item_date": "2016-09-08 00:00:00",
+		"title": "Use NGINX Plus and Auth0 to Authenticate API Clients",
+		"url": "https://auth0.com/blog/use-nginx-plus-and-auth0-to-authenticate-api-clients/",
+		"domain": "auth0.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WpugC8IuKa4h4Johf6iUq123Kp6123IWR2zcPnZKoYqOZqPuvpzisTh4rv123nGFzs6pzhM0uaJWMOZWzX7D3xkE5Fhw117117",
+		"item_date": "2016-08-30 00:00:00",
+		"title": "Oktas API access product targets the trend toward services",
+		"url": "http://www.pcworld.com/article/3114229/oktas-api-access-product-targets-the-trend-toward-services.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "aeEdVuJmC1162wXqC6JvTnZEiy5mpFGgrkEJsoN4U6kfgBNvlo2zkn8s93CqqP6ys5rNYdBz9LCunLuWyiU7Hlig117117",
+		"item_date": "2016-08-30 00:00:00",
+		"title": "Google partners with Okta to enable secure multicloud deployments",
+		"url": "http://www.zdnet.com/article/google-partners-with-okta-to-enable-secure-multi-cloud-deployments/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
+		"curated_id": "bqcQbLnPVHYtA32no2X04IQa116WpmRpLHfGER2By27SKj123E1123sSCOXvl2z8ZmyHWp4hQ9123LJ8vZtwXhtOhhmU5g117117",
+		"item_date": "2016-09-02 00:00:00",
+		"title": "OAuth Get Client Credentials Using Postman",
+		"url": "http://docs.brightcove.com/en/video-cloud/oauth-api/guides/get-client-credentials-postman.html",
+		"domain": "docs.brightcove.com",
+		"image": ""
+	},
+	{
+		"curated_id": "IDXlr6123VLlNibJq3kxAZHkFCkowSK123hIbQjrJADXZyHs123vFOQSuXkanO116iT5iNrEAGfVj2aXdjD116co116onDg116HA117117",
+		"item_date": "2016-08-31 00:00:00",
+		"title": "About license keys",
+		"url": "https://seap.samsung.com/license-keys/about",
+		"domain": "seap.samsung.com",
+		"image": ""
+	},
+	{
+		"curated_id": "e07116UHVKaCRDbQ9cGUr32KeR8YuLX0GirwLE4ctYPMOhyokq9CFQ6F6k1230SGmABGHHlqCToBLh2DR123YFG6V4yg117117",
+		"item_date": "2016-08-31 00:00:00",
+		"title": "Stateless Sessions for Stateful Minds JWTs Explained and How You Can Make The Switch",
+		"url": "https://auth0.com/blog/stateless-auth-for-stateful-minds/",
+		"domain": "auth0.com",
+		"image": ""
+	},
+	{
+		"curated_id": "tEG2Cu4D9yxQj0KypRSZv4T3xXTuzqQ1HvpsQThgthxwWxh1ta123Jwub8nokM5hzFmdd7Hs1167AG54Kx1twb7viA117117",
+		"item_date": "2016-08-28 00:00:00",
+		"title": "Login with Facebook  In 20 lines of PHP code ",
+		"url": "http://motyar.blogspot.com/2016/08/login-with-facebook-in-20-lines-of-php.html",
+		"domain": "motyar.blogspot.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Bu6RHqYZqFnCzZhsu8M1XmJkdN4FMTKN25sYYOm123dE2NESZ3m2QRihkcWwMP116JVXvhLdzKjyRo43I4guC3p0116g117117",
+		"item_date": "2016-08-25 00:00:00",
+		"title": "Announcing Auth0 Guardian Multifactor Made Easy",
+		"url": "https://auth0.com/blog/announcing-Auth0-Guardian-a-new-way-to-login/",
+		"domain": "auth0.com",
+		"image": ""
+	},
+	{
+		"curated_id": "NrICkhxExDrcsRtXaINrHwsFLLxIrI0ceZJI1234gIvwYrEnl123k123Mzuxg8rE0nmEnrnZWmEr18ZOSf1169Ag0FXfVw117117",
+		"item_date": "2016-08-25 00:00:00",
+		"title": "Heres Exactly Why SMS TwoFactor Is Not Enough",
+		"url": "https://continuum.cisco.com/2016/08/25/heres-exactly-why-sms-two-factor-is-not-enough/",
+		"domain": "continuum.cisco.com",
+		"image": ""
+	},
+	{
+		"curated_id": "7i6lpLGs3hQSDu06IBXPei123z123ngRY9q0j6oteedQIzLI1PuXPfwA064nuHR1ELZmyk116rxYbLvMIRcl123AJJbv8w117117",
+		"item_date": "2016-08-25 00:00:00",
+		"title": "PlayStation Network Gets TwoFactor Authentication",
+		"url": "http://www.pcmag.com/news/347329/playstation-network-gets-two-factor-authentication",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "279qndYtzga123yGTf9A13M2NGjQ1G123uFDVoO23yI5MNQewY3YtsYEO32adZIWzw6sv366Cd7ZVaVyyRSZN123oH2g117117",
+		"item_date": "2016-08-22 00:00:00",
+		"title": "2Step Verification is here",
+		"url": "http://www.freeagent.com/central/two-step-verification-is-here/",
+		"domain": "www.freeagent.com",
+		"image": ""
+	},
+	{
+		"curated_id": "D7FDB3kixSaB116yas32sX56fXO5YUHdRSl3vlEwfq1237wKdsAH1167r4lPMO64GDZu3bVb6adwMRecTJ6FY0kwXWOw117117",
+		"item_date": "2016-08-24 08:40:03",
+		"title": "Authentication startup Auth0 raises 15M as it beefs up security features",
+		"url": "https://techcrunch.com/2016/08/24/auth0-series-b/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "fjiaaC123VyR6YHB6z3HKShJBxA3X7FBmuHFOh1Nbzq0DmsNRE6mvnu2HFkTDIvXAft1163nqCwQKbdnOPCT3y41EA117117",
+		"item_date": "2016-08-24 00:00:00",
+		"title": "Announcing Password Breach Detection for Auth0",
+		"url": "https://auth0.com/blog/announcing-password-breach-detection/",
+		"domain": "auth0.com",
+		"image": ""
+	},
+	{
+		"curated_id": "f9l5G3ke6Yboz0s5WBFOoXcK8tsbAo2oqzz2VF6cEHd123vo4gW0vOlgD0wsFmubJxVHkIXdY1R5u9VQjE427lpA117117",
+		"item_date": "2016-08-17 00:00:00",
+		"title": "Rackspace Cloud Identity Api 20",
+		"url": "https://developer.rackspace.com/docs/cloud-identity/v2/",
+		"domain": "developer.rackspace.com",
+		"image": ""
+	},
+	{
+		"curated_id": "p12347WXytB2msmIb4jCKEOhbluMJ7VWSu01pbWjb6Zv6dcfzAdIJnLki1123DCT5uv6s5zGAPe116IXpCINJ6116rOUIg117117",
+		"item_date": "2016-08-18 00:00:00",
+		"title": "Complete AWS IAM Reference",
+		"url": "https://dzone.com/articles/complete-aws-iam-reference",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "k9VJGK1169PUGBIKo123ib97yJ9coLq32Qdc0Jny43ULdOXDA7123N0QW8cK4tWHTF116v123JDf1cFWyq123XJZuSVSGeXIAw117117",
+		"item_date": "2016-08-18 00:00:00",
+		"title": "Using HBase to Create an Enterprise Key Service",
+		"url": "http://blog.zaloni.com/using-hbase-to-create-an-enterprise-key-service",
+		"domain": "blog.zaloni.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5siZwsgcepuH4yJCaSEeTTE0123n1mDpUqh1exUy0xGDxBDT7NhGNZ4yKn2uMYjCjt7CEnouA3U1Q96p1L2A5JDA117117",
+		"item_date": "2016-08-11 00:00:00",
+		"title": "New  Bring Your Own Keys with AWS Key Management Service",
+		"url": "https://aws.amazon.com/blogs/aws/new-bring-your-own-keys-with-aws-key-management-service/",
+		"domain": "aws.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "f4cSh9gGCkt6ZQtktp6mQE2A7wl7jwAViV51L5C8qqe8NXfEvmukKLIBGhUHnGewXVDzXAIYlWFXoj9a116T0EfQ117117",
+		"item_date": "2016-08-11 00:00:00",
+		"title": "Enhanced thirdparty access protection for Google Sheets",
+		"url": "http://googleappsdeveloper.blogspot.com/2016/08/enhanced-third-party-access-protection.html",
+		"domain": "googleappsdeveloper.blogspot.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Qp8aNdMfoR116BhCjdcfGv1k123B1sX116OYh116YcD123K0ldA116sPNvVqIag2BNtWPlFq8hxyacxqOAtwIVs06R116Frn73Iw117117",
+		"item_date": "2016-08-11 00:00:00",
+		"title": "New Import Your Own Keys into AWS Key Management Service",
+		"url": "https://blogs.aws.amazon.com/security/post/TxBGJCU9X1DWJX/New-Import-Your-Own-Keys-into-AWS-Key-Management-Service",
+		"domain": "blogs.aws.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "b5oJIySFWwkVF116WEXvTFUkGjHNHmyh2ppTUFZRBpFhxStlEXVDJnzaphvjaOt52lcy4rHSvhn67ospJ5DcVCIA117117",
+		"item_date": "2016-08-04 00:00:00",
+		"title": "JSON Web TokensJWTs vs Sessions in Practice",
+		"url": "https://auth0.com/jwts-vs-sessions-in-practice/.html",
+		"domain": "auth0.com",
+		"image": ""
+	},
+	{
+		"curated_id": "otJr123LWHaLyxG116vZXjdf6lU123qZHCvccoOLln8QoWODbE123BFCboBu6N0vqCEsotolFH0123HmAUXhW6svqP3IjcBA117117",
+		"item_date": "2016-08-07 00:00:00",
+		"title": "OAuth 20 Token Management With Stormpath and Spring Boot",
+		"url": "https://dzone.com/articles/oauth2-token-management-with-stormpath-and-spring",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "123dfGN7ayXDUnFQ116123qSggMvxezF7F0szkeqPX71ZkYoHAcrUrX4123oF2NNWaMwajQ1GVjVsxmjK11644K373MamYZQ117117",
 		"item_date": "2016-08-09 00:00:00",
 		"title": "Cookie Authentication and Session Management",
-		"url": "https://dzone.com/articles/cookie-authentication-and-session-management?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"url": "https://dzone.com/articles/cookie-authentication-and-session-management",
 		"domain": "dzone.com",
 		"image": ""
 	},
@@ -19,7 +291,7 @@
 		"curated_id": "yIJJTHZQeUzE116Wx3CU6i7rBmUmg9WN7aAepr8Qxmie9dyzScG2TIJmsD1aZdsGVbiEdcTepOjjZAGwJQn2dTNQ117117",
 		"item_date": "2016-08-09 00:00:00",
 		"title": "New feature Assign rights by service",
-		"url": "http://www.3scale.net/2016/08/new-feature-assign-rights-by-service/",
+		"url": "https://www.3scale.net/2016/08/new-feature-assign-rights-by-service/",
 		"domain": "www.3scale.net",
 		"image": ""
 	},
