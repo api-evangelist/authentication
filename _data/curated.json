@@ -1,10 +1,114 @@
 [
 	{
+		"curated_id": "lDAH1gazNY89Vu38miSy6DlcmkoY94ZcUBSWz123tzTpxlvMJp0ad6slLaIyMyL116ooPpX6ju7lvWpGmrBN116JkB3A117117",
+		"item_date": "2016-09-30 16:08:31",
+		"title": "Announcing MultiFactor Authentication in Stormpath  Stormpath User Identity API",
+		"url": "https://stormpath.com/blog/announcing-multi-factor-authentication-in-stormpath",
+		"domain": "stormpath.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YIAIaC3mFigE4tKYO58VvmBZ010w6xWZO6ym0DQRBP1ha116qB88TedIal1165UNHHZzBy9BVc8280FBWsyvOU9JbQ117117",
+		"item_date": "2016-09-26 00:00:00",
+		"title": "Google embraces the login leaving cookies behind in new advertising updates",
+		"url": "https://techcrunch.com/2016/09/26/google-ads/",
+		"domain": "techcrunch.com",
+		"image": ""
+	},
+	{
+		"curated_id": "zq1KcArA0YSVdjEnfZaoBLvrM4NlIsPLz0FymLKCfGegVCEbiLFhxq3aRC1238tYLsrFpS123nydP5LSd123GpfVaL2Q117117",
+		"item_date": "2016-09-27 00:00:00",
+		"title": "Identity Management in Spring Boot with Twilio and Stormpath in 15 Minutes",
+		"url": "https://stormpath.com/blog/identity-management-spring-boot-twilio",
+		"domain": "stormpath.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Ipx5L7TNsKEk116eoBZv25RPrzP36wKIHAHCnKq12369pXUbhze1168bDEuz75qsEEORh120CbNK7wM116eMHKchJmJSdw117117",
+		"item_date": "2016-09-27 00:00:00",
+		"title": "Mobile Fraud Changes Outlook for Multifactor Authentication",
+		"url": "http://www.darkreading.com/mobile/mobile-fraud-changes-outlook-for-multifactor-authentication/a/d-id/1327001",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "3K116yeAAyOsPMcbYPoiFFJBCeaEqEt8cvu75axU47iCrG61X03czQmUUxITl1DXzwTDmHiuwjvl6Ebwr6Osxcbg117117",
+		"item_date": "2016-09-27 00:00:00",
+		"title": "BeyondTrust Announces Password Management API",
+		"url": "http://www.programmableweb.com/news/beyondtrust-announces-password-management-api/brief/2016/09/27",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
 		"curated_id": "c2x6QgAmyU7bx123YUYxRiKj17FlzXgNyMug7ht7PffoEgGXZofBLp11694xCaJ123Zh9APteI5OsES2MDFfnvslINVw117117",
 		"item_date": "2016-09-30 00:00:00",
 		"title": "Lock Up Your Raspberry Pi with Google Authenticator",
 		"url": "https://hackaday.com/2016/09/30/lock-up-your-raspberry-pi-with-help-from-google/",
 		"domain": "hackaday.com",
+		"image": ""
+	},
+	{
+		"curated_id": "cXeHbZot3x3oD116IJVPb6XhGGW0AFRMjgcnWY123WBog8X77GqCtEZbjzO1tYOPjMxRJZGWqh116gxb7Lm2WtAm8bHg117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "Increased account security via OAuth 20 token revocation",
+		"url": "https://gsuite-developers.googleblog.com/2016/09/increased-account-security-via-oauth-2-0-token-revocation.html",
+		"domain": "gsuite-developers.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "eH123f6JRMCFTZZBTFxeEfpTBcCjWRRClEGUGfhTXKEfGtAmwOLS6S9TFSIOoFeV0L6p123Rn3bliaRL5IFByPFKjw117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "Setting Expectations for Accessing User Data via OAuth",
+		"url": "https://gsuite-developers.googleblog.com/2016/09/setting-expectations-for-accessing-user-data-via-oauth.html",
+		"domain": "gsuite-developers.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "lczqdch6696mPdL3IYRGzvD5LcQ116qHAuVskHKHWwbGvBfAImJ123r8P80mNvwpri116d1SslP0L0uEXjwPRvdXJwPg117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "Enhanced thirdparty access protection for Google Sheets",
+		"url": "https://gsuite-developers.googleblog.com/2016/08/enhanced-third-party-access-protection.html",
+		"domain": "gsuite-developers.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "QwdAYQtiINrCKTsHQOu4TGDksnx0PT8s98YyewFtt7PFedJaftQSC11MIekIO5116gtfg8VVimQ0LpNg53PXGP0A117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "Saying goodbye to OAuth 10 2LO",
+		"url": "https://gsuite-developers.googleblog.com/2016/04/saying-goodbye-to-oauth-10-2lo.html",
+		"domain": "gsuite-developers.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "fvzptxzDbyzOju1FFrOb7GkcZdXo3xGXXFE8b2116Xo4FVbeWKFJw7qOeTTJtx12ANU9VFrt6BZw2xJTJ1168LDNTA117117",
+		"item_date": "2016-09-29 10:39:47",
+		"title": "Using API Gateways and JWTs for Identity Management in Microservice Based APIs",
+		"url": "https://medium.com/@nicklee1/using-api-gateways-and-jwts-for-identity-management-in-microservice-based-apis-9ba275864cef#.j9x64novb",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Mv19RA116TsMhFmbyS116VI5yu8GKZqQWSfnM0Jq7JoBcoRROd9XY71i26NUCKF6123Qk7CSp0xZW7LKxVKhTEPG39lg117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "Angular 2 Authentication Tutorial",
+		"url": "https://auth0.com/blog/angular-2-authentication/",
+		"domain": "auth0.com",
+		"image": ""
+	},
+	{
+		"curated_id": "a3123B3VB9116C28lnCHbRPC123116tRK116QGMFvUNYdQ123n83Yo0B0jc1At54yLGXknsWydSxL0dXVFKZ3nwH9123TswG0t2A117117",
+		"item_date": "2016-09-29 00:00:00",
+		"title": "Announcing the Sovrin Foundation",
+		"url": "http://www.windley.com/archives/2016/09/announcing_the_sovrin_foundation.shtml",
+		"domain": "www.windley.com",
+		"image": ""
+	},
+	{
+		"curated_id": "xdPX6b2jyN8o3mN5H2V7upqx5wr3NbhdqLHujMDaPN1uAZxhxC7UC21Z123pbRMNo2YInJRJPKIWq9Ap5w123YZOuw117117",
+		"item_date": "2016-09-28 00:00:00",
+		"title": "Announcing Auth0s Identity Glossary",
+		"url": "https://auth0.com/blog/announcing-identity-glossary/",
+		"domain": "auth0.com",
 		"image": ""
 	},
 	{
@@ -85,22 +189,6 @@
 		"title": "Authenticating Users to Existing Applications with OpenIDConnect and NGINXPlus",
 		"url": "https://www.nginx.com/blog/authenticating-users-existing-applications-openid-connect-nginx-plus/",
 		"domain": "www.nginx.com",
-		"image": ""
-	},
-	{
-		"curated_id": "c6iEjWEzYI4N2ZKAGjaZKT3kYNGNxMTwXwsSgavs2ljV9mg123gX123peGcmTLMoERC79RQe8FnF41qpDOQEX5oFAg117117",
-		"item_date": "2016-09-08 10:50:19",
-		"title": "My SPA demo",
-		"url": "https://myapp-7175.restdb.io/public/index",
-		"domain": "myapp-7175.restdb.io",
-		"image": ""
-	},
-	{
-		"curated_id": "Jy8Wf3jWmRMYAkLg7Lk02n6C40rLt7dkkF0mSjbqdIvPKLyZsFbMXDYmExUQkM4km1kvKj2T123DzmcRwFA1165mUg117117",
-		"item_date": "2016-09-08 10:50:19",
-		"title": "Twitter",
-		"url": "https://twitter.com/restdbio/status/773941550141345793/photo/1",
-		"domain": "twitter.com",
 		"image": ""
 	},
 	{
