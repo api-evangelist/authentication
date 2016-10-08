@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "uh116p123TuncXQOl8NukNDBSTGq5AVvzRhCb8L3DfGihmSK6XAgD3kQ8k9gVSI8116zVUaZEJO579rOCox3O4kKCxAA117117",
+		"item_date": "2016-10-06 00:00:00",
+		"title": "Limiting OpenID Connect Community Client Support",
+		"url": "https://www.gluu.org/blog/limiting-openid-connect-community-client-support/",
+		"domain": "www.gluu.org",
+		"image": ""
+	},
+	{
+		"curated_id": "qPS7fqiC6Kd6Dy8bNDlEEPZXAMIS123bXkQJ0qnHaOyEhzFbXFsPFpW8PHVPzi8WSkoShlnlXFA123j123bzrNIu0zfw117117",
+		"item_date": "2016-10-06 00:00:00",
+		"title": "Quantum Tokens for Digital Signatures",
+		"url": "https://www.schneier.com/blog/archives/2016/10/quantum_tokens_.html",
+		"domain": "www.schneier.com",
+		"image": ""
+	},
+	{
+		"curated_id": "GWDIVPc0HkdSwmBMN3HtQTnY6eKf116KkB663bTH5DpBTBEZcOQXE6kNr2nsXeIaSnhgGMfzhCIs5uNWA123oJZC123Q117117",
+		"item_date": "2016-10-03 00:00:00",
+		"title": "Enterprise Grade Authentication and Access Control on IoT Part 2",
+		"url": "http://www.codeproject.com/Articles/1135478/Enterprise-Grade-Authentication-and-Access-Contr",
+		"domain": "www.codeproject.com",
+		"image": ""
+	},
+	{
 		"curated_id": "lDAH1gazNY89Vu38miSy6DlcmkoY94ZcUBSWz123tzTpxlvMJp0ad6slLaIyMyL116ooPpX6ju7lvWpGmrBN116JkB3A117117",
 		"item_date": "2016-09-30 16:08:31",
 		"title": "Announcing MultiFactor Authentication in Stormpath  Stormpath User Identity API",
