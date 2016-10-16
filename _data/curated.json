@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "aBNj116jBKfWgwFRJDmjFpJo2123T00zUvQkiDl8BAbZGN6BkU6oYW5HWHl7J9jjBUoPut9GwEAAE8E0Gq173ri4Ag117117",
+		"item_date": "2016-10-12 00:00:00",
+		"title": "Protect Bearer Tokens Using Proof of Possession",
+		"url": "https://forgerock.org/2016/10/protect-bearer-tokens-using-proof-possession/",
+		"domain": "forgerock.org",
+		"image": ""
+	},
+	{
 		"curated_id": "uh116p123TuncXQOl8NukNDBSTGq5AVvzRhCb8L3DfGihmSK6XAgD3kQ8k9gVSI8116zVUaZEJO579rOCox3O4kKCxAA117117",
 		"item_date": "2016-10-06 00:00:00",
 		"title": "Limiting OpenID Connect Community Client Support",
