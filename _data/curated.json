@@ -1,10 +1,50 @@
 [
 	{
+		"curated_id": "lenv3ayv0in7ILqADMa06DGkJwiJ6VutK37116hgaLG5cIpxd123116L2B5EMt0v3ITPzqSKui5cBCwVulv38ChCWA4Q117117",
+		"item_date": "2016-10-10 08:05:53",
+		"title": "Tweet We039ve added support for Intercom to four OAuth libraries to make it easier to get setup ndash httpstcowKwCtaPcCF",
+		"url": "https://medium.com/intercom-developers/easier-oauth-setup-with-new-oauth-libraries-6e73b40f644c#.lwqaa2u5x",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "fA116nMqkky07fbe1161LRTMJfzQCWh123FKx44qOo1S1NluiMV6R1xCSmjY0I1s9XoBlfYe2sSRom6pUH70BnWoC1ZA117117",
+		"item_date": "2016-10-10 08:15:10",
+		"title": "JSON Web Tokens are made for Microservices",
+		"url": "http://alexander.holbreich.org/jwt/",
+		"domain": "alexander.holbreich.org",
+		"image": ""
+	},
+	{
+		"curated_id": "ilpLaIYrXtS0pucf0MBrR7M86hJRUohcQaSk9SzhUrGGifug8IF89nuFbNHE7HtH0eP6Jdx1eYAdPGNunhhMdg117117",
+		"item_date": "2016-10-11 00:00:00",
+		"title": "Planetscale authentication with Auth0 and Azure DocumentDB",
+		"url": "https://auth0.com/blog/auth0-with-azure-documentdb/",
+		"domain": "auth0.com",
+		"image": ""
+	},
+	{
 		"curated_id": "aBNj116jBKfWgwFRJDmjFpJo2123T00zUvQkiDl8BAbZGN6BkU6oYW5HWHl7J9jjBUoPut9GwEAAE8E0Gq173ri4Ag117117",
 		"item_date": "2016-10-12 00:00:00",
 		"title": "Protect Bearer Tokens Using Proof of Possession",
 		"url": "https://forgerock.org/2016/10/protect-bearer-tokens-using-proof-possession/",
 		"domain": "forgerock.org",
+		"image": ""
+	},
+	{
+		"curated_id": "VUulMAeFrMnqwJawugUPGPZi1123KY9rqN2wDEx4XNZ6rz123Lxhna1XeugxNnrvUAJcjg5kfqZEBt2zjymM1Qi6uQ117117",
+		"item_date": "2016-10-11 00:00:00",
+		"title": "Query Strings and URL Fragments in Login with Amazon Responses",
+		"url": "https://developer.amazon.com/appsandservices/community/post/Tx2XUFUBNT8PRXE/Query-Strings-and-URL-Fragments-in-Login-with-Amazon-Responses",
+		"domain": "developer.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "hsqdjqDGVgiDMGr123bYGoo4TrG0kbv64ZNTiIssi21235C123gajGKX51rzQQt116nIvwDrAIhYly2VXF8QzkKDJO1167yg117117",
+		"item_date": "2016-10-10 08:05:53",
+		"title": "Easier OAuth setup with new OAuth libraries",
+		"url": "https://medium.com/intercom-developers/easier-oauth-setup-with-new-oauth-libraries-6e73b40f644c#.nryvn1xzi",
+		"domain": "medium.com",
 		"image": ""
 	},
 	{
