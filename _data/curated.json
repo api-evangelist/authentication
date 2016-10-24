@@ -1,5 +1,53 @@
 [
 	{
+		"curated_id": "3BZ8WJatRdUbke123uyy876E29icC123bmPiS9vEYpFFEBOlI7gpamI68XSm9KLrwwxNr6OjQO0YtFtk7UYuiRMtTQ117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Build together with App Collaborators",
+		"url": "https://medium.com/slack-developer-blog/build-together-with-app-collaborators-8162e31800f1",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "8rqS5fic116t116apAUerGsdr5xJ9yV3JMNIYakq1yY4zhSfj116Ytpyj3nBaBO26yiYS2QOI11663LlHF4N73gsBKJrgQ117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Storing JSON objects in LDAP attributes",
+		"url": "https://forgerock.org/2016/10/storing-json-objects-ldap-attributes/",
+		"domain": "forgerock.org",
+		"image": ""
+	},
+	{
+		"curated_id": "faH6iC5YdI116H8Sm4wsXuE8HfxRr2o1GDRImDpizOY6091167XpdmtE2s1wMcgM7JpdTcb3CSuTQQcf6SKdGYyLvQ117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "User Authentication in Java 8",
+		"url": "https://stormpath.com/blog/user-authentication-java-8",
+		"domain": "stormpath.com",
+		"image": ""
+	},
+	{
+		"curated_id": "36pNBzSfta8ZwruLhUX2xdUNrIdt1169Qf0TqB8mnx9P123tFeXFLy6H123rrIeuS84ywOAzXwhuiKD6wS895P59sOAQ117117",
+		"item_date": "2016-10-20 00:00:00",
+		"title": "An Introduction to AWS IAM",
+		"url": "https://dzone.com/articles/introduction-to-aws-iam",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "MyGzK9cKKMkPg116WrYIAHnZDvu1160jBy293yhEtpd6nixQnhtK123Nx7B8f5V123vzq9Q01123QNSA7idxkRV00mqpcU116g117117",
+		"item_date": "2016-10-19 00:00:00",
+		"title": "TwoFactor Authentication Who Has It and How to Set It Up",
+		"url": "http://www.pcmag.com/article2/0,2817,2456400,00.asp?source=SectionArticles",
+		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "feJkG1JVrWs07l5H9YEUTH9OQG5zcWpTypiiS66bcb4K3i2282Sqwmh6WKQ5hjbDQhoSElUF6uLxb2dCoUyF2Q117117",
+		"item_date": "2016-10-18 00:00:00",
+		"title": "Demystifying OAuth2 in DFP",
+		"url": "http://googleadsdeveloper.blogspot.com/2016/10/demystifying-oauth2-in-dfp.html",
+		"domain": "googleadsdeveloper.blogspot.com",
+		"image": ""
+	},
+	{
 		"curated_id": "lenv3ayv0in7ILqADMa06DGkJwiJ6VutK37116hgaLG5cIpxd123116L2B5EMt0v3ITPzqSKui5cBCwVulv38ChCWA4Q117117",
 		"item_date": "2016-10-10 08:05:53",
 		"title": "Tweet We039ve added support for Intercom to four OAuth libraries to make it easier to get setup ndash httpstcowKwCtaPcCF",
