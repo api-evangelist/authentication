@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "Jh0bpW4123ypZsqdfe116KduXUP9Ex8dlUWyeA2qcPEPnYCVVjBYhk8pNUX1Z4AMSX116JZmZkGEV0MuBvaS8eKIsMBQ117117",
+		"item_date": "2016-11-12 09:03:39",
+		"title": "Signing into One Billion Mobile App Accounts Effortlessly with OAuth20",
+		"url": "https://www.blackhat.com/docs/eu-16/materials/eu-16-Yang-Signing-Into-Billion-Mobile-Apps-Effortlessly-With-OAuth20-wp.pdf",
+		"domain": "www.blackhat.com",
+		"image": ""
+	},
+	{
+		"curated_id": "sbJlgqt123gVJsXxMMWjJHwE56C1116pv2Gyo3dfZMuz9Lngxp2JP9lzFDE7ohe5ilUPfrGlcjseN116UMygp7TBYfkw117117",
+		"item_date": "2016-11-08 00:00:00",
+		"title": "OAuth 20 Vulnerability Leads to Account Takeover",
+		"url": "http://www.securityweek.com/oauth-20-vulnerability-leads-account-takeover",
+		"domain": "www.securityweek.com",
+		"image": ""
+	},
+	{
+		"curated_id": "NrAG4CtoP4123LGDNb8ACT116AzRDvdSaKU7wxP2vo7IrgGxMSASQDoFqRdKu3UVXPknHshHzssfzbJ123HtlKEG4116123Q117117",
+		"item_date": "2016-11-10 00:00:00",
+		"title": "Securing JSPs with Spring Security and Stormpath",
+		"url": "https://stormpath.com/blog/securing-jsps-spring-security",
+		"domain": "stormpath.com",
+		"image": ""
+	},
+	{
 		"curated_id": "116zrLKWi3u7pQdr3wJOpK81c97GQw1229yRJHOO5xbKHDdMos4lcbfzJoqE8dvKfzxxG4NdUCt1162OJV2s71B116ag117117",
 		"item_date": "2016-10-31 09:30:05",
 		"title": "API Best Practices Authentication",
