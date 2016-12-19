@@ -1,5 +1,29 @@
 [
 	{
+		"curated_id": "uMTJ98w1EWx3WgBjYrsiFg8pce1ua3IRI3C7rOoKHScWEJrjqcugrOmR8123NZoeBi123DBDoMuBnol2Detq6xgziw117117",
+		"item_date": "2016-12-16 00:00:00",
+		"title": "Using Authy TwoFactor Authentication in Nodejs and AngularJS",
+		"url": "https://dzone.com/articles/using-authy-two-factor-authentication-in-nodejs-and-angularjs",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "JCcUf4kAle116eXvaQ1j16HgtD7lfve3gTBZ5wBpGUtGlAJVC8h116Ksf123nNvasMJ5LFIU123uW996juDX3FpUzSdHtA117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "JWT is not an authentication protocol",
+		"url": "https://www.gluu.org/blog/jwt-not-authentication-protocol/",
+		"domain": "www.gluu.org",
+		"image": ""
+	},
+	{
+		"curated_id": "ky6116aIFGgVVpHEcLDm5EIT1v4E0Y5gfPZsMnkxsk5fTn7NH7lrtq5K3LzOaog123j7HLUX2XCzthxQ8zpxJnu5tQ117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "How to Enable TwoFactor Authentication on Twitter",
+		"url": "https://www.eff.org/deeplinks/2016/12/how-enable-two-factor-authentication-twitter",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
 		"curated_id": "Jh0bpW4123ypZsqdfe116KduXUP9Ex8dlUWyeA2qcPEPnYCVVjBYhk8pNUX1Z4AMSX116JZmZkGEV0MuBvaS8eKIsMBQ117117",
 		"item_date": "2016-11-12 09:03:39",
 		"title": "Signing into One Billion Mobile App Accounts Effortlessly with OAuth20",
