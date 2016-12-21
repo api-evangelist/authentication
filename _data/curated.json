@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "ZLqfc1yqjiLeShpy14KpcXpTE123crw86IuL08VtdIOGIDMoPZeGGDzLF5wM47g5lbYPxXJcHMIvXMMYc7rH5ljw117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "Google adds singlesignon features in latest Android Wear 20 preview",
+		"url": "http://www.theverge.com/2016/12/13/13936640/google-android-wear-2-0-dev-preview-4-release-single-sign-on",
+		"domain": "www.theverge.com",
+		"image": ""
+	},
+	{
+		"curated_id": "73d1NyHZVkxQQL5NDtLb4ALkH116WVYziY7uveZjIPUX4cba1238kVmH2uzvew123jN93dugteMME8pNfvrXrseQQKXg117117",
+		"item_date": "2016-12-13 00:00:00",
+		"title": "How To Enable TwoFactor Authentication on Outlookcom and Microsoft",
+		"url": "https://www.eff.org/deeplinks/2016/12/how-enable-two-factor-authentication-outlookcom-and-microsoft",
+		"domain": "www.eff.org",
+		"image": ""
+	},
+	{
 		"curated_id": "uMTJ98w1EWx3WgBjYrsiFg8pce1ua3IRI3C7rOoKHScWEJrjqcugrOmR8123NZoeBi123DBDoMuBnol2Detq6xgziw117117",
 		"item_date": "2016-12-16 00:00:00",
 		"title": "Using Authy TwoFactor Authentication in Nodejs and AngularJS",
@@ -13,6 +29,14 @@
 		"title": "JWT is not an authentication protocol",
 		"url": "https://www.gluu.org/blog/jwt-not-authentication-protocol/",
 		"domain": "www.gluu.org",
+		"image": ""
+	},
+	{
+		"curated_id": "Gj116ABo6rxyZ116CMw4CxLPwttOxhoIMKyC1cGv123ejspNC29ZodrG6wG1160plZqTuBxnGRzgpSxfyoOe116l4NR2gRQQ117117",
+		"item_date": "2016-12-15 00:00:00",
+		"title": "Working with LoopBack Authentication and Authorization",
+		"url": "https://strongloop.com/strongblog/working-with-loopback-authentication-and-authorization/",
+		"domain": "strongloop.com",
 		"image": ""
 	},
 	{
