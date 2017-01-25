@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "9jB4KlOMvxT9EzselLSVIO09QtPpFR0kCEIF8VptE1nmA0WWRCZusgVwX8ufcnkA2s123ZgyMVefMKie39jlPptQ117117",
+		"item_date": "2017-01-19 00:00:00",
+		"title": "Building and Securing Koa and Angular 2 with JWT",
+		"url": "https://auth0.com/blog/building-and-securing-a-koa-and-angular2-app-with-jwt/",
+		"domain": "auth0.com",
+		"image": ""
+	},
+	{
 		"curated_id": "IeloM2Tbhczq123XIIApTttRqWo123HiZGj9NRmSuTy9zl123u7Y1Exww5BdAZIOaadFjz2TrM6HNiFFypHMrQVhfUZw117117",
 		"item_date": "2017-01-10 05:52:58",
 		"title": "Tweet Token Authentication for Cached Private Content and APIs httpstcoiKVvFdA3Gx httpstcoKu3B7FSzsL",
