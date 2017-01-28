@@ -16,6 +16,22 @@
 		"image": ""
 	},
 	{
+		"curated_id": "PXajvU1U86Ks3xYDAmw1235l2uzOTSrTiW123AMJwhk9QEARtzKaURSKdzVmob0A123wsrg6ZySEl3f6qJ116GT116N123neDA117117",
+		"item_date": "2017-01-18 00:00:00",
+		"title": "How Intuit Uses OpenID 20 to Implement Single Sign On",
+		"url": "https://www.programmableweb.com/news/how-intuit-uses-openid-20-to-implement-single-sign/sponsored-content/2017/01/18",
+		"domain": "www.programmableweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uPoerH7ALysvINPsdle7YKQtb7O8xh1uc0mOQVCdBDgkDyuW7CouWIgLcM8fmfMV123R0FqnF4UEb123mG4WvctKRw117117",
+		"item_date": "2017-01-18 00:00:00",
+		"title": "How to create an application in Kotlin and secure it using JSON Web Tokens JWTs",
+		"url": "https://auth0.com/blog/how-to-create-a-kotlin-app-and-secure-it-using-jwt/",
+		"domain": "auth0.com",
+		"image": ""
+	},
+	{
 		"curated_id": "IeloM2Tbhczq123XIIApTttRqWo123HiZGj9NRmSuTy9zl123u7Y1Exww5BdAZIOaadFjz2TrM6HNiFFypHMrQVhfUZw117117",
 		"item_date": "2017-01-10 05:52:58",
 		"title": "Tweet Token Authentication for Cached Private Content and APIs httpstcoiKVvFdA3Gx httpstcoKu3B7FSzsL",
