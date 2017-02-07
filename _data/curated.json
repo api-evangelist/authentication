@@ -16,6 +16,38 @@
 		"image": ""
 	},
 	{
+		"curated_id": "7HYdoD123dSuaS116lmqkEkJmbMKBpTSMhrO6B8M85Sg123YwXNbkyxI4123tuwfC5tUUbewQgWCMx6u9EwB116QLgvRFQcg117117",
+		"item_date": "2017-01-30 00:00:00",
+		"title": "Facebooks new tool looks to replace traditional twofactor authentication",
+		"url": "https://thenextweb.com/facebook/2017/01/30/facebooks-new-tool-looks-to-replace-traditional-two-factor-authentication/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kG9AswTEnSLRTUo8XP2dcgkUUSTSJ1sn6lS67ss1wO177QLe35A3mZKJDNl8KKyxrm3rD116D8S9123VRSltNuwWjQ117117",
+		"item_date": "2017-01-31 00:00:00",
+		"title": "DreamFactory 242 adds logging SAML and Azure AD",
+		"url": "http://blog.dreamfactory.com/dreamfactory-2.4.2-release",
+		"domain": "blog.dreamfactory.com",
+		"image": ""
+	},
+	{
+		"curated_id": "t5vBT0LLc1YOALSX1Uopqo1kzRmbi0FiP4vZoRU31tZrOegjsJ1dtjmoK59MAEWSgeG1q8VDtPH6gNlJnKyPpw117117",
+		"item_date": "2017-01-31 00:00:00",
+		"title": "Feature announcement twofactor authentication",
+		"url": "https://postmarkapp.com/blog/feature-announcement-two-factor-authentication",
+		"domain": "postmarkapp.com",
+		"image": ""
+	},
+	{
+		"curated_id": "12mc0CyX3iezrJq93MW1HXGtmtou4az56kU5pK5zZAqQ4aKfQjvA123Bane7MHvbXi3bGsYLrO123L7JDCwdo4Dzbw117117",
+		"item_date": "2017-01-30 00:00:00",
+		"title": "Mozilla Replaces Persona with Auth0 for Identity and Access Management IAM",
+		"url": "https://auth0.com/blog/auth0-mozilla-partnership/",
+		"domain": "auth0.com",
+		"image": ""
+	},
+	{
 		"curated_id": "9jB4KlOMvxT9EzselLSVIO09QtPpFR0kCEIF8VptE1nmA0WWRCZusgVwX8ufcnkA2s123ZgyMVefMKie39jlPptQ117117",
 		"item_date": "2017-01-19 00:00:00",
 		"title": "Building and Securing Koa and Angular 2 with JWT",
