@@ -1,10 +1,50 @@
 [
 	{
+		"curated_id": "52PpTGK2vhoRYB3zxGYrnCKVcNGw88WDXAZ32tEL8nu123wzOS7VT6UaERAb123TYZR5DnHGNO4HGoxrwb9h123OE4pg117117",
+		"item_date": "2017-02-07 00:00:00",
+		"title": "Steps to Building Authentication and Authorization for RESTful APIs",
+		"url": "https://dzone.com/articles/steps-to-building-authentication-and-authorization?utm_medium=feed&utm_source=feedpress.me&utm_campaign=Feed%3A+dzone",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "Z116GTv9GEtyjXlrAIdCR123TmT23TzYkYWjsVuIqSjkhmVbG5XeJfLSVaOHboQdsi4xFNdDK01123pTuI123P5Smqn8LQ117117",
 		"item_date": "2017-02-11 00:00:00",
 		"title": "WhatsApp Rolling Out 2Step Verification",
-		"url": "http://www.pcmag.com/news/351683/whatsapp-rolling-out-2-step-verification?source=SectionArticles",
+		"url": "http://www.pcmag.com/news/351683/whatsapp-rolling-out-2-step-verification",
 		"domain": "www.pcmag.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ChZolo1iyu9XfuLTWNUVGYRH2kkUzw1236wzxrbJ6EcJWYPg4KItNt2X5U7EGM66JgBbe2NJk116vVM4yEVcbzqDjA117117",
+		"item_date": "2017-02-09 00:00:00",
+		"title": "WhatsApp switches on twofactor verification for 12 billion users",
+		"url": "https://thenextweb.com/insider/2017/02/10/whatsapp-switches-on-two-factor-verification-for-1-2-billion-users/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "rk4W9HE3Qk0JnImw2DV3LJgmAyL02EppbXqejlEZv2gqI6iWRvgRK8A9MqeJMkeYz1w2mf71J40AeG2y49Ha9Q117117",
+		"item_date": "2017-02-09 00:00:00",
+		"title": "AuthenticationasaService Auth0 vs Backand",
+		"url": "http://blog.backand.com/authentication-as-a-service-with-auth0/",
+		"domain": "blog.backand.com",
+		"image": ""
+	},
+	{
+		"curated_id": "LQrh3WTks89satrHV116u9j9Vk0123BUbvizINAbS9W1Y116F8PDGvnrWd4mTgzZe7i4In123iSlEZ6z11639wmS2RcXTzqg117117",
+		"item_date": "2017-02-08 00:00:00",
+		"title": "Is Multifactor Authentication The Best Way To Secure Your Accounts Myths And Reality",
+		"url": "https://auth0.com/blog/is-multifactor-authentication-the-best-way-to-secure-your-accounts-myths-and-reality/",
+		"domain": "auth0.com",
+		"image": ""
+	},
+	{
+		"curated_id": "dScezudw93D4c123qFa7xhtauk1dLIYQGnGQ6XWJUP6g6znSgczKf7YSBbqnF0sG0eufN0B4T4tZrQlEs123ikdMXA117117",
+		"item_date": "2017-02-06 13:47:00",
+		"title": "GitHub adds new twofactor lockout recovery features",
+		"url": "http://sdtimes.com/github-adds-new-two-factor-lockout-recovery-features/",
+		"domain": "sdtimes.com",
 		"image": ""
 	},
 	{
