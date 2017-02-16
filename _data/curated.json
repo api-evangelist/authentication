@@ -1,5 +1,13 @@
 [
 	{
+		"curated_id": "92nKECXo9Ip0fvopN4wpMRMYypcheFuvkPDNnYHU11cb6FYpr6R7aF0FzB116F1umMP3djX0MT4aarD8pF7ndETA117117",
+		"item_date": "2017-02-15 00:00:00",
+		"title": "Building a Serverless Application with Stormpath Authentication",
+		"url": "http://stormpath.com/blog/serverless-application-stormpath-authentication",
+		"domain": "stormpath.com",
+		"image": ""
+	},
+	{
 		"curated_id": "52PpTGK2vhoRYB3zxGYrnCKVcNGw88WDXAZ32tEL8nu123wzOS7VT6UaERAb123TYZR5DnHGNO4HGoxrwb9h123OE4pg117117",
 		"item_date": "2017-02-07 00:00:00",
 		"title": "Steps to Building Authentication and Authorization for RESTful APIs",
