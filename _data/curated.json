@@ -8,6 +8,14 @@
 		"image": ""
 	},
 	{
+		"curated_id": "eoK27ADSijRFQm3MdmvGglHhk5ME6ZHlD004MwSx1ud116j4bJ4XLHCPZCba0fGWn1j123tlLHYJru3vzmtdjdiUqw117117",
+		"item_date": "2017-02-21 00:00:00",
+		"title": "Email Verification in Firebase Auth",
+		"url": "https://firebase.googleblog.com/2017/02/email-verification-in-firebase-auth.html",
+		"domain": "firebase.googleblog.com",
+		"image": ""
+	},
+	{
 		"curated_id": "AsfJ0ufdGxhsMPY123gayShWKOPmi0yJOh8eEEDsCk1GoGl71pSMwebS8HBrRG73PyTIavWXzv30x0L123KywpEgXQ117117",
 		"item_date": "2017-02-23 00:00:00",
 		"title": "Updates to DigitalOcean Twofactor Authentication",
@@ -69,6 +77,14 @@
 		"title": "Building a Serverless Application with Stormpath Authentication",
 		"url": "https://stormpath.com/blog/serverless-application-stormpath-authentication",
 		"domain": "stormpath.com",
+		"image": ""
+	},
+	{
+		"curated_id": "116xlcvfWnWMMhmiTCRkMWKEmXDujpRkH5wBGbIKNqsGp3jdpbcGzJq2uVu1fhnkeQeHIQKolWfdYyTq7o4R1236Ow117117",
+		"item_date": "2017-02-13 00:00:00",
+		"title": "Verifying Constituency A Sovrin Use Case",
+		"url": "http://www.windley.com/archives/2017/02/verifying_constituency_a_sovrin_use_case.shtml",
+		"domain": "www.windley.com",
 		"image": ""
 	},
 	{
