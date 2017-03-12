@@ -1,5 +1,77 @@
 [
 	{
+		"curated_id": "SZJ3x116dEWDjhu4ZBs51232iusQp5uXDkf9vEBI123w79Vq5YE6VgXzKdld7pkY3e0mB1OZyTXw1162ZtCVEBDmrQhoHQ117117",
+		"item_date": "2017-03-11 09:38:41",
+		"title": "REST API can we get rid of Basic Auth",
+		"url": "https://medium.com/@lsitaraman/rest-api-can-we-get-rid-of-basic-auth-a9b54bfe88c5#.qx5euro4w",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "kn116QNOJcZJRBfVl6zIJFnnYFWsUqTg7xxp6nEUkihk5116U3p1LIT1GrQ0deANu4lup7KqMOUdhnc7u3QZX6EYkA117117",
+		"item_date": "2017-03-06 06:18:54",
+		"title": "Stormpath Joins Forces With Okta",
+		"url": "https://stormpath.com/blog/stormpaths-new-path",
+		"domain": "stormpath.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WyGahpolgyjJA1235ag9Ez15kbJC0X8YZAt123JhbsuvcGl064S8R41wgL116ZgEPhfqv15SNobn6JB5gGzKSAuCjA4A117117",
+		"item_date": "2017-03-10 09:17:27",
+		"title": "Tweet Amazon Cognito is now available in our EU London region httpstcouONwGtmAyE  httpstcogwbXiMVMXB",
+		"url": "https://twitter.com/awscloud/statuses/840250259523555328",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ULjKkW2R123Wg6iejfZLRgzdxnW78BMqsAKl3S5VwIlRJRcQ4Nk8s116pxHOJ2Cv1KvL3Y8Q5Zmr116sDxvXfKrzU6yQ117117",
+		"item_date": "2017-03-10 11:56:03",
+		"title": "Announcing support for IAM users with MFA in the AWS SDK for golang",
+		"url": "https://aws.amazon.com/blogs/developer/assume-aws-iam-roles-with-mfa-using-the-aws-sdk-for-go/",
+		"domain": "aws.amazon.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YjOGSHz4w4sEXeAdUd3sewqHsM8RdpAosABVZY116MsYf9jiNkw8mB3vyJm2116e5xgTrBtzwE90fBqUkli5FfoTzw117117",
+		"item_date": "2017-03-08 00:00:00",
+		"title": "Protecting images and videos via cookiebased authentication",
+		"url": "http://cloudinary.com/blog/protecting_images_and_videos_via_cookie_based_authentication",
+		"domain": "cloudinary.com",
+		"image": ""
+	},
+	{
+		"curated_id": "grFZWk3qLTr1O7tG82Dp1Jwj6HJazcdwVAbAKJ75a115G3CGxsuCUVCTfNTCoIDh123qpprWKuJ8FLXBorjWuyyg117117",
+		"item_date": "2017-03-06 06:18:54",
+		"title": "Stormpath Joins Forces With Okta  Stormpath User Identity API",
+		"url": "https://stormpath.com/blog/stormpaths-new-path",
+		"domain": "stormpath.com",
+		"image": ""
+	},
+	{
+		"curated_id": "5jZuOKtSJDzOyMqS116HvKoQR8LzFSoqqHrF3wPy7u8vaiOGBqIgpMUbhzaT6AcTyA8C0Uzvyv8NKBKnfHbWItPg117117",
+		"item_date": "2017-03-08 00:00:00",
+		"title": "Tool to generate the amadmin password hash in OpenAM",
+		"url": "https://forgerock.org/2017/03/tool-generate-amadmin-password-hash-openam/",
+		"domain": "forgerock.org",
+		"image": ""
+	},
+	{
+		"curated_id": "m2m0z4W7LkO2ZBT8TOJ0lo116Hmnh7oKbn97a9BDSoIGVKLi123tyx8O4jxOoZNWNFNImHRPwWpCYDkmE4eB1iiXbw117117",
+		"item_date": "2017-03-06 10:01:53",
+		"title": "Discontinuing Support for Clef  Two Factor Authenticity",
+		"url": "https://medium.com/m/global-identity",
+		"domain": "medium.com",
+		"image": ""
+	},
+	{
+		"curated_id": "qTj12352REUGzlpqH2XIK6JJxcxryua123Z0nMXmulGXBttjnH8kNa116EJwhT116NaRpmlqGlczIz9Y3vWNyiHXHCQe7g117117",
+		"item_date": "2017-03-06 00:00:00",
+		"title": "Okta scoops up Stormpath team to ramp up identity platform for developers",
+		"url": "http://www.zdnet.com/article/okta-scoops-up-stormpath-team-to-ramp-up-identity-platform-for-developers/",
+		"domain": "www.zdnet.com",
+		"image": ""
+	},
+	{
 		"curated_id": "4iBSQm6TqtS5R11698oavNSO9pdKK1rNdpgdj5IJAPkWLVU6M123sagbXO116dasYrmfjlTQMghE2K5EoNCogc5NPSxg117117",
 		"item_date": "2017-02-28 15:00:12",
 		"title": "Tweet Securing Apigee Edge with an external SAMLbased identity provider httpstcoeLPYK3R8Z9 pbhogill",
