@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "GfT4v4TnP7g5MwClp0QGZCcjoukubXtvUkhpW483HbHJBkdF123FzY123hPzHclpInMMfB5pozwvbaOiSmsClURLjQ117117",
+		"item_date": "2017-03-23 00:00:00",
+		"title": "Instagram Has TwoFactor Authentication Now So Turn It On",
+		"url": "https://www.wired.com/2017/03/instagram-two-factor-authentication-now-turn/",
+		"domain": "www.wired.com",
+		"image": ""
+	},
+	{
+		"curated_id": "1d7xJYGek14iGIzi4qwxQwEvolrx116BhFjYP1xEAnjZxYTSLJYKb8A9QxmgIPC1167CTUpJ9jCEbZFoMENn1VutwA117117",
+		"item_date": "2017-03-24 11:32:40",
+		"title": "How To Get A 360 View of Your Customer By Managing Identity",
+		"url": "https://auth0.com/blog/360-view-of-customer-by-managing-identity/",
+		"domain": "auth0.com",
+		"image": ""
+	},
+	{
+		"curated_id": "WVb4KxOC8C4hE123RyjH0FoRkfdlQmog3LJLUs6CtJN9k7W9Lmr116H116PZtoAPWiokJx553D6AJMSld0w08XhvCUcQ117117",
+		"item_date": "2017-03-24 00:00:00",
+		"title": "How to set up twofactor authentication for your Apple ID and iCloud account",
+		"url": "http://www.pcworld.com/article/3184650/ios/how-to-set-up-two-factor-authentication-for-your-apple-id-and-icloud-account.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "eGpxNmMb123IZVz2glnWNJiKaRQy8tx3OrvoCjH8MOr8123NouUfEkrN0y5N9V24qaBCd6JuhvMmQnwCWc62o4e7123A117117",
+		"item_date": "2017-03-23 00:00:00",
+		"title": "Instagram adds twofactor authentication censors photos that are deemed offensive or disturbing",
+		"url": "http://www.pcworld.com/article/3184439/social-media/instagram-adds-two-factor-authentication-censors-photos-that-are-deemed-offensive-or-disturbing.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "U116VhUegHsic3zcfPvxLqmihV7OtCBYiJS2Um1jaDnMRuKJyMzQnNkN49231160cOOqoXP3IYQtuVKfGB9pckv6Mw117117",
+		"item_date": "2017-03-23 00:00:00",
+		"title": "Why OAuth 20 Is Vital to IoT Security",
+		"url": "http://nordicapis.com/why-oauth-2-0-is-vital-to-iot-security/",
+		"domain": "nordicapis.com",
+		"image": ""
+	},
+	{
 		"curated_id": "jywqzCDBxqlak5hlCBEi72Ej7X116MirFwYBN8dfqPQKJPWwfS1Ycm50UnlzNPMgiaNymxiHfa1QhZtvnax3I0MA117117",
 		"item_date": "2017-03-17 00:00:00",
 		"title": "Analyzing Identity in Movies",
@@ -189,6 +229,14 @@
 		"title": "SHA1 Is No Longer Recommended But Hardly a Failure",
 		"url": "https://dzone.com/articles/sha1-is-no-longer-recommended-but-hardly-a-failure",
 		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "6123jA116o1166OlHv92SNUu116dfXnC0P66zEtFqPOmY192rJdE2Yvgm1y116zfcbDdAepVtoS3qXbkNpf116jFz15Pv7QbHQ117117",
+		"item_date": "2017-02-23 17:36:42",
+		"title": "Tweet No 1Password data was put at risk through the bug reported earlier today httpstcoS7G62Qw85Q",
+		"url": "https://twitter.com/Cloudflare/statuses/834940080397529088",
+		"domain": "twitter.com",
 		"image": ""
 	},
 	{
@@ -1712,6 +1760,14 @@
 		"image": ""
 	},
 	{
+		"curated_id": "vG1G8p123WUNIyawOJZB0HKX79123SDGNhZ77a32X123XVNA7kWObhPaz5MQ4r0ix83116ir7S92ewKuWT1EXFAoZYVhjg117117",
+		"item_date": "2016-03-29 00:00:00",
+		"title": "IAM best practice guides available now",
+		"url": "https://cloudplatform.googleblog.com/2016/03/IAM-best-practice-guides-available-now.html",
+		"domain": "cloudplatform.googleblog.com",
+		"image": ""
+	},
+	{
 		"curated_id": "05aPJu0sXqbvogWy4V5YR7BsnNHgCItejikGTajrfDa62iEIN116UDCF2w8Q5WgGyX4qV9FXXXacrASxHdDP3123mw117117",
 		"item_date": "2016-03-29 00:00:00",
 		"title": "Social logins Whats really at risk",
@@ -2166,6 +2222,14 @@
 		"url": "http://api-university.com/blog/the-relation-between-openid-connect-and-oauth-2/",
 		"domain": "api-university.com",
 		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/api-university-comblogthe-relation-between-openid-connect-and-oauth-2.png"
+	},
+	{
+		"curated_id": "LT4hsCZfKAZYAVU0l6pBRDTexAbI1CqGB1LM27B6y1AAu1bmfiyvxn2U7aMdk73b93CLi2OBcH123tkBBTiEUtUQ117117",
+		"item_date": "2015-06-09 00:00:00",
+		"title": "Ping unveils new IAM platform enabling multifactor authentication using Apple Watch",
+		"url": "http://www.fiercemobileit.com/story/ping-unveils-new-iam-platform-enabling-multifactor-authentication-using-app/2015-06-09",
+		"domain": "www.fiercemobileit.com",
+		"image": "http://kinlane-productions.s3.amazonaws.com/screen-capture-api/www-fiercemobileit-comstoryping-unveils-new-iam-platform-enabling-multifactor-authentication-using-app2015-06-09.png"
 	},
 	{
 		"curated_id": "sylK6RSWcFbN1236K8YjFcwmDR7GL116123NT123zjulgqDKSC2Fi4wnpApYJYAYtMMSMTCsOSGsJlPYW4WN2kpIDbQ6Fg117117",
