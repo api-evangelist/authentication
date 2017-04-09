@@ -1,5 +1,45 @@
 [
 	{
+		"curated_id": "EX123DG74ZJV4JfM8FRxiuvePfP3HcC116eG6wLqIKY116DDsi4bre8U6UtDTRkgm73SNg11U7RhJjD6sG5nU36bu3bw117117",
+		"item_date": "2017-04-07 11:00:20",
+		"title": "Tweet Extending OAuth2 and openid Connect as the enterprise standard for API security httpstcoq4ZQV2kba1 GetLevvel",
+		"url": "https://twitter.com/Apigee/statuses/850407910861676544",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "lDMRDgYWXg603xORaeuWTD9123vyhw9Q09f248iXig0a5tkKsXji5HpeO2EHYh6Bq2bR7116IOORO6826nCrP7123ezw117117",
+		"item_date": "2017-04-06 00:00:00",
+		"title": "Authentication",
+		"url": "http://resources.infosecinstitute.com/cyber-security-policy-authentication-part-4/",
+		"domain": "resources.infosecinstitute.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ZoPLPdy12365G4SDeAxyhbNvnI2FTVET2CzW6mRU3w1LGzGjEmqw116yLBmdGj9E1fxuwRRmDtdg4xFZaG1Waa9116Qg117117",
+		"item_date": "2017-04-05 00:00:00",
+		"title": "Brute Forcing HS256 Is Possible The Importance of Using Strong Keys in Signing JWTs",
+		"url": "https://dzone.com/articles/brute-forcing-hs256-is-possible-the-importance-of",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "9lIOMxbcc123RlaXjq123uR1234R9XOQT5WFu1234aVoRBOWmIrmKU06cAzIeeLdQ0Gg1dRXbumCe8THruRnRpiXLDnsjQ117117",
+		"item_date": "2017-04-06 00:00:00",
+		"title": "When to Build and When to Buy",
+		"url": "https://auth0.com/blog/when-to-build-and-when-to-buy/",
+		"domain": "auth0.com",
+		"image": ""
+	},
+	{
+		"curated_id": "EeDTUUzGhZpuaJUclbD116GO3apwX53123cWN123R02WyJ0QqfIHxmvhpf123x0FXzNGzQLBrBhPi7Cp9ouhlybnhGrm8A117117",
+		"item_date": "2017-04-03 00:00:00",
+		"title": "Updates to end user consent for 3rdparty apps and Single Signon providers",
+		"url": "https://gsuite-developers.googleblog.com/2017/04/updates-to-end-user-consent-for-3rd.html",
+		"domain": "gsuite-developers.googleblog.com",
+		"image": ""
+	},
+	{
 		"curated_id": "GfT4v4TnP7g5MwClp0QGZCcjoukubXtvUkhpW483HbHJBkdF123FzY123hPzHclpInMMfB5pozwvbaOiSmsClURLjQ117117",
 		"item_date": "2017-03-23 00:00:00",
 		"title": "Instagram Has TwoFactor Authentication Now So Turn It On",
