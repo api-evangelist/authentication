@@ -8,6 +8,30 @@
 		"image": ""
 	},
 	{
+		"curated_id": "o90s7Gq1WV8wuuBNNMOTq66aQCDcpQbyqME5NZRK12333403jAqF7NeOwBzwCGyWKrJUAS5lo123ZX9hY6HGGT0123sw117117",
+		"item_date": "2017-04-13 00:00:00",
+		"title": "Ship your Auth0 logs to Azure Log Analytics",
+		"url": "https://auth0.com/blog/auth0-to-azure-log-analytics/",
+		"domain": "auth0.com",
+		"image": ""
+	},
+	{
+		"curated_id": "2uC8B8vhPx4dz8FYGowWWgTRzF34EEypWdUIYXbXjSN9gYFDeyYWht9jQL9vU24116mnGg7XVU87xqTIh0i09kBA117117",
+		"item_date": "2017-04-12 00:00:00",
+		"title": "Social Login On The Rise How Secure Is It",
+		"url": "https://auth0.com/blog/social-login-on-the-rise/",
+		"domain": "auth0.com",
+		"image": ""
+	},
+	{
+		"curated_id": "IyvUI4dp2ErSLyfqoi1OAIPStuUM123jQUueA2CH86ygiQdWWMUXf1RBofKQsAW4u23c8PGcLMQ1ss4zknW7Rcsw117117",
+		"item_date": "2017-04-11 00:00:00",
+		"title": "JSON Web Token JWT Signing Algorithms Overview",
+		"url": "https://dzone.com/articles/json-web-token-jwt-signing-algorithms-overview",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "EX123DG74ZJV4JfM8FRxiuvePfP3HcC116eG6wLqIKY116DDsi4bre8U6UtDTRkgm73SNg11U7RhJjD6sG5nU36bu3bw117117",
 		"item_date": "2017-04-07 11:00:20",
 		"title": "Tweet Extending OAuth2 and openid Connect as the enterprise standard for API security httpstcoq4ZQV2kba1 GetLevvel",
