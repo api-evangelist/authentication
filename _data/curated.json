@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "BCte3S6KbDZsiKDEZkkSEwPjtikd4kgpMkeSkxAlL1Rw9faZz2Qr9pJiqp6P9nXsRyN9AvemNoch6AdA8Idhvw117117",
+		"item_date": "2017-04-22 00:00:00",
+		"title": "Simple OAuth2 Authorization Server with Identity Server and NET Core",
+		"url": "https://www.codeproject.com/Articles/1183421/Simple-OAuth-Authorization-Server-with-Identity-Se",
+		"domain": "www.codeproject.com",
+		"image": ""
+	},
+	{
+		"curated_id": "uGJ1164T2IfShiM3zVmx76snELujN8hNQ72MXCsApZOpA0UggI8XLiL68512PSn116I4Un7Ded3IB4JhEY6GCFCR5Q117117",
+		"item_date": "2017-04-21 00:00:00",
+		"title": "Getting started with Cloud IdentityAware Proxy",
+		"url": "https://cloudplatform.googleblog.com/2017/04/Getting-started-with-Cloud-Identity-Aware-Proxy.html",
+		"domain": "cloudplatform.googleblog.com",
+		"image": ""
+	},
+	{
 		"curated_id": "KGTt8efs11NCpNMMiY35Iw5X0cNkzYC5L1166YW081yzTrBihvbTjDrfKC3vXVGpJ3IaOuOjBAQQbzIyPT5qJAOQ117117",
 		"item_date": "2017-04-13 00:00:00",
 		"title": "Announcing the Postman Enterprise Beta with Single SignOn SSO",
