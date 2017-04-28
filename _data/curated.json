@@ -1,5 +1,21 @@
 [
 	{
+		"curated_id": "iW6MQRfzDJh9O0VCJRuEWGJmccJJv0KgElv2g116wThtspDUJhRc92mVMxTgu5txfNS5hdxIT5BJkbPC4CYMioBw117117",
+		"item_date": "2017-04-18 00:00:00",
+		"title": "Microsoft kills the password with phonebased login",
+		"url": "https://thenextweb.com/microsoft/2017/04/19/microsoft-kills-password-phone-based-log/",
+		"domain": "thenextweb.com",
+		"image": ""
+	},
+	{
+		"curated_id": "MG116pmZ116SympdRkoXEgbmOF4kl29rmlXJguK123IsBvPfcWsXn0vTfOIr0DKh7xvt3ZjUP4KL1167hMpLII0pkP337g117117",
+		"item_date": "2017-04-18 00:00:00",
+		"title": "Firebase Authentication Using AngularJS",
+		"url": "https://dzone.com/articles/firebase-authentication-using-angularjs",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
 		"curated_id": "BCte3S6KbDZsiKDEZkkSEwPjtikd4kgpMkeSkxAlL1Rw9faZz2Qr9pJiqp6P9nXsRyN9AvemNoch6AdA8Idhvw117117",
 		"item_date": "2017-04-22 00:00:00",
 		"title": "Simple OAuth2 Authorization Server with Identity Server and NET Core",
@@ -21,6 +37,14 @@
 		"title": "Microsoft is killing off passwords MSFT",
 		"url": "http://www.businessinsider.com/microsoft-kills-off-passwords-app-authenticator-2017-4",
 		"domain": "www.businessinsider.com",
+		"image": ""
+	},
+	{
+		"curated_id": "YtKpIE0t476iJk50nlLJWxbhtzcX78GUk6RBc1235AM9pAxz91161MtvtlwHTD1zh123vgim2hMWeeSvST72x291116yRg117117",
+		"item_date": "2017-04-19 00:00:00",
+		"title": "Token Migration Plan Pt1",
+		"url": "http://blog.storj.io/post/159746056098/token-migration-plan-pt1#_=_",
+		"domain": "blog.storj.io",
 		"image": ""
 	},
 	{
