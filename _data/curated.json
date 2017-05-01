@@ -1,5 +1,37 @@
 [
 	{
+		"curated_id": "j5ojLechEbzSg7KUwfde0HK6Cnde0fFNFpBGQtDxBc3O8MLe60622MHzYoITcPYj9JDHJm4VzRDjxqhCXUE3OA117117",
+		"item_date": "2017-04-25 10:00:09",
+		"title": "Tweet Getting Started with the Okta API and OpenID Connect httpstcomw6FfPPBCf",
+		"url": "https://twitter.com/goStormpath/statuses/856915748903636993",
+		"domain": "twitter.com",
+		"image": ""
+	},
+	{
+		"curated_id": "XXT8jDjON123yEG1CyzC3RqVRgUSnf85GGh0FnSLb4Iypmsioj2123SHdV5pw5qBZaVAFf8s4Ng3R123JbD123vV1238RZFw117117",
+		"item_date": "2017-04-25 00:00:00",
+		"title": "Russian hackers use OAuth fake Google apps to phish users",
+		"url": "http://www.pcworld.com/article/3192484/security/russian-hackers-use-oauth-fake-google-apps-to-phish-users.html#tk.rss_all",
+		"domain": "www.pcworld.com",
+		"image": ""
+	},
+	{
+		"curated_id": "ixw1XUf7nBDzs0jU116GoXFGDCEiJ2y3p0K7QkGfNbOFiDeAmorED84Bt8vxj6SnEH6FliPtgUhHbzAiMzGpkaDw117117",
+		"item_date": "2017-04-26 00:00:00",
+		"title": "Microsoft App Aims to Delete the Password",
+		"url": "http://www.darkreading.com/endpoint/microsoft-app-aims-to-delete-the-password/d/d-id/1328741",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "QMvBvWbGwV2BOPnStJJiyNqdcFsGN9fsYxIBEqwFo8aOTO2GGv9Kem093zlnrdD116116gdxs87hm9T1HA123K31237ZBg117117",
+		"item_date": "2017-04-27 00:00:00",
+		"title": "User Management Request for Information RFI",
+		"url": "https://www.gluu.org/blog/user-management-request-for-information-rfi/",
+		"domain": "www.gluu.org",
+		"image": ""
+	},
+	{
 		"curated_id": "iW6MQRfzDJh9O0VCJRuEWGJmccJJv0KgElv2g116wThtspDUJhRc92mVMxTgu5txfNS5hdxIT5BJkbPC4CYMioBw117117",
 		"item_date": "2017-04-18 00:00:00",
 		"title": "Microsoft kills the password with phonebased login",
