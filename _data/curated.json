@@ -16,6 +16,46 @@
 		"image": ""
 	},
 	{
+		"curated_id": "tum2QNa116123pvAJQdQjmK1oqVK6UFLZMtlQo5Nkz87mSBlNUgCIsG1AFnprNCZ1fWW05AIdkItT0Lf123qDX1GdS116w117117",
+		"item_date": "2017-05-08 00:00:00",
+		"title": "Token Migration Plan Pt2",
+		"url": "http://blog.storj.io/post/160448088948/token-migration-plan-pt2#_=_",
+		"domain": "blog.storj.io",
+		"image": ""
+	},
+	{
+		"curated_id": "V123lU6HDvU116gf7116OTfGJpKHLgdQR116uUIuXECqw6T3JRKI29b123CU4iTGIEJzG1123sZpZXUHgBXnq1Afo7Ygo9HraQ117117",
+		"item_date": "2017-05-11 00:00:00",
+		"title": "SSA Plans Stronger Website Authentication",
+		"url": "http://www.darkreading.com/endpoint/ssa-plans-stronger-website-authentication/d/d-id/1328855",
+		"domain": "www.darkreading.com",
+		"image": ""
+	},
+	{
+		"curated_id": "Iywx1233RNuXVvT4jTbVQ12xBISA6mZuNUHfav9UImSPKyhERIIAY6Ago5Fu0Q9jCSwn4iofdyE0RFkFrObDkR7g117117",
+		"item_date": "2017-05-11 00:00:00",
+		"title": "Updating developer identity guidelines and registration processes to protect users",
+		"url": "https://developers.googleblog.com/2017/05/updating-developer-identity-guidelines.html",
+		"domain": "developers.googleblog.com",
+		"image": ""
+	},
+	{
+		"curated_id": "7VlZY1mzvZidCa9W123RXWByJrGvMfFxcE69GuXd711683uq123l77BP4WD116a81Wif4CP4AF0lnx6G6IJxR4uCk8Eq4A117117",
+		"item_date": "2017-05-10 00:00:00",
+		"title": "Authorization and Authentication With RBAC Part 2",
+		"url": "https://dzone.com/articles/authorization-and-authentication-with-rbac-part-2",
+		"domain": "dzone.com",
+		"image": ""
+	},
+	{
+		"curated_id": "OocMj1230TTSbj11Nzwcq6IwvRQ8U1OWFz07TR4uPPRtNQwGFjPDbXdFWJ0qaoL4kB3AdMIXQLFBtaK1KW9TEZTQ117117",
+		"item_date": "2017-05-08 08:19:57",
+		"title": "Things to Use Instead of JWT",
+		"url": "https://kev.inburke.com/kevin/things-to-use-instead-of-jwt/",
+		"domain": "kev.inburke.com",
+		"image": ""
+	},
+	{
 		"curated_id": "nAIWu5N0sTk4TWjSW1Qys0oxmWCyP1236xQDX2pQlz7Hd6uSHM0qCg123TltQDrNrKACIDMR60dIoGklce1CtQHryQ117117",
 		"item_date": "2017-05-03 00:00:00",
 		"title": "Down the SAML Code",
