@@ -1,264 +1,114 @@
-- building_block_id: load-testing
-  type: Testing
-  category: Core Testing
-  name: Load Testing
-  description: Offer loading testing services for HTTP endpoints.
+- building_block_id: inline-token-generator
+  type: Authentication
+  category: Overview
+  name: Inline Token Generator
+  description: Allowing developers to request token inline with documentation.
+  image: ''
+  tags: Authentication
+- building_block_id: authentication-overview
+  type: Authentication
+  category: Overview
+  name: Authentication Overview
+  description: >-
+    An overview of how authentication is handled for a platform, and which
+    formats are supported, setting expectations for consumers.
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-load-testing.jpeg
-  tags: Testing
-- building_block_id: response-header-inspector
-  type: Testing
-  category: Core Testing
-  name: Response Header Inspector
-  description: Ability to inspect a response header.
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-authentication.png
+  tags: Authentication
+- building_block_id: authentication-tester
+  type: Authentication
+  category: Overview
+  name: Authentication Tester
+  description: >-
+    Providing a testing tool for authentication, that allows developers to test
+    key and Basic Auth to oAuth, to help them understand how authentication
+    works and if they are using proper credentials.
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-inspection.png
-  tags: Testing
-- building_block_id: response-body-inspector
-  type: Testing
-  category: Core Testing
-  name: Response Body Inspector
-  description: Ability to inspect a response body.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-inspection.png
-  tags: Testing
-- building_block_id: request-retry
-  type: Testing
-  category: Core Testing
-  name: Request Retry
-  description: Ability to retry a specific request.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-retry.png
-  tags: Testing
-- building_block_id: request-sharing
-  type: Testing
-  category: Core Testing
-  name: Request Sharing
-  description: Allow for the sharing of requests.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-sharing.jpeg
-  tags: Testing
-- building_block_id: request-playback
-  type: Testing
-  category: Core Testing
-  name: Request Playback
-  description: Enable the playback of a single request.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-play.jpg
-  tags: Testing
-- building_block_id: request-scheduling
-  type: Testing
-  category: Core Testing
-  name: Request Scheduling
-  description: Allow for the scheduling of requests at a specific time.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-scheduling.jpeg
-  tags: Testing
-- building_block_id: request-compare
-  type: Testing
-  category: Core Testing
-  name: Request Compare
-  description: Allow for the comparing of two requests.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-compare.png
-  tags: Testing
-- building_block_id: request-scripting
-  type: Testing
-  category: Core Testing
-  name: Request Scripting
-  description: Provide the ability to script against requests.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-html-code.png
-  tags: Testing
-- building_block_id: request-automation
-  type: Testing
-  category: Core Testing
-  name: Request Automation
-  description: Allow for the automation of multiple requests.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-clock-gear.png
-  tags: Testing
-- building_block_id: request-commenting
-  type: Testing
-  category: Core Testing
-  name: Request Commenting
-  description: Enabling users to comment on a specific request.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-chat.png
-  tags: Testing
-- building_block_id: simulator
-  type: Testing
-  category: Core Testing
-  name: Simulator
-  description: Provide tools for simulating requests.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-siimulation.png
-  tags: Testing
-- building_block_id: templates
-  type: Testing
-  category: Core Testing
-  name: Templates
-  description: Offer templates of common or specialized requests.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-data-template.png
-  tags: Testing
-- building_block_id: data-scenarios
-  type: Testing
-  category: Core Testing
-  name: Data Scenarios
-  description: Provide specific data scenarios that can be executed.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-scenario.png
-  tags: Testing
-- building_block_id: region-based-testing
-  type: Testing
-  category: Targeted Testing
-  name: Region Based Testing
-  description: Allow for testing from a specific region.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-region.png
-  tags: Testing
-- building_block_id: provider-based-testing
-  type: Testing
-  category: Targeted Testing
-  name: Provider Based Testing
-  description: Allow for testing from a specific provider
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-api-provider.png
-  tags: Testing
-- building_block_id: basicauth
-  type: Testing
-  category: Authentication
-  name: Basic-Auth
-  description: Use Basic Auth for authentication.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-basic-auth.jpg
-  tags: Testing
-- building_block_id: api-keys
-  type: Testing
-  category: Authentication
-  name: API Keys
-  description: Use API keys for authentication.
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-authentication-test.png
+  tags: Authentication
+- building_block_id: oauth-scopes
+  type: Authentication
+  category: Overview
+  name: OAuth Scopes
+  description: >-
+    Providing a dedicated page or section to listing out the different OAuth
+    scopes used by a platform. Providing a transparent window into all the
+    scopes available, and some of the logic into why they exist.
+  image: ''
+  tags: Authentication
+- building_block_id: test-token-generator
+  type: Authentication
+  category: Overview
+  name: Test Token Generator
+  description: >-
+    Providing the ability to generate test tokens for use in authenticating with
+    the API.
+  image: ''
+  tags: Authentication
+- building_block_id: basic-auth
+  type: Authentication
+  category: Approaches
+  name: Basic Auth
+  description: >-
+    Usage of the basic authentication format that is part of the standard HTTP
+    operations, employing a username and password as credentials for accessing
+    API resources.
+  image: ''
+  tags: Authentication
+- building_block_id: key-access
+  type: Authentication
+  category: Approaches
+  name: Key Access
+  description: >-
+    Providing simple tokens, often called API key as a common way to access to
+    APIs, issuing one to each developer and per application they register.
   image: >-
     http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-key.png
-  tags: Testing
+  tags: Authentication
+- building_block_id: json-web-token
+  type: Authentication
+  category: Approaches
+  name: JSON Web Token
+  description: >-
+    JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact
+    and self-contained way for securely transmitting information between parties
+    as a JSON object.
+  image: ''
+  tags: Authentication
 - building_block_id: oauth
-  type: Testing
-  category: Authentication
-  name: OAuth
-  description: Use OAuth for authentication.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/oauth-logo.png
-  tags: Testing
-- building_block_id: collections
-  type: Testing
-  category: Utility
-  name: Collections
-  description: Allow tests to be organized into collections.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-collection.png
-  tags: Testing
-- building_block_id: command-line-interface
-  type: Testing
-  category: Utility
-  name: Command Line Interface
-  description: Provide a command line interface for working with tests.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-command-line.png
-  tags: Testing
-- building_block_id: teams
-  type: Testing
-  category: Utility
-  name: Teams
-  description: Allow for team interaction when testing.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-team-male-female.png
-  tags: Testing
-- building_block_id: api
-  type: Testing
-  category: Utility
-  name: API
-  description: Provide an API for all parts of testing platform.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/api-commons-icon.png
-  tags: Testing
-- building_block_id: postman
-  type: Testing
-  category: Import
-  name: Postman
-  description: Allow for the importing of APIs with Postman.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-postman.png
-  tags: Testing
-- building_block_id: openapi-spec
-  type: Testing
-  category: Import
-  name: OpenAPI Spec
-  description: Allow for the importing of APIs with OpenAPI Spec.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-swagger-round.png
-  tags: Testing
-- building_block_id: raml
-  type: Testing
-  category: Import
-  name: RAML
-  description: Allow for the importing of APIs with RAML.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-raml.png
-  tags: Testing
-- building_block_id: har
-  type: Testing
-  category: Import
-  name: HAR
-  description: Allow for the importing of APIs with HAR
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-har-file.png
-  tags: Testing
-- building_block_id: jmeter
-  type: Testing
-  category: 3rd Party
-  name: JMeter
-  description: Provide 3rd party integration with JMeter.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/jmeter-logo.jpg
-  tags: Testing
-- building_block_id: selenium
-  type: Testing
-  category: 3rd Party
-  name: Selenium
-  description: Provide 3rd party integration with Selenium.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/selenium-icon.png
-  tags: Testing
-- building_block_id: jenkins
-  type: Testing
-  category: 3rd Party
-  name: Jenkins
-  description: Provide 3rd party integration with Jenkins.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/jenkins-logo.png
-  tags: Testing
-- building_block_id: teamcity
-  type: Testing
-  category: 3rd Party
-  name: TeamCity
-  description: Provide 3rd party integration with TeamCity.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/teamcity_logo.png
-  tags: Testing
-- building_block_id: bamboo
-  type: Testing
-  category: 3rd Party
-  name: Bamboo
-  description: Provide 3rd party integration with Bamboo.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bamboo-icon.png
-  tags: Testing
-- building_block_id: travis
-  type: Testing
-  category: 3rd Party
-  name: Travis
-  description: Provide 3rd party integration with Travis.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/travis-mascot-200px.png
-  tags: Testing
+  type: Authentication
+  category: Approaches
+  name: oAuth
+  description: >-
+    Providing an oAuth layer to API operations, securing high value APIs, while
+    also opening up a conversation between an API platform, developers, and
+    end-users regarding the access of their content and data.
+  image: ''
+  tags: Authentication
+- building_block_id: application-only
+  type: Authentication
+  category: Additional
+  name: Application Only
+  description: Provides authenticated requests on behalf of the application only.
+  image: ''
+  tags: Authentication
+- building_block_id: pin-based-authorization
+  type: Authentication
+  category: Additional
+  name: PIN Based Authorization
+  description: >-
+    For applications which cannot access or embed a web browser, such as
+    command-line applications, embedded systems, game consoles, and certain
+    types of mobile apps.
+  image: ''
+  tags: Authentication
+- building_block_id: two-factor-authentication
+  type: Authentication
+  category: Additional
+  name: Two Factor Authentication
+  description: >-
+    Allowing API consumers to turn on and employ two factor authentication,
+    requiring an additional component to making changes to account security,
+    either by  SMS or authenticator app.
+  image: ''
+  tags: Authentication

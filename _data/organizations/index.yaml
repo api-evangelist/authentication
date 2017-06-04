@@ -1,601 +1,444 @@
-- slug: api-fortress
-  name: API Fortress
+- slug: auth0
+  name: Auth0
   description: >-
-    Test. Monitor. Automate: API Fortress is an enterprise cloud solution to
-    test, monitor, and automate the testing of APIs and web services. Create a
-    response validation test using our simple wizard, schedule the test to run
-    multiple times a day, and monitor the updates sent to your inbox.
-  url: 'http://apifortress.com'
+    Authenticate and authorize apps and APIs with any popular identity provider
+    (enterprise, social or custom) running on any popular software stack on any
+    popular device or cloud with Auth0's identity-as-a-service. Run from the
+    Auth0 public cloud service, from a private cloud instance, or on-prem. Auth0
+    allows developers to replace painfully brittle in-app auth code with a call
+    to an easy-to-use cloud service. Auth0 is particularly useful in eliminating
+    the pain of dealing with a complex identity environment. Auth0 further
+    allows IT to quickly set up SSO for any SAML-compliant 3rd party app (SaaS
+    or on-prem).
+  url: 'https://auth0.com/'
   short_url: ''
-  twitter: 'https://twitter.com/apifortress'
-  blog: 'http://apifortress.com/blog/'
-  blog_rss: ''
-  github: ''
+  twitter: 'https://twitter.com/authzero'
+  blog: 'https://auth0.com/blog/'
+  blog_rss: 'http://feeds.feedburner.com/auth0'
+  github: 'https://github.com/auth0'
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-fortress.png
-  tags: 'Testing,Monitoring'
-- slug: apibond.com
-  name: apibond.com
-  description: >-
-    APIBond is an API management platform that acts as a proxy where you can
-    validate, transform, secure, analyze and scale any existing API.
-  url: 'http://apibond.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/apibond'
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apibond-logo.png
-  tags: 'Monitoring,Aggregation,Testing'
-- slug: apica
-  name: Apica
-  description: >-
-    Apica provides the most effective technology for optimizing the performance
-    of cloud and mobile applications. Apica offers companies and developers
-    alike easy-to-use, cloud-based load testing and web performance monitoring
-    tools to test applications for maximum capacity, daily performance, improved
-    load times, and protection from peak loads. For more information about how
-    Apica is providing the highest standard for cloud and mobile application
-    performance management.
-  url: 'https://www.apicasystem.com'
-  short_url: ''
-  twitter: 'https://twitter.com/apicasystems'
-  blog: 'https://www.apicasystem.com/blog/'
-  blog_rss: 'https://www.apicasystem.com/feed/'
-  github: 'https://github.com/ApicaSystem'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apica-logo.png
-  tags: 'Monitoring,Testing,Performance'
-- slug: apigee-api-studio
-  name: Apigee API Studio
-  description: >-
-    Apigee launched their API Studio out of their earlier Apigee-127 product,
-    their work on the Swagger platform and editor, and their BaaS offering. The
-    new studio opens up the ability for developers to design, mock, test and
-    share via their online open source based platform.
-  url: 'http://apistudio.io/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-studio-logo.png
-  tags: 'Design,Testing,Virtualization,Clients,Studio'
-- slug: apitest.io
-  name: APITest.IO
-  description: >-
-    apiTest.io is the new testing tool to test all your API requests, easy to
-    use with request and results saving. With our preconfigured API calls it is
-    easy to test some popular websites or your own HTTP(s), REST, SOAP, OAUTH
-    server.
-  url: 'https://www.apitest.io/'
-  short_url: ''
-  twitter: 'https://twitter.com/apitest_io'
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/api-test-io-logo.png
-  tags: Testing
-- slug: apitools
-  name: APItools
-  description: >-
-    Building Apps that depend on APIs speeds up development and helps make
-    software all-round more awesome. However, tracking and managing traffic
-    flows to these APIs, reacting if they slow down or fail, dealing with
-    version changes and the like can add massive overhead to development and
-    operations.
-  url: 'https://www.apitools.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/apitools'
-  blog: 'http://docs.apitools.com/blog/'
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/apitools-logo.png
-  tags: 'Testing,API Proxy'
-- slug: assertible
-  name: Assertible
-  description: >-
-    Gain confidence in crucial infrastructure by using Assertible's automated QA
-    tools to test and monitor your web services across deployments and
-    environments. Reduce bugs in web applications by using Assertible to create
-    an automated QA pipeline that helps you catch failures and ship code faster.
-  url: 'https://assertible.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/AssertibleApp'
-  blog: 'https://assertible.com/blog'
-  blog_rss: ''
-  github: 'https://github.com/assertible'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Screen
-    Shot 2017-04-27 at 1.26.20 PM.png
-  tags: Testing
-- slug: aws-xray
-  name: AWS X-Ray
-  description: >-
-    AWS X-Ray helps developers analyze and debug production, distributed
-    applications, such as those built using a microservices architecture. With
-    X-Ray, you can understand how your application and its underlying services
-    are performing to identify and troubleshoot the root cause of performance
-    issues and errors. X-Ray provides an end-to-end view of requests as they
-    travel through your application, and shows a map of your applications
-    underlying components. You can use X-Ray to analyze both applications in
-    development and in production, from simple three-tier applications to
-    complex microservices applications consisting of thousands of services.
-  url: 'https://aws.amazon.com/xray/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-xray.png
-  tags: 'Amazon Web Services,Monitoring,Testing,Orchestration'
-- slug: azure-application-insights
-  name: Azure Application Insights
-  description: >-
-    Get rich performance monitoring, powerful alerting, and easy-to-consume
-    dashboards to help ensure your applications are available and performing as
-    you expect. Quickly see if you have a problem, how many customers are
-    affected, and perform a root cause analysis to find and fix the issue.
-  url: 'https://azure.microsoft.com/en-us/services/application-insights/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/performance-management.png
-  tags: 'Microsoft,Monitoring,Testing,Diagnostics'
-- slug: azure-devtest-labs
-  name: Azure DevTest Labs
-  description: >-
-    Azure DevTest Labs makes it easy to quickly create environments to deploy
-    and test applications. Use reusable templates and artifacts to build Windows
-    and Linux environments while minimalizing waste and controlling costs.
-  url: 'https://azure.microsoft.com/en-us/services/devtest-lab/'
-  short_url: ''
-  twitter: ''
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-devtest-integrate.png
-  tags: 'Testing,Microsoft,Orchestration'
-- slug: bad-testing
-  name: BAD TESTING
-  description: "BAD TESTING offers software testing consulting services and helps you manage risks associated with technology changes. We offer\_an advanced and versatile skill set in software quality assurance, testing, and configuration to ensure effectively and on time product releases. We are experts at testing and evaluating both hardware and software products to identify and resolve all potential issues for both start ups or established environments."
-  url: 'http://www.badtesting.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/BadTesting'
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/bad-testing-logo.png
-  tags: 'Testing,Chicago,Blog'
-- slug: blazemeter
-  name: BlazeMeter
-  description: >-
-    BlazeMeter is a self-service, load testing platform (PaaS) for developers
-    providing an enterprise grade, out-of-the-box load testing solution. Start
-    testing in under five minutes. BlazeMeter significantly simplifies the load
-    testing process by providing developers easy integration into their native
-    development environment.
-  url: 'http://blazemeter.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/BlazeMeter'
-  blog: 'http://blazemeter.com/blog'
-  blog_rss: 'http://feedburner.google.com/fb/a/mailverify?uri=JmeterCloudBlog'
-  github: 'https://github.com/Blazemeter'
-  image: ''
-  tags: 'Testing,Testing,Performance'
-- slug: bugbuster
-  name: BugBuster
-  description: >-
-    BugBuster provides a full suite of functional testing tools. We make it easy
-    to build functional tests and automate the repetitive manual testing of your
-    site.
-  url: 'http://bugbuster.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/BugBuster_Inc'
-  blog: 'http://blog.bugbuster.com/'
-  blog_rss: 'http://blog.bugbuster.com/feed/'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/2039_logo.png
-  tags: 'Bug,Detection,Code,Testing'
-- slug: catch-software
-  name: Catch Software
-  description: >-
-    Catch Software makes test management software, execution and integration
-    tools that help QA professionals get more out of their testing effort. Our
-    flagship product, Enterprise Tester, is test management software which was
-    released in early 2009 and is built by QA professionals for QA
-    professionals, Enterprise Tester provides testers with easy management of
-    test plans, execution sets, requirements, and incidents.
-  url: 'http://catchsoftware.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/catchsoftware'
-  blog: 'http://catchsoftware.com/blogs/'
-  blog_rss: 'http://catchsoftware.com/blogs/feed/'
-  github: 'https://github.com/catch-software'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/catch_logo.gif
-  tags: Testing
-- slug: crossbrowsertesting
-  name: CrossBrowserTesting
-  description: >-
-    Test your website in dozens of browsers and real devices with instant
-    results. Over one thousand combinations of browsers, OSs, and devices. With
-    CrossBrowserTesting.com, you can test your sites on more than 1500 browsers
-    across more than 65 operating systems, including iOS, Android, Windows, Mac
-    and more.
-  url: 'http://crossbrowsertesting.com'
-  short_url: ''
-  twitter: 'https://twitter.com/xbrowsertesting'
-  blog: 'http://crossbrowsertesting.com/blog'
-  blog_rss: 'http://crossbrowsertesting.com/blog/feed'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cbt-logo.png
-  tags: 'Performance,Projects,Testing,Browser Testing'
-- slug: crosscheck-networks
-  name: Crosscheck Networks
-  description: >-
-    Crosscheck Networks is the global leader in API Testing, Simulation, and
-    Gateway technologies with product deployments in over 50,000 customer
-    networks worldwide. Comprehensive API testing includes functional
-    automation, performance, compliance and security testing with patented
-    dynamic mutation technology.
-  url: 'http://www.crosschecknet.com/'
-  short_url: ''
-  twitter: ''
-  blog: 'http://soa-testing.blogspot.com/'
-  blog_rss: 'http://feeds.feedburner.com/soatesting?format=xml'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/cross-check-networks.png
-  tags: 'Testing,Security,Virtualization,API Gateways'
-- slug: cucumber
-  name: Cucumber
-  description: >-
-    Cucumber lets software development teams describe how software should behave
-    in plain text. The text is written in a business-readable domain-specific
-    language and serves as documentation, automated tests and development-aid -
-    all rolled into one format.
-  url: 'https://cucumber.io/'
-  short_url: ''
-  twitter: ''
-  blog: 'https://cucumber.io/blog'
-  blog_rss: 'https://cucumber.io/feed.xml'
-  github: 'https://github.com/cucumber'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Cucumber.png
-  tags: Testing
-- slug: firebase
-  name: Firebase
-  description: >-
-    Firebase is a mobile platform that helps you
-    quickly&nbsp;develop&nbsp;high-quality apps,&nbsp;grow&nbsp;your user base,
-    and&nbsp;earn&nbsp;more money. Firebase is made up of complementary features
-    that you can mix-and-match to fit your needs.
-  url: 'https://firebase.google.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/firebase'
-  blog: 'https://firebase.googleblog.com/'
-  blog_rss: 'http://firebase.googleblog.com/feeds/posts/default?alt=rss'
-  github: 'https://github.com/firebase'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/firebase-logo.png
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/auth0-logo.png
   tags: >-
-    Real Time,API LIfeycle,Database,Command Line Interface,Links,Google
-    APIs,Security,Testing,Virtualization
-- slug: flood-io
-  name: Flood IO
+    Identity,Authentication,OAuth,Auth,User,Target,Service Level
+    Agreement,Reliability
+- slug: authy
+  name: Authy
   description: >-
-    Flood enables you to generate load from any AWS region, using your own
-    account or ours to achieve the most realistic traffic scenarios. We collate
-    all the results for you, so you can spend more time testing. We sort out the
-    infrastructure, so you can spend more time testing. We've built a massive
-    distributed shared nothing infrastructure which lets you scale out on
-    demand. You'll enjoy much better economies of scale on Flood than you can on
-    our competitors.
-  url: 'https://flood.io/'
+    Authy is a the simplest way to add two-factor authentication to any Website
+    or App. Authy provides a simple API for developers to customize the user
+    experience when they add Two-Factor Authentication as well as multiple
+    addons for common Application such as Wordpres
+  url: 'https://www.authy.com/'
   short_url: ''
-  twitter: 'https://twitter.com/flood_io'
-  blog: 'https://blog.flood.io/'
-  blog_rss: 'https://blog.flood.io/rss/'
-  github: 'https://github.com/flood-io'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/flood-io.png
-  tags: 'Testing,Performance'
-- slug: frisby.js
-  name: Frisby.js
+  twitter: 'https://twitter.com/authy'
+  blog: 'https://www.authy.com/blog/'
+  blog_rss: ''
+  github: 'https://github.com/authy'
+  image: ''
+  tags: Authentication
+- slug: aws-cognito
+  name: AWS Cognito
   description: >-
-    Frisby is a REST API testing framework built on node.js and Jasmine that
-    makes testing API endpoints easy, fast, and fun. Read below for a quick
-    overview, or check out the API documentation.
-  url: 'http://frisbyjs.com/'
+    Amazon Cognito lets you easily add user sign-up and sign-in to your mobile
+    and web apps. With Amazon Cognito, you also have the options to authenticate
+    users through social identity providers such as Facebook, Twitter, or
+    Amazon, with SAML identity solutions, or by using your own identity system.
+    In addition, Amazon Cognito enables you to save data locally on users
+    devices, allowing your applications to work even when the devices are
+    offline. You can then synchronize data across users devices so that their
+    app experience remains consistent regardless of the device they use. With
+    Amazon Cognito, you can focus on creating great app experiences instead of
+    worrying about building, securing, and scaling a solution to handle user
+    management, authentication, and sync across devices.
+  url: 'https://aws.amazon.com/cognito/'
+  short_url: ''
+  twitter: ''
+  blog: 'https://aws.amazon.com/cognito/dev-resources/#blogposts'
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-cognito.png
+  tags: 'Amazon Web Services,Authentication,Social,Identity,Facebook,Twitter'
+- slug: aws-config
+  name: AWS Config
+  description: >-
+    AWS Config is a fully managed service that provides you with an AWS resource
+    inventory, configuration history, and configuration change notifications to
+    enable security and governance. Config Rules enables you to create rules
+    that automatically check the configuration of AWS resources recorded by AWS
+    Config. With AWS Config, you can discover existing and deleted AWS
+    resources, determine your overall compliance against rules, and dive into
+    configuration details of a resource at any point in time. These capabilities
+    enable compliance auditing, security analysis, resource change tracking, and
+    troubleshooting.
+  url: 'https://aws.amazon.com/config/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/frisby-js.png
-  tags: Testing
-- slug: google-stackdriver
-  name: Google Stackdriver
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSConfig.png
+  tags: >-
+    Amazon Web
+    Services,Applications,Regulations,Governance,Security,Authentication
+- slug: aws-directory-service
+  name: AWS Directory Service
   description: >-
-    Google Stackdriver provides powerful monitoring, logging, and diagnostics.
-    It equips you with insight into the health, performance, and availability of
-    cloud-powered applications, enabling you to find and fix issues faster. It
-    is natively integrated with Google Cloud Platform, Amazon Web Services, and
-    popular open source packages. Stackdriver provides a wide variety of
-    metrics, dashboards, alerting, log management, reporting, and tracing
-    capabilities.
-  url: 'https://cloud.google.com/stackdriver/'
+    AWS Directory Service for Microsoft Active Directory (Enterprise Edition),
+    also known as AWS Microsoft AD, enables your directory-aware workloads and
+    AWS resources to use managed Active Directory in the AWS Cloud. The
+    Microsoft AD service is built on actual Microsoft Active Directory and does
+    not require you to synchronize or replicate data from your existing Active
+    Directory to the cloud. You can use standard Active Directory administration
+    tools and take advantage of built-in Active Directory features such as Group
+    Policy, trusts, and single sign-on. With Microsoft AD, you can easily
+    join&nbsp;Amazon EC2&nbsp;and&nbsp;Amazon RDS for SQL Server&nbsp;instances
+    to a domain, and use&nbsp;AWS Enterprise IT applications&nbsp;such
+    as&nbsp;Amazon WorkSpaces&nbsp;with Active Directory users and groups.
+  url: 'https://aws.amazon.com/directoryservice/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-stackdriver-debugger.png
-  tags: 'Monitoring,Testing,Debugging,Google APIs,Logging'
-- slug: gtmetrix
-  name: GTmetrix
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  tags: 'Amazon Web Services,Discovery,Authentication,Security'
+- slug: aws-identity-and-access-management
+  name: AWS Identity and Access Management
   description: >-
-    GTmetrix can help you develop a faster, more efficient, and all-around
-    improved website experience for your users.  Studies show that users leave a
-    site if it hasn&#8217;t loaded in 4 seconds; keep your users happy and
-    engaged by providing a fast performing website!  GTmetrix uses Google Page
-    Speed and Yahoo! YSlow to grade your site&#8217;s performance and provides
-    actionable recommendations to fix these issues.  GTmetrix provides: full
-    video capture of how your site loads from multiple regions around the world,
-    performance monitoring and alerts for when your site dips below a given
-    threshold, easy to use API for integration with other sites, and much more!
-  url: 'http://gtmetrix.com'
-  short_url: ''
-  twitter: 'https://twitter.com/gtmetrix'
-  blog: ''
-  blog_rss: 'http://gtmetrix.com/news.xml'
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/806_logo.png
-  tags: Performance Testing
-- slug: load-impact
-  name: Load Impact
-  description: >-
-    Load Impact is an online load testing service for websites, web apps, mobile
-    apps and APIs. The service allows users to run load tests over the Internet,
-    rather than having to set up their own load testing infrastructure to run
-    tests. Tests are easily repeatable, with minimum preparation required, which
-    also makes the service a good development/optimization tool.
-  url: 'https://loadimpact.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/loadimpact'
-  blog: 'http://blog.loadimpact.com/'
-  blog_rss: 'http://blog.loadimpact.com/rss.xml'
-  github: 'https://github.com/loadimpact'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/load-impact-logo.png
-  tags: 'Testing,Performance'
-- slug: loader.io
-  name: Loader.io
-  description: >-
-    Loader.io is a free load testing service that allows you to stress test your
-    web-apps/apis with thousands of concurrent connections. We were born out of
-    SendGrid Labs which is a new and growing internal effort at SendGrid. Born
-    in late 2012, SendGrid Labs builds tools and services to help developers
-    focus on their core business. We aim to provide creative and innovative
-    solutions to common developer pain points, to make their lives easier, and
-    to help them scale.
-  url: 'https://loader.io/'
-  short_url: ''
-  twitter: 'https://twitter.com/loaderio'
-  blog: 'http://blog.loader.io/'
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loader-io.png
-  tags: 'Testing,Performance'
-- slug: loadfocus
-  name: LoadFocus
-  description: >-
-    Load test with thousands of concurrent users. Monitor website uptime and
-    perfomance. Measure website speed and get insights. Run load tests in the
-    Cloud and stress your API with up to 50,000 concurrent users. Inspect
-    results to optimise and improve performance.
-  url: 'https://loadfocus.com/'
-  short_url: ''
-  twitter: ''
-  blog: 'http://loadfocus.com/blog/'
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/loadfocus.png
-  tags: 'Performance,Testing'
-- slug: parasoft
-  name: Parasoft
-  description: >-
-    Parasoft researches and develops software solutions that help organizations
-    deliver defect-free software efficiently. By integrating&nbsp;development
-    testing,&nbsp;API testing, and&nbsp;service virtualization, we reduce the
-    time, effort, and cost of delivering secure, reliable, and compliant
-    software. Parasoft's enterprise and embedded development solutions are the
-    industry's most comprehensive&mdash;including static analysis, unit testing,
-    requirements traceability, coverage analysis, functional and load testing,
-    dev/test environment management, and more.
-  url: 'http://www.parasoft.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/Parasoft'
-  blog: 'http://blog.parasoft.com/'
-  blog_rss: 'http://www.parasoft.com/rss/'
-  github: 'https://github.com/parasoft'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/parasoft-logo.png
-  tags: 'Testing,Virtualization'
-- slug: postman
-  name: Postman
-  description: >-
-    Postman on Chrome is the most efficient way to test, develop and document
-    APIs. Create complex requests, go back in time and view results in a
-    beautiful way. Postman has more than 80 features to help you at every
-    step.&nbsp;Our user base is growing rapidly and with more tools in the
-    pipeline, Postman aims to provide the most comprehensive API development and
-    testing solution to developers.
-  url: 'http://www.getpostman.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/postmanclient'
-  blog: 'http://blog.getpostman.com/'
-  blog_rss: 'http://blog.getpostman.com/index.php/feed/'
-  github: 'https://github.com/postmanlabs'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/postman-rest-logo.png
-  tags: 'Clients, Testing, Definitions'
-- slug: rest-united
-  name: REST United
-  description: >-
-    Our mission is to help REST API providers easily create SDKs in different
-    programming languages with easy-to-follow documentation and code samples
-    while software developers can effortlessly consume the REST API by following
-    the SDK installation instruction and using the code samples within minutes.
-  url: 'http://restunited.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/restunited'
-  blog: ''
-  blog_rss: ''
-  github: ''
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/rest-united.png
-  tags: 'Documentation,SDK,Testing,Debugging,API Management SDK'
-- slug: restcase
-  name: RestCase
-  description: >-
-    RestCase focuses on the REST API development cycle and enhances team
-    collaboration, reduces development time, improves testing and increases
-    overall product quality.
-  url: 'http://www.restcase.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/RestCaseApi'
-  blog: 'http://blog.restcase.com/'
-  blog_rss: 'http://blog.restcase.com/rss/'
-  github: 'https://github.com/restcase'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restcase_logo.png
-  tags: 'Virtualization,Testing'
-- slug: restlet-dhc
-  name: Restlet DHC
-  description: >-
-    Call APIs to discover and validate their behavior, build and run complete
-    test scenarios.&nbsp;Trying out an API to check its behavior usually
-    involves writing a program or sending command line instructions to call the
-    API
-  url: 'https://restlet.com/products/dhc/'
+    AWS Identity and Access Management (IAM) enables you to securely control
+    access to AWS services and resources for your users. Using IAM, you can
+    create and manage AWS users and groups, and use permissions to allow and
+    deny their access to AWS resources.&nbsp; IAM is a feature of your AWS
+    account offered at no additional charge. You will be charged only for use of
+    other AWS services by your users. To get started using IAM, or&nbsp;if you
+    have already registered with AWS, go to the&nbsp;AWS Management
+    Console&nbsp;and get started with these&nbsp;IAM Best Practices.
+  url: 'https://aws.amazon.com/iam/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/restlet-dhc-logo.jpg
-  tags: 'Clients,Testing'
-- slug: rightapi
-  name: RightAPI
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSIAM.png
+  tags: 'Amazon Web Services,Authentication'
+- slug: aws-security-token-service
+  name: AWS Security Token Service
   description: >-
-    TheRightAPI is enabling the API community by providing solutions to make
-    working with APIs easier. If you need to discover, trust, monitor and manage
-    APIs, TheRightAPI is here to help. TheRightAPI provides the platform and
-    intelligence developers need to establish and maintain successful next
-    generation applications.
-  url: 'http://www.therightapi.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/rightapi'
-  blog: 'http://blog.therightapi.com'
-  blog_rss: 'http://feeds.feedburner.com/rtur'
-  github: 'https://github.com/theRightAPI'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/therightapi-logo-2.png
-  tags: Testing
-- slug: runscope
-  name: Runscope
-  description: >-
-    Runscope was started with the idea that depending on a web service API in a
-    mobile or web application should be as easy as depending on code running
-    locally. We&rsquo;ve assembled a team of API, infrastructure and developer
-    experience experts to build tools to support the modern application
-    development lifecycle.
-  url: 'https://www.runscope.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/Runscope'
-  blog: 'http://blog.runscope.com/'
-  blog_rss: 'http://blog.runscope.com/posts?format=rss'
-  github: 'https://github.com/Runscope'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/runscope-logo.png
-  tags: 'My API Stack,Monitoring,Testing,Monitoring,Testing,API LIfeycle'
-- slug: smartbear-software
-  name: SmartBear Software
-  description: >-
-    SmartBear Software provides tools for over 100,000 software professionals to
-    build, test, and monitor some of the best software applications and websites
-    anywhere on the desktop, mobile and in the cloud.
-  url: 'http://smartbear.com/'
-  short_url: ''
-  twitter: 'https://twitter.com/smartbear'
-  blog: 'http://blog.smartbear.com/'
-  blog_rss: 'http://feeds.feedburner.com/smartbear'
-  github: 'https://github.com/SmartBear'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/SmartBear-Logo.png
-  tags: 'Security,Testing,Monitoring,Virtualization,Performance,API LIfeycle'
-- slug: stoplight
-  name: StopLight
-  description: >-
-    StopLight provides engineering teams with a new way to document, test, and
-    build web APIs. Our technology easily and automatically maps an API, and
-    then provides tooling and services to reduce development time, and increase
-    reliability and accessibility.
-  url: 'http://stoplight.io/'
-  short_url: ''
-  twitter: 'https://twitter.com/stoplightio'
-  blog: 'http://blog.stoplight.io/'
-  blog_rss: 'http://blog.stoplight.io/rss/'
-  github: 'https://github.com/stoplightio'
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/stoplight-io-logo.png
-  tags: 'Testing,Clients,API LIfeycle,Proxy,Design,Studio'
-- slug: vrest
-  name: vREST
-  description: 'Simplify, Automate and Speed-up REST API Testing'
-  url: 'http://vrest.io/'
+    The AWS Security Token Service (STS) is a web service that enables you to
+    request temporary, limited-privilege credentials for AWS Identity and Access
+    Management (IAM) users or for users that you authenticate (federated users).
+  url: 'http://docs.aws.amazon.com/STS/latest/APIReference/Welcome.html'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/vrsest-logo.png
-  tags: 'Testing,Virtualization'
-- slug: webpagetest
-  name: WebPagetest
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSIAM_AWSSTS.png
+  tags: 'Amazon Web Services,Authentication,Security'
+- slug: azure-key-vault
+  name: Azure Key Vault
   description: >-
-    WebPagetest is used for measuring and analyzing the performance of web
-    pages.  There are a lot of options that may seem intimidating at first but
-    doing quick testing is pretty simple.  This guide will walk you through
-    submitting a test and interpreting the results.
-  url: >-
-    https://sites.google.com/a/webpagetest.org/docs/advanced-features/webpagetest-restful-apis
+    Azure Key Vault offers an easy, cost-effective way to safeguard keys and
+    other secrets in the cloud by using hardware security modules (HSMs).
+    Protect cryptographic keys and small secrets like passwords with keys stored
+    in HSMs. For added assurance, import or generate your keys in HSMs that are
+    certified to FIPS 140-2 level 2 and Common Criteria EAL4+ standards, so that
+    your keys stay within the HSM boundary. Key Vault is designed so that
+    Microsoft does not see or extract your keys. Create new keys for Dev-Test in
+    minutes and migrate seamlessly to production keys managed by security
+    operations. Key Vault scales to meet the demands of your cloud applications
+    without the hassle required to provision, deploy, and manage HSMs and key
+    management software.
+  url: 'https://azure.microsoft.com/en-us/services/key-vault/'
   short_url: ''
   twitter: ''
   blog: ''
   blog_rss: ''
   github: ''
   image: >-
-    https://s3.amazonaws.com/kinlane-productions/webpagetest/webpagetest-logo.png
-  tags: 'Websites,Performance Testing'
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-enhance-data-protection.png
+  tags: 'Microsoft,Authentication,Security,Management'
+- slug: duo-security
+  name: Duo Security
+  description: >-
+    Duo Security enables protected login and transactional functions for
+    smartphones users. It does this by sending users authorization verification
+    from web-based platform to their phones, in addition to their login. Their
+    REST API provides integration to their two-factor authentication process. It
+    is a RESTful API, and returns JSON (defaut), BSON, and XML responses.
+  url: 'http://www.duosecurity.com'
+  short_url: ''
+  twitter: 'https://twitter.com/duosec'
+  blog: 'http://blog.duosecurity.com'
+  blog_rss: 'https://www.duosecurity.com/feed'
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/duo/duoLogo-web.png'
+  tags: 'Two factor authentication,Authentication,Mobile,Security,Security'
+- slug: gigya
+  name: Gigya
+  description: >-
+    Gigya provides websites with a complete social infrastructure that creates
+    immersive social experiences for users and provides unparalleled customer
+    insights for businesses. Gigya equips businesses like ABC, Pepsi, and
+    Verizon with a comprehensive solution to socialize their online properties.
+  url: 'http://gigya.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/Gigya'
+  blog: 'http://blog.gigya.com'
+  blog_rss: 'http://blog.gigya.com/feed/'
+  github: 'https://github.com/gigya'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/600_logo.png
+  tags: 'Authentication,Social,Social,Social Sharing,Social,Partners'
+- slug: gluu
+  name: Gluu
+  description: >-
+    Gluu provides open source authentication and API access management stack,
+    called the Gluu Server, helps companies secure Web and mobile applications.
+    The Gluu Server leverages standards such as OAuth2, OpenID Connect, UMA,
+    SAML 2.0, and SCIM to enable federated single sign-on (SSO) and trust
+    elevation. The Gluu Server is used by universities, government agencies, and
+    companies to secure employee facing and consumer network services. Deployed
+    on one or more dedicated servers and the IaaS platform of your choice, the
+    Gluu Server improves the quality and drives down the cost of an increasingly
+    complex and mission critical IT service: authentication and authorization
+    (AA).
+  url: 'http://www.gluu.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/GluuFederation'
+  blog: 'http://www.gluu.org/blog/'
+  blog_rss: 'http://www.gluu.org/blog/feed'
+  github: 'https://github.com/GluuFederation'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gluu-logo.png
+  tags: 'Authentication,Identity,Management,API Management Other'
+- slug: google-cloud-identity--access-management-iam
+  name: Google Cloud Identity & Access Management (IAM)
+  description: >-
+    Google Cloud Identity &amp; Access Management (IAM) lets administrators
+    authorize who can take action on specific resources, giving you full control
+    and visibility to manage cloud resources centrally. For established
+    enterprises with complex organizational structures, hundreds of workgroups
+    and potentially many more projects, Cloud IAM provides a unified view into
+    security policy across your entire organization, with built-in auditing to
+    ease compliance processes.
+  url: 'https://cloud.google.com/iam/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/right-roles.png
+  tags: 'Identity,IAM,Authentication,Google APIs'
+- slug: google-cloud-key-management-service-kms
+  name: Google Cloud Key Management Service (KMS)
+  description: >-
+    Cloud KMS is a cloud-hosted key management service that lets you manage
+    encryption for your cloud services the same way you do on-premises. You can
+    generate, use, rotate and destroy AES256 encryption keys. Cloud KMS is
+    integrated with IAM and Cloud Audit Logging so that you can manage
+    permissions on individual keys, and monitor how these are used. Use Cloud
+    KMS to protect secrets and other sensitive data which you need to store in
+    Google Cloud Platform.
+  url: 'https://cloud.google.com/kms/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kms-lead.png
+  tags: 'Authentication,Management,Google APIs'
+- slug: google-cloud-user-accounts
+  name: Google Cloud User Accounts
+  description: >-
+    Service for managing the global Google Cloud user accounts. This API
+    reference is organized by resource type. Each resource type has one or more
+    data representations and one or more methods.
+  url: 'https://cloud.google.com/compute/docs/access/user-accounts/api/latest/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-icon.png
+  tags: 'Authentication,Management,Users,Google APIs'
+- slug: google-oauth2
+  name: Google OAuth2
+  description: >-
+    Google APIs use the OAuth 2.0 protocol for authentication and authorization.
+    Google supports common OAuth 2.0 scenarios such as those for web server,
+    installed, and client-side applications. To begin, obtain OAuth 2.0 client
+    credentials from the Google API Console. Then your client application
+    requests an access token from the Google Authorization Server, extracts a
+    token from the response, and sends the token to the Google API that you want
+    to access. For an interactive demonstration of using OAuth 2.0 with Google
+    (including the option to use your own client credentials), experiment with
+    the OAuth 2.0 Playground.
+  url: 'https://developers.google.com/identity/protocols/OAuth2'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Google-OAuth@2x.png
+  tags: 'Authentication,Google APIs'
+- slug: janrain
+  name: Janrain
+  description: >-
+    The Janrain User Management Platform (JUMP) helps organizations succeed on
+    the social web by providing leading technology to leverage the popularity of
+    social networks and identities for user acquisition, engagement, and
+    enhanced customer intelligence. Our solutions, including social login,
+    social sharing, social profile data collection and storage, access to the
+    social graph, game mechanics, and digital strategy services, improve the
+    effectiveness of online marketing initiatives for leading brands like Fox,
+    Universal Music Group, Whole Foods, MTV, Purina, Avis and Dr Pepper.
+  url: 'http://janrain.com'
+  short_url: ''
+  twitter: 'https://twitter.com/janrain'
+  blog: 'http://www.janrain.com/blog'
+  blog_rss: 'http://feeds.feedburner.com/janrain-blog'
+  github: 'https://github.com/janrain'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/825_logo.jpg
+  tags: 'OpenID,Authentication,Identity,Identity,Authentication'
+- slug: loginradius
+  name: LoginRadius
+  description: >-
+    To keep your business ahead of current Internet trends, we at LoginRadius
+    came up with a different approach to the log-in process. Using LoginRadius,
+    you can easily integrate social logins on your website and allow users to
+    login with their existing accounts on Facebook, Google, Yahoo, Twitter and
+    over 20 more providers. By eliminating lengthy and sometimes irritating
+    registration process, not only will your website attract more traffic but
+    also boost your user base. LoginRadius is a &ldquo;Software As A
+    Service&rdquo; (SAAS).
+  url: 'http://www.loginradius.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/LoginRadius'
+  blog: 'http://blog.loginradius.com'
+  blog_rss: 'http://blog.loginradius.com/feed/'
+  github: 'https://github.com/LoginRadius'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1086_logo.png
+  tags: 'Login,Users,Authentication,Authentication,Identity'
+- slug: logintc
+  name: LoginTC
+  description: >-
+    The LoginTC application, when enabled with a LoginTC token, allows you to
+    securely log on to LoginTC-enabled websites and applications. This LoginTC
+    app (available for Android, BlackBerry, and iOS platforms) allows a user to
+    have multiple LoginTC tokens to access multiple LoginTC-enabled websites and
+    applications. The administrator of every LoginTC-protected website you
+    subscribe will provide you with an Activation Code and the LoginTC Name
+    created for you via e-mail, over the phone, or via post mail.
+  url: 'https://www.logintc.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/logintc'
+  blog: 'https://www.logintc.com/blog/'
+  blog_rss: 'https://www.logintc.com/blog/rss.xml'
+  github: 'https://github.com/logintc'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/login-tc.png
+  tags: Authentication
+- slug: miicard
+  name: miiCard
+  description: >-
+    miiCard (My Internet Identity) is a global Identity as a Service solution
+    that proves &nbsp;&lsquo;you are who you say you are&rsquo;, &nbsp;purely
+    online, in minutes and to the same level as a physical passport or photo ID
+    check. &nbsp;Through a patented process that leverages the trust between an
+    individual and their financial institution, miiCard establishes identity to
+    Level of Assurance 3+ and meets Know Your Customer and Anti-Money Laundering
+    identity guidelines, enabling the sale of regulated products and services
+    purely online. &nbsp;Combining online identity proofing with strong
+    authentication, miiCard provides the trust and security required for people
+    and businesses to meet and transact with confidence in a purely digital
+    environment.
+  url: 'http://www.miicard.com'
+  short_url: ''
+  twitter: 'https://twitter.com/#!/miicard'
+  blog: 'http://www.miicard.com/blog'
+  blog_rss: 'http://www.miicard.com/rss.xml'
+  github: 'https://github.com/miiCard'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/847_logo.png
+  tags: 'Identity,Security,API United Kingdom,Identity,Authentication'
+- slug: oauth.io
+  name: OAuth.io
+  description: >-
+    OAuth.io is a dead simple OAuth solution that allows you to integrate the
+    common API providers, with just three lines of JavaScript, completely
+    abstracting away the complexity of OAuth integration. By using OAuth.io, you
+    are free to focus your attention on product development instead of losing
+    time on API integration using OAuth.
+  url: 'https://oauth.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/OAuth_io'
+  blog: 'http://blog.oauth.io/'
+  blog_rss: 'http://blog.oauth.io/feed/'
+  github: 'https://github.com/oauth-io'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/oauth-io.png
+  tags: 'Authentication,Authentication,API LIfeycle,Imports'
+- slug: okta
+  name: Okta
+  description: >-
+    Okta is the foundation for secure connections between people and technology.
+    By harnessing the power of the cloud, Okta allows people to access
+    applications on any device at any time, while still enforcing strong
+    security protections. It integrates directly with an organization's existing
+    directories and identity systems, as well as 4,000+ applications.
+  url: 'https://www.okta.com'
+  short_url: ''
+  twitter: 'https://twitter.com/okta'
+  blog: 'http://www.okta.com/blog/'
+  blog_rss: 'http://feeds.feedburner.com/OktaBlog'
+  github: 'https://github.com/okta'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1937_logo.png
+  tags: 'Authentication,Identity,Target'
+- slug: openuma
+  name: OpenUMA
+  description: >-
+    User-Managed Access (UMA) is an OAuth-based protocol that enables an
+    individual to control the authorization of data sharing and service access
+    made by others. The OpenUMA community shares an interest in informing,
+    improving, and extending the development of UMA-compatible open-source
+    software as part of ForgeRock&rsquo;s Open Identity Stack.
+  url: 'https://forgerock.org/openuma/'
+  short_url: ''
+  twitter: ''
+  blog: 'https://forgerock.org/blog/'
+  blog_rss: 'https://forgerock.org/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/open-uma.png
+  tags: 'OAuth,Authentication'
+- slug: stormpath
+  name: Stormpath
+  description: >-
+    Stormpath is an authentication and user management service that helps
+    development teams quickly and securely build web and mobile applications and
+    services. With the Stormpath API, you can add a user management layer to
+    simple or complex applications, with little custom code.
+  url: 'http://www.stormpath.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/gostormpath'
+  blog: 'http://www.stormpath.com/blog/'
+  blog_rss: 'http://www.stormpath.com/blog/feed'
+  github: 'https://github.com/stormpath'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1170_logo.png
+  tags: >-
+    Identity,Security,Users,Authentication,User,Identity,API
+    LIfeycle,Target,Service Level Agreement,Reliability
