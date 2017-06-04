@@ -1,0 +1,444 @@
+- slug: auth0
+  name: Auth0
+  description: >-
+    Authenticate and authorize apps and APIs with any popular identity provider
+    (enterprise, social or custom) running on any popular software stack on any
+    popular device or cloud with Auth0's identity-as-a-service. Run from the
+    Auth0 public cloud service, from a private cloud instance, or on-prem. Auth0
+    allows developers to replace painfully brittle in-app auth code with a call
+    to an easy-to-use cloud service. Auth0 is particularly useful in eliminating
+    the pain of dealing with a complex identity environment. Auth0 further
+    allows IT to quickly set up SSO for any SAML-compliant 3rd party app (SaaS
+    or on-prem).
+  url: 'https://auth0.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/authzero'
+  blog: 'https://auth0.com/blog/'
+  blog_rss: 'http://feeds.feedburner.com/auth0'
+  github: 'https://github.com/auth0'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/auth0-logo.png
+  tags: >-
+    Identity,Authentication,OAuth,Auth,User,Target,Service Level
+    Agreement,Reliability
+- slug: authy
+  name: Authy
+  description: >-
+    Authy is a the simplest way to add two-factor authentication to any Website
+    or App. Authy provides a simple API for developers to customize the user
+    experience when they add Two-Factor Authentication as well as multiple
+    addons for common Application such as Wordpres
+  url: 'https://www.authy.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/authy'
+  blog: 'https://www.authy.com/blog/'
+  blog_rss: ''
+  github: 'https://github.com/authy'
+  image: ''
+  tags: Authentication
+- slug: aws-cognito
+  name: AWS Cognito
+  description: >-
+    Amazon Cognito lets you easily add user sign-up and sign-in to your mobile
+    and web apps. With Amazon Cognito, you also have the options to authenticate
+    users through social identity providers such as Facebook, Twitter, or
+    Amazon, with SAML identity solutions, or by using your own identity system.
+    In addition, Amazon Cognito enables you to save data locally on users
+    devices, allowing your applications to work even when the devices are
+    offline. You can then synchronize data across users devices so that their
+    app experience remains consistent regardless of the device they use. With
+    Amazon Cognito, you can focus on creating great app experiences instead of
+    worrying about building, securing, and scaling a solution to handle user
+    management, authentication, and sync across devices.
+  url: 'https://aws.amazon.com/cognito/'
+  short_url: ''
+  twitter: ''
+  blog: 'https://aws.amazon.com/cognito/dev-resources/#blogposts'
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/aws-cognito.png
+  tags: 'Amazon Web Services,Authentication,Social,Identity,Facebook,Twitter'
+- slug: aws-config
+  name: AWS Config
+  description: >-
+    AWS Config is a fully managed service that provides you with an AWS resource
+    inventory, configuration history, and configuration change notifications to
+    enable security and governance. Config Rules enables you to create rules
+    that automatically check the configuration of AWS resources recorded by AWS
+    Config. With AWS Config, you can discover existing and deleted AWS
+    resources, determine your overall compliance against rules, and dive into
+    configuration details of a resource at any point in time. These capabilities
+    enable compliance auditing, security analysis, resource change tracking, and
+    troubleshooting.
+  url: 'https://aws.amazon.com/config/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Management-Tools_AWSConfig.png
+  tags: >-
+    Amazon Web
+    Services,Applications,Regulations,Governance,Security,Authentication
+- slug: aws-directory-service
+  name: AWS Directory Service
+  description: >-
+    AWS Directory Service for Microsoft Active Directory (Enterprise Edition),
+    also known as AWS Microsoft AD, enables your directory-aware workloads and
+    AWS resources to use managed Active Directory in the AWS Cloud. The
+    Microsoft AD service is built on actual Microsoft Active Directory and does
+    not require you to synchronize or replicate data from your existing Active
+    Directory to the cloud. You can use standard Active Directory administration
+    tools and take advantage of built-in Active Directory features such as Group
+    Policy, trusts, and single sign-on. With Microsoft AD, you can easily
+    join&nbsp;Amazon EC2&nbsp;and&nbsp;Amazon RDS for SQL Server&nbsp;instances
+    to a domain, and use&nbsp;AWS Enterprise IT applications&nbsp;such
+    as&nbsp;Amazon WorkSpaces&nbsp;with Active Directory users and groups.
+  url: 'https://aws.amazon.com/directoryservice/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSDirectoryService.png
+  tags: 'Amazon Web Services,Discovery,Authentication,Security'
+- slug: aws-identity-and-access-management
+  name: AWS Identity and Access Management
+  description: >-
+    AWS Identity and Access Management (IAM) enables you to securely control
+    access to AWS services and resources for your users. Using IAM, you can
+    create and manage AWS users and groups, and use permissions to allow and
+    deny their access to AWS resources.&nbsp; IAM is a feature of your AWS
+    account offered at no additional charge. You will be charged only for use of
+    other AWS services by your users. To get started using IAM, or&nbsp;if you
+    have already registered with AWS, go to the&nbsp;AWS Management
+    Console&nbsp;and get started with these&nbsp;IAM Best Practices.
+  url: 'https://aws.amazon.com/iam/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSIAM.png
+  tags: 'Amazon Web Services,Authentication'
+- slug: aws-security-token-service
+  name: AWS Security Token Service
+  description: >-
+    The AWS Security Token Service (STS) is a web service that enables you to
+    request temporary, limited-privilege credentials for AWS Identity and Access
+    Management (IAM) users or for users that you authenticate (federated users).
+  url: 'http://docs.aws.amazon.com/STS/latest/APIReference/Welcome.html'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Security-Identity_AWSIAM_AWSSTS.png
+  tags: 'Amazon Web Services,Authentication,Security'
+- slug: azure-key-vault
+  name: Azure Key Vault
+  description: >-
+    Azure Key Vault offers an easy, cost-effective way to safeguard keys and
+    other secrets in the cloud by using hardware security modules (HSMs).
+    Protect cryptographic keys and small secrets like passwords with keys stored
+    in HSMs. For added assurance, import or generate your keys in HSMs that are
+    certified to FIPS 140-2 level 2 and Common Criteria EAL4+ standards, so that
+    your keys stay within the HSM boundary. Key Vault is designed so that
+    Microsoft does not see or extract your keys. Create new keys for Dev-Test in
+    minutes and migrate seamlessly to production keys managed by security
+    operations. Key Vault scales to meet the demands of your cloud applications
+    without the hassle required to provision, deploy, and manage HSMs and key
+    management software.
+  url: 'https://azure.microsoft.com/en-us/services/key-vault/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/azure-enhance-data-protection.png
+  tags: 'Microsoft,Authentication,Security,Management'
+- slug: duo-security
+  name: Duo Security
+  description: >-
+    Duo Security enables protected login and transactional functions for
+    smartphones users. It does this by sending users authorization verification
+    from web-based platform to their phones, in addition to their login. Their
+    REST API provides integration to their two-factor authentication process. It
+    is a RESTful API, and returns JSON (defaut), BSON, and XML responses.
+  url: 'http://www.duosecurity.com'
+  short_url: ''
+  twitter: 'https://twitter.com/duosec'
+  blog: 'http://blog.duosecurity.com'
+  blog_rss: 'https://www.duosecurity.com/feed'
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/duo/duoLogo-web.png'
+  tags: 'Two factor authentication,Authentication,Mobile,Security,Security'
+- slug: gigya
+  name: Gigya
+  description: >-
+    Gigya provides websites with a complete social infrastructure that creates
+    immersive social experiences for users and provides unparalleled customer
+    insights for businesses. Gigya equips businesses like ABC, Pepsi, and
+    Verizon with a comprehensive solution to socialize their online properties.
+  url: 'http://gigya.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/Gigya'
+  blog: 'http://blog.gigya.com'
+  blog_rss: 'http://blog.gigya.com/feed/'
+  github: 'https://github.com/gigya'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/600_logo.png
+  tags: 'Authentication,Social,Social,Social Sharing,Social,Partners'
+- slug: gluu
+  name: Gluu
+  description: >-
+    Gluu provides open source authentication and API access management stack,
+    called the Gluu Server, helps companies secure Web and mobile applications.
+    The Gluu Server leverages standards such as OAuth2, OpenID Connect, UMA,
+    SAML 2.0, and SCIM to enable federated single sign-on (SSO) and trust
+    elevation. The Gluu Server is used by universities, government agencies, and
+    companies to secure employee facing and consumer network services. Deployed
+    on one or more dedicated servers and the IaaS platform of your choice, the
+    Gluu Server improves the quality and drives down the cost of an increasingly
+    complex and mission critical IT service: authentication and authorization
+    (AA).
+  url: 'http://www.gluu.org/'
+  short_url: ''
+  twitter: 'https://twitter.com/GluuFederation'
+  blog: 'http://www.gluu.org/blog/'
+  blog_rss: 'http://www.gluu.org/blog/feed'
+  github: 'https://github.com/GluuFederation'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/gluu-logo.png
+  tags: 'Authentication,Identity,Management,API Management Other'
+- slug: google-cloud-identity--access-management-iam
+  name: Google Cloud Identity & Access Management (IAM)
+  description: >-
+    Google Cloud Identity &amp; Access Management (IAM) lets administrators
+    authorize who can take action on specific resources, giving you full control
+    and visibility to manage cloud resources centrally. For established
+    enterprises with complex organizational structures, hundreds of workgroups
+    and potentially many more projects, Cloud IAM provides a unified view into
+    security policy across your entire organization, with built-in auditing to
+    ease compliance processes.
+  url: 'https://cloud.google.com/iam/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/right-roles.png
+  tags: 'Identity,IAM,Authentication,Google APIs'
+- slug: google-cloud-key-management-service-kms
+  name: Google Cloud Key Management Service (KMS)
+  description: >-
+    Cloud KMS is a cloud-hosted key management service that lets you manage
+    encryption for your cloud services the same way you do on-premises. You can
+    generate, use, rotate and destroy AES256 encryption keys. Cloud KMS is
+    integrated with IAM and Cloud Audit Logging so that you can manage
+    permissions on individual keys, and monitor how these are used. Use Cloud
+    KMS to protect secrets and other sensitive data which you need to store in
+    Google Cloud Platform.
+  url: 'https://cloud.google.com/kms/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/kms-lead.png
+  tags: 'Authentication,Management,Google APIs'
+- slug: google-cloud-user-accounts
+  name: Google Cloud User Accounts
+  description: >-
+    Service for managing the global Google Cloud user accounts. This API
+    reference is organized by resource type. Each resource type has one or more
+    data representations and one or more methods.
+  url: 'https://cloud.google.com/compute/docs/access/user-accounts/api/latest/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/google-cloud-icon.png
+  tags: 'Authentication,Management,Users,Google APIs'
+- slug: google-oauth2
+  name: Google OAuth2
+  description: >-
+    Google APIs use the OAuth 2.0 protocol for authentication and authorization.
+    Google supports common OAuth 2.0 scenarios such as those for web server,
+    installed, and client-side applications. To begin, obtain OAuth 2.0 client
+    credentials from the Google API Console. Then your client application
+    requests an access token from the Google Authorization Server, extracts a
+    token from the response, and sends the token to the Google API that you want
+    to access. For an interactive demonstration of using OAuth 2.0 with Google
+    (including the option to use your own client credentials), experiment with
+    the OAuth 2.0 Playground.
+  url: 'https://developers.google.com/identity/protocols/OAuth2'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/Google-OAuth@2x.png
+  tags: 'Authentication,Google APIs'
+- slug: janrain
+  name: Janrain
+  description: >-
+    The Janrain User Management Platform (JUMP) helps organizations succeed on
+    the social web by providing leading technology to leverage the popularity of
+    social networks and identities for user acquisition, engagement, and
+    enhanced customer intelligence. Our solutions, including social login,
+    social sharing, social profile data collection and storage, access to the
+    social graph, game mechanics, and digital strategy services, improve the
+    effectiveness of online marketing initiatives for leading brands like Fox,
+    Universal Music Group, Whole Foods, MTV, Purina, Avis and Dr Pepper.
+  url: 'http://janrain.com'
+  short_url: ''
+  twitter: 'https://twitter.com/janrain'
+  blog: 'http://www.janrain.com/blog'
+  blog_rss: 'http://feeds.feedburner.com/janrain-blog'
+  github: 'https://github.com/janrain'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/825_logo.jpg
+  tags: 'OpenID,Authentication,Identity,Identity,Authentication'
+- slug: loginradius
+  name: LoginRadius
+  description: >-
+    To keep your business ahead of current Internet trends, we at LoginRadius
+    came up with a different approach to the log-in process. Using LoginRadius,
+    you can easily integrate social logins on your website and allow users to
+    login with their existing accounts on Facebook, Google, Yahoo, Twitter and
+    over 20 more providers. By eliminating lengthy and sometimes irritating
+    registration process, not only will your website attract more traffic but
+    also boost your user base. LoginRadius is a &ldquo;Software As A
+    Service&rdquo; (SAAS).
+  url: 'http://www.loginradius.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/LoginRadius'
+  blog: 'http://blog.loginradius.com'
+  blog_rss: 'http://blog.loginradius.com/feed/'
+  github: 'https://github.com/LoginRadius'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1086_logo.png
+  tags: 'Login,Users,Authentication,Authentication,Identity'
+- slug: logintc
+  name: LoginTC
+  description: >-
+    The LoginTC application, when enabled with a LoginTC token, allows you to
+    securely log on to LoginTC-enabled websites and applications. This LoginTC
+    app (available for Android, BlackBerry, and iOS platforms) allows a user to
+    have multiple LoginTC tokens to access multiple LoginTC-enabled websites and
+    applications. The administrator of every LoginTC-protected website you
+    subscribe will provide you with an Activation Code and the LoginTC Name
+    created for you via e-mail, over the phone, or via post mail.
+  url: 'https://www.logintc.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/logintc'
+  blog: 'https://www.logintc.com/blog/'
+  blog_rss: 'https://www.logintc.com/blog/rss.xml'
+  github: 'https://github.com/logintc'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/login-tc.png
+  tags: Authentication
+- slug: miicard
+  name: miiCard
+  description: >-
+    miiCard (My Internet Identity) is a global Identity as a Service solution
+    that proves &nbsp;&lsquo;you are who you say you are&rsquo;, &nbsp;purely
+    online, in minutes and to the same level as a physical passport or photo ID
+    check. &nbsp;Through a patented process that leverages the trust between an
+    individual and their financial institution, miiCard establishes identity to
+    Level of Assurance 3+ and meets Know Your Customer and Anti-Money Laundering
+    identity guidelines, enabling the sale of regulated products and services
+    purely online. &nbsp;Combining online identity proofing with strong
+    authentication, miiCard provides the trust and security required for people
+    and businesses to meet and transact with confidence in a purely digital
+    environment.
+  url: 'http://www.miicard.com'
+  short_url: ''
+  twitter: 'https://twitter.com/#!/miicard'
+  blog: 'http://www.miicard.com/blog'
+  blog_rss: 'http://www.miicard.com/rss.xml'
+  github: 'https://github.com/miiCard'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/847_logo.png
+  tags: 'Identity,Security,API United Kingdom,Identity,Authentication'
+- slug: oauth.io
+  name: OAuth.io
+  description: >-
+    OAuth.io is a dead simple OAuth solution that allows you to integrate the
+    common API providers, with just three lines of JavaScript, completely
+    abstracting away the complexity of OAuth integration. By using OAuth.io, you
+    are free to focus your attention on product development instead of losing
+    time on API integration using OAuth.
+  url: 'https://oauth.io/'
+  short_url: ''
+  twitter: 'https://twitter.com/OAuth_io'
+  blog: 'http://blog.oauth.io/'
+  blog_rss: 'http://blog.oauth.io/feed/'
+  github: 'https://github.com/oauth-io'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/oauth-io.png
+  tags: 'Authentication,Authentication,API LIfeycle,Imports'
+- slug: okta
+  name: Okta
+  description: >-
+    Okta is the foundation for secure connections between people and technology.
+    By harnessing the power of the cloud, Okta allows people to access
+    applications on any device at any time, while still enforcing strong
+    security protections. It integrates directly with an organization's existing
+    directories and identity systems, as well as 4,000+ applications.
+  url: 'https://www.okta.com'
+  short_url: ''
+  twitter: 'https://twitter.com/okta'
+  blog: 'http://www.okta.com/blog/'
+  blog_rss: 'http://feeds.feedburner.com/OktaBlog'
+  github: 'https://github.com/okta'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1937_logo.png
+  tags: 'Authentication,Identity,Target'
+- slug: openuma
+  name: OpenUMA
+  description: >-
+    User-Managed Access (UMA) is an OAuth-based protocol that enables an
+    individual to control the authorization of data sharing and service access
+    made by others. The OpenUMA community shares an interest in informing,
+    improving, and extending the development of UMA-compatible open-source
+    software as part of ForgeRock&rsquo;s Open Identity Stack.
+  url: 'https://forgerock.org/openuma/'
+  short_url: ''
+  twitter: ''
+  blog: 'https://forgerock.org/blog/'
+  blog_rss: 'https://forgerock.org/feed/'
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/open-uma.png
+  tags: 'OAuth,Authentication'
+- slug: stormpath
+  name: Stormpath
+  description: >-
+    Stormpath is an authentication and user management service that helps
+    development teams quickly and securely build web and mobile applications and
+    services. With the Stormpath API, you can add a user management layer to
+    simple or complex applications, with little custom code.
+  url: 'http://www.stormpath.com/'
+  short_url: ''
+  twitter: 'https://twitter.com/gostormpath'
+  blog: 'http://www.stormpath.com/blog/'
+  blog_rss: 'http://www.stormpath.com/blog/feed'
+  github: 'https://github.com/stormpath'
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/1170_logo.png
+  tags: >-
+    Identity,Security,Users,Authentication,User,Identity,API
+    LIfeycle,Target,Service Level Agreement,Reliability
