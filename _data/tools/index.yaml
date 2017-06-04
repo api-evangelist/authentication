@@ -1,0 +1,132 @@
+- slug: authsrv
+  name: auth-srv
+  description: An Oauth2 authentication service for microservices
+  url: 'https://github.com/micro/auth-srv'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Authentication,OAuth'
+- slug: googleauthenticator
+  name: google-authenticator
+  description: Open source version of Google Authenticator (except the Android app)
+  url: 'https://github.com/google/google-authenticator'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Authentication
+- slug: hello.js
+  name: hello.js
+  description: >-
+    A Javascript RESTFUL API library for connecting with OAuth2 services, such
+    as Google+ API, Facebook Graph and Windows Live Connect
+  url: 'https://github.com/MrSwitch/hello.js'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'OAuth,Authentication,Clients'
+- slug: identityserver3
+  name: IdentityServer3
+  description: OpenID Connect Provider and OAuth 2.0 Authorization Server Framework
+  url: 'https://github.com/IdentityServer/IdentityServer3'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Authentication
+- slug: loopbackcomponentoauth2
+  name: loopback-component-oauth2
+  description: oAuth 2.0 server for LoopBack
+  url: 'https://github.com/strongloop/loopback-component-oauth2'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Authentication
+- slug: nginxauthproxy
+  name: nginx-auth-proxy
+  description: nginx auth proxy container
+  url: 'https://github.com/opendns/nginx-auth-proxy'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: 'Proxy,Authentication'
+- slug: oauth2server
+  name: oauth2-server
+  description: 'A spec compliant, secure by default PHP OAuth 2.0 Server'
+  url: 'https://github.com/thephpleague/oauth2-server'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Authentication
+- slug: oauth2serverphp
+  name: oauth2-server-php
+  description: A library for implementing an OAuth2 Server in php
+  url: 'https://github.com/bshaffer/oauth2-server-php'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Authentication
+- slug: oauth2orize
+  name: oauth2orize
+  description: OAuth 2.0 authorization server toolkit for Node.js.
+  url: 'https://github.com/jaredhanson/oauth2orize'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Authentication
+- slug: openuma
+  name: OpenUMA
+  description: >-
+    You know that blue &ldquo;Share&rdquo; button in Google Apps? Ever wanted to
+    add a feature like that to your own app or API ecosystem? The UMA protocol
+    enables you to do just that. User-Managed Access (UMA) is an OAuth-based
+    protocol that enables an individual to control the authorization of data
+    sharing and service access made by others. The OpenUMA community shares an
+    interest in informing, improving, and extending the development of
+    UMA-compatible open-source software as part of ForgeRock&rsquo;s Open
+    Identity Stack.
+  url: 'https://forgerock.org/openuma/'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/tool/open-uma.png
+  tags: 'Authentication,OAuth'
+- slug: pythonoauth2
+  name: python-oauth2
+  description: 'A fully tested, abstract interface to creating OAuth clients and servers.'
+  url: 'https://github.com/joestump/python-oauth2'
+  short_url: ''
+  twitter: ''
+  blog: ''
+  blog_rss: ''
+  github: ''
+  image: 'https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-github.png'
+  tags: Authentication
