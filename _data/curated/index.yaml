@@ -1,8 +1,1703 @@
 ---
-- curated_id: b1ae861d2d88ca390f93ca03310dc864
-  item_date: "2012-04-21 12:49:06"
-  title: Why Startups Need an API
-  url: https://tune.com/blog/startups-need-api/
-  domain: tune.com
+- curated_id: 4392f8681cc7da14f8a97b05b0ddc508
+  item_date: "2012-05-05 11:55:05"
+  title: TradeKing Enhances Open API
+  url: http://www.programmableweb.com/news/tradeking-enhances-open-api/2012/05/04
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 7631c789226ea3582572084b7be74157
+  item_date: "2013-01-03 00:00:00"
+  title: Get our white label solution and remove ?Powered by LoginRadius?!
+  url: https://blog.loginradius.com/2013/01/get-our-white-label-solution-and-remove-powered-by-loginradius/
+  domain: blog.loginradius.com
+  image: ""
+- curated_id: 60b891271afa974de8e0be31f6a006e3
+  item_date: "2013-01-04 00:00:00"
+  title: LoginRadius partners with leading eCommerce platform X-Cart
+  url: https://blog.loginradius.com/2013/01/loginradius-partners-with-leading-ecommerce-platform-x-cart/
+  domain: blog.loginradius.com
+  image: ""
+- curated_id: a1841ff9a6f46ec301b32f62b51e5f8c
+  item_date: "2013-01-16 14:44:42"
+  title: 'Techmeme: Janrain Raises $33M From Salesforce, And Others For Social Log-In
+    Management Platform'
+  url: http://www.techmeme.com/130114/p44#a130114p44
+  domain: www.techmeme.com
+  image: ""
+- curated_id: c7b885780ab3dcc09e61e16c2a2af72f
+  item_date: "2013-04-17 00:00:00"
+  title: Secure Your REST API... The Right Way
+  url: https://stormpath.com/blog/secure-your-rest-api-right-way
+  domain: stormpath.com
+  image: ""
+- curated_id: eb29110b65185c3c0ebf96dc75b32ce4
+  item_date: "2013-04-22 00:00:00"
+  title: Why Two-Factor Authentication Is The Practical Choice To Prevent Account
+    Takeover
+  url: http://duo.com/blog/why-two-factor-authentication-is-the-practical-choice-to-prevent-account-takeover
+  domain: duo.com
+  image: ""
+- curated_id: 3b154c04ee285f1b86c3ca7f73cd8229
+  item_date: "2013-04-25 00:00:00"
+  title: 'To PUT or POST?  '
+  url: https://stormpath.com/blog/put-or-post
+  domain: stormpath.com
+  image: ""
+- curated_id: 62d0d83d56fd2bff69884a2d2c8d2699
+  item_date: "2013-05-21 00:00:00"
+  title: Duo Launches New Customer Referral Program, Offers $50 Amazon Gift Card for
+    Every New Customer
+  url: https://duo.com/blog/duo-launches-new-customer-referral-program-offers-50-amazon-gift-card-for-every-new-customer
+  domain: duo.com
+  image: ""
+- curated_id: 33af885e363b3b97234b07ccddaa8ad1
+  item_date: "2013-05-24 00:00:00"
+  title: 'Developer Perspective: Scoop.it'
+  url: https://developer.linkedin.com/blog/developer-perspective-scoopit
+  domain: developer.linkedin.com
+  image: ""
+- curated_id: b0fa090029d8273d9be6bebe3f955e07
+  item_date: "2013-05-28 00:00:00"
+  title: 'Linking and Resource Expansion: REST API Tips'
+  url: https://stormpath.com/blog/linking-and-resource-expansion-rest-api-tips
+  domain: stormpath.com
+  image: ""
+- curated_id: d5767c9dd9d6de05871e2160172013c1
+  item_date: "2013-05-28 00:00:00"
+  title: FTC Taps Expertise of Duo CTO for June 4 Forum on Mobile Security
+  url: https://www.duosecurity.com/blog/ftc-taps-expertise-of-duo-cto-for-june-4-forum-on-mobile-security
+  domain: www.duosecurity.com
+  image: ""
+- curated_id: 9bed2668c9dbb97b9e5fc67dafa57922
+  item_date: "2013-05-29 00:00:00"
+  title: Announcing Login with Amazon ? an authentication service to securely connect
+    with Amazon customers
+  url: https://developer.amazon.com/appsandservices/community/post/Tx3NJ8243NI3ONM/Announcing-Login-with-Amazon-an-authentication-service-to-securely-connect-with
+  domain: developer.amazon.com
+  image: ""
+- curated_id: fbdc60850ab47aad572c04c4f420b482
+  item_date: "2013-05-30 00:00:00"
+  title: Janrain Now Supports Login with Amazon
+  url: http://janrain.com/blog/janrain-now-supports-login-with-amazon/
+  domain: janrain.com
+  image: ""
+- curated_id: 8b19f5ce25dc29cb4539985e486a780f
+  item_date: "2013-05-31 00:00:00"
+  title: 'Free Webinar: How Two-Factor Authentication Can Protect Your Sensitive Data
+    ? and Your Reputation'
+  url: http://duo.com/blog/free-webinar-how-two-factor-authentication-can-protect-your-sensitive-data-and-your-reputation
+  domain: duo.com
+  image: ""
+- curated_id: a01da3a690a329bb3e0f3cafdd67d7cb
+  item_date: "2013-06-03 00:00:00"
+  title: Amazon Joins Single Sign-On Game with ?Login with Amazon?
+  url: http://www.programmableweb.com/2013/06/03/amazon-joins-single-sign-on-game-with-%e2%80%98login-with-amazon%e2%80%99/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: dfb93ae0929013844a9648117c825d16
+  item_date: "2013-06-06 00:00:00"
+  title: Get To Know Your Users With GraphDive And Janrain
+  url: http://janrain.com/blog/get-to-know-your-users-with-graphdive-and-janrain/
+  domain: janrain.com
+  image: ""
+- curated_id: b2c81c85f95dc524e73ec2c8d85af229
+  item_date: "2013-06-07 00:00:00"
+  title: LoginRadius Adds Login with Amazon, Platform Now Serves Over 50,000 Sites
+    and Reaches 10 Million Users Per Month
+  url: http://www.programmableweb.com/2013/06/07/loginradius-adds-login-with-amazon-platform-now-serves-over-50000-sites-and-reaches-10-million-users-per-month/
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 9a310a14ea3c444ef8965daae233fbb3
+  item_date: "2013-06-20 00:00:00"
+  title: Penetration Testing and Two Factor Authentication
+  url: http://duo.com/blog/penetration-testing-and-two-factor-authentication
+  domain: duo.com
+  image: ""
+- curated_id: 63194f005173de4bb25e625a1796a2b1
+  item_date: "2013-06-21 00:00:00"
+  title: 'Free Webinar: Evolving Strong Authentication at the University of Arizona'
+  url: https://duo.com/blog/free-webinar-evolving-strong-authentication-at-the-university-of-arizona
+  domain: duo.com
+  image: ""
+- curated_id: be07eed3306200a5f25864bfa360d902
+  item_date: "2013-06-25 00:00:00"
+  title: 'Innovation Blender: Janrain Encourages Their Intrapreneurs To Shine'
+  url: http://www.janrain.com/blog/innovation-blender-janrain-encourages-their-intrapreneurs-to-shine/
+  domain: www.janrain.com
+  image: ""
+- curated_id: 620e24b29726601d5d7a724d1b7ddfad
+  item_date: "2013-06-25 00:00:00"
+  title: Department of Homeland Security Issues Alert on the Risks of Factory Default
+    Passwords
+  url: https://www.duosecurity.com/blog/department-of-homeland-security-issues-alert-on-the-risks-of-factory-default-passwords/
+  domain: www.duosecurity.com
+  image: ""
+- curated_id: 6ecffeebdbcd6b3a50231ddd3ba6d903
+  item_date: "2013-06-27 00:00:00"
+  title: My Social Media Account Has 2 Factor Authentication ? Why Doesn?t My Bank?
+  url: http://duo.com/blog/my-social-media-account-has-2-factor-authentication-why-doesnt-my-bank
+  domain: duo.com
+  image: ""
+- curated_id: ec55a65225587f55db1b7b667698064b
+  item_date: "2013-06-27 00:00:00"
+  title: Easy User Login for AWS Applications
+  url: https://stormpath.com/blog/easy-user-login-aws-applications
+  domain: stormpath.com
+  image: ""
+- curated_id: 7b0d8093fcdbe2d24633f67be9b9d071
+  item_date: "2013-07-02 00:00:00"
+  title: Using the BlackBerry 10 OS? Protect Yourself with Duo Two-Factor Authentication
+  url: https://www.duosecurity.com/blog/using-the-blackberry-10-os-protect-yourself-with-duo-two-factor-authentication/
+  domain: www.duosecurity.com
+  image: ""
+- curated_id: 524a9fad3e90705f2390c858b6e5ab9a
+  item_date: "2013-07-03 00:00:00"
+  title: PayPal login now available with Social Login
+  url: http://blog.loginradius.com/2013/07/paypal-login-now-available-with-social-login/
+  domain: blog.loginradius.com
+  image: ""
+- curated_id: 84b086a88f602bb2edfc4343d959d932
+  item_date: "2013-07-08 00:00:00"
+  title: Introducing Salesforce login into the LoginRadius SaaS
+  url: https://blog.loginradius.com/2013/07/introducing-salesforce-login-into-the-loginradius-saas/
+  domain: blog.loginradius.com
+  image: ""
+- curated_id: d6eeb6f4ae4467abd396ae0fa81030b4
+  item_date: "2013-07-09 00:00:00"
+  title: Digital Identity and the New Consumer
+  url: http://www.janrain.com/blog/digital-identity-and-the-new-consumer/
+  domain: www.janrain.com
+  image: ""
+- curated_id: fd76bf25d870f540dd42c8bccc164c50
+  item_date: "2013-07-11 00:00:00"
+  title: 'Federation Evolved: How Cloud, Mobile  APIs Change the Way We Broker Identity'
+  url: https://flascelles.wordpress.com/2013/07/09/federation-evolved-how-cloud-mobile-apis-change-the-way-we-broker-identity/
+  domain: flascelles.wordpress.com
+  image: ""
+- curated_id: 167e1491fa99c1880d09ab12c5f40337
+  item_date: "2013-08-06 00:00:00"
+  title: Welcome to the [Push] Club, Twitter
+  url: http://duo.com/blog/welcome-to-the-push-club-twitter
+  domain: duo.com
+  image: ""
+- curated_id: e046ba74ab04c118af3451d9de3865ae
+  item_date: "2013-08-15 00:00:00"
+  title: Why 2 Factor Authentication Hinges on the User Experience
+  url: http://duo.com/blog/why-2-factor-authentication-hinges-on-the-user-experience
+  domain: duo.com
+  image: ""
+- curated_id: a3651a63a4b3f657bce72cc633a4f81a
+  item_date: "2013-08-19 00:00:00"
+  title: Easy User Backend for Rackspace Apps
+  url: https://stormpath.com/blog/easy-user-backend-rackspace-apps
+  domain: stormpath.com
+  image: ""
+- curated_id: 4210c24ce5a786890a36ed068abc528b
+  item_date: "2013-10-08 00:00:00"
+  title: 'Py-mara-thon: Revamped Python SDK, Sample App, And More'
+  url: https://stormpath.com/blog/stormpath-python-sdk-revamped-pycon-sponsor
+  domain: stormpath.com
+  image: ""
+- curated_id: 8478fb751b3d59cb352e1e3ceb04cb81
+  item_date: "2013-10-15 00:00:00"
+  title: How to Increase Trust and Transparency with Permission-based Data Access
+  url: http://blog.gigya.com/how-to-increase-trust-and-transparency-with-permission-based-data-access/
+  domain: blog.gigya.com
+  image: ""
+- curated_id: 2f12e28f9b670eb328b24aa863f2970b
+  item_date: "2013-10-21 00:00:00"
+  title: LoginRadius Simplified Social Sharing Plugin now available for WordPress
+    website owners!
+  url: https://blog.loginradius.com/2013/10/loginradius-simplified-social-sharing-plugin-now-available-wordpress-website-owners/
+  domain: blog.loginradius.com
+  image: ""
+- curated_id: 4d3de0d2df68695e80e976896b5cd4d3
+  item_date: "2013-10-29 00:00:00"
+  title: 'The Landscape of Social Login: The Identity War Heats Up'
+  url: http://blog.gigya.com/social-login-infographic-q3-2013/
+  domain: blog.gigya.com
+  image: ""
+- curated_id: 5171e8f2e05619bc187660f48215cc69
+  item_date: "2013-11-02 00:00:00"
+  title: Easy And Complete User Management for PHP
+  url: https://stormpath.com/blog/stormpath-php-sdk-revamped
+  domain: stormpath.com
+  image: ""
+- curated_id: dbd68e5e08f2294460a63c8ab414afdb
+  item_date: "2013-12-04 00:00:00"
+  title: The Power of Social Auth
+  url: https://blog.mixpanel.com/2013/12/05/the-power-of-social-auth/
+  domain: blog.mixpanel.com
+  image: ""
+- curated_id: d4bac16007f1d44fca5f22aa92df3f2f
+  item_date: "2013-12-11 00:00:00"
+  title: Introducing access tokens for the API
+  url: http://blog.beanstalkapp.com/post/69713788287/introducing-access-tokens-for-the-api#_=_
+  domain: blog.beanstalkapp.com
+  image: ""
+- curated_id: d76b4e2500333f3d5a6df90c03d78380
+  item_date: "2014-01-08 00:00:00"
+  title: ""
+  url: http://blog.gigya.com/customer-spotlight-parentesis-drives-deeper-connections-with-social/
+  domain: blog.gigya.com
+  image: ""
+- curated_id: 84372106101dc1cfc25be700ce0a0224
+  item_date: "2014-02-24 00:00:00"
+  title: 7 Considerations for Using Social Login on Your Website and/or App
+  url: https://blog.loginradius.com/2014/02/7-considerations-using-social-login-on-website-app/
+  domain: blog.loginradius.com
+  image: ""
+- curated_id: bca8742cfc836aa29a3e26f5bdba089e
+  item_date: "2014-04-10 00:00:00"
+  title: We are not bleeding at LoginRadius
+  url: https://blog.loginradius.com/2014/04/we-are-not-bleeding-at-loginradius/
+  domain: blog.loginradius.com
+  image: ""
+- curated_id: 01429bb341bf31f1cf5e2a135db60d27
+  item_date: "2014-06-06 00:00:00"
+  title: OAuth Tutorial ? 3 reasons why developers struggle
+  url: http://blog.oauth.io/oauth-tutorial
+  domain: blog.oauth.io
+  image: ""
+- curated_id: cd4eba3613bfe8929d5cf9b24534d9cd
+  item_date: "2014-06-10 00:00:00"
+  title: An Update to Orchestrate User Authentication
+  url: https://orchestrate.io/blog/2014/06/10/userauth/
+  domain: orchestrate.io
+  image: ""
+- curated_id: f83932c0ccdc11387cc7caa58116e706
+  item_date: "2014-06-12 00:00:00"
+  title: 'The Keys To Leveraging Social Identity: New Research Report From Altimeter
+    Group'
+  url: http://www.janrain.com/blog/keys-leveraging-social-identity-new-research-report-altimeter-group/
+  domain: www.janrain.com
+  image: ""
+- curated_id: 46c9ee39ab164ca15ff0e87322efc136
+  item_date: "2014-06-18 00:00:00"
+  title: 'Speedy and Securely Signed Documents: A DocuSign and Okta Integration'
+  url: https://www.okta.com/blog/2014/06/speedy-and-securely-signed-documents-a-docusign-and-okta-integration/
+  domain: www.okta.com
+  image: ""
+- curated_id: 725ffd6970d31342e0d56c0d8859b313
+  item_date: "2014-06-26 00:00:00"
+  title: Introducing Auth APIs to get data behind logins
+  url: http://blog.kimonolabs.com/2014/06/27/introducing-auth-apis-to-get-data-behind-logins/
+  domain: blog.kimonolabs.com
+  image: ""
+- curated_id: 33d101e0e385cb870f13300fa366ca69
+  item_date: "2014-08-12 00:00:00"
+  title: Introducing AnyAuth
+  url: https://www.built.io/blog/2014/08/introducing-anyauth/
+  domain: www.built.io
+  image: ""
+- curated_id: 5040cf844640a322e632e7a0a4828bd1
+  item_date: "2014-08-14 13:38:10"
+  title: 'Dynamic Websites Using the AWS SDK for JavaScript in the Browser, Part 2:
+    Auth0 and Token-based? ? Medium'
+  url: https://medium.com/aws-activate-startup-blog/dynamic-websites-using-the-aws-sdk-for-javascript-in-the-browser-part-2-auth0-and-token-based-de2b8043e27
+  domain: medium.com
+  image: ""
+- curated_id: 2be694462d7a1af4e98ef1e6ab38d25b
+  item_date: "2014-08-18 13:32:20"
+  title: StrongLoop |   Announcing Support for Google, Facebook and GitHub Authentication
+    in LoopBack
+  url: https://strongloop.com/strongblog/authenticate-loopback-google-facebook-github/
+  domain: strongloop.com
+  image: ""
+- curated_id: ccc5212b6029e0088e1bea3024c09c5f
+  item_date: "2014-09-25 00:00:00"
+  title: 'Survey: The State of Consumer Privacy  Personalization'
+  url: http://blog.gigya.com/survey-the-state-of-consumer-privacy-personalization/
+  domain: blog.gigya.com
+  image: ""
+- curated_id: eb4f30e3c89b2fb99ca14ff8e9f324a4
+  item_date: "2014-10-01 00:00:00"
+  title: 'Authentication: 5 Keys to Building Integrations'
+  url: http://blog.cloud-elements.com/authentication-5-keys-building-integrations-2
+  domain: blog.cloud-elements.com
+  image: ""
+- curated_id: e32b8e44b05ab9bfd411c04a99ca4802
+  item_date: "2014-12-02 18:49:07"
+  title: Using JSON Web Tokens as API Keys
+  url: https://auth0.com/blog/2014/12/02/using-json-web-tokens-as-api-keys/
+  domain: auth0.com
+  image: ""
+- curated_id: 74f20036ce6150ad440394fc802d0ae2
+  item_date: "2014-12-02 22:07:45"
+  title: JSON Web Tokens - jwt.io
+  url: https://jwt.io/
+  domain: jwt.io
+  image: ""
+- curated_id: 0819b42c645cd00fa17f6d4f2b1c499f
+  item_date: "2015-02-19 00:00:00"
+  title: The need for contextual information within multifactor authentication
+  url: https://www.logintc.com/blog/2015-02-18-contextual-information-and-2FA.html
+  domain: www.logintc.com
+  image: ""
+- curated_id: 8eb1dbcc2f4c8947edad3bd219779e53
+  item_date: "2015-02-20 00:00:00"
+  title: Googles new CAPTCHA security login raises legitimate privacy concerns (GOOG)
+  url: http://www.businessinsider.com/google-no-captcha-adtruth-privacy-research-2015-2
+  domain: www.businessinsider.com
+  image: ""
+- curated_id: 8ae0a63a70e8eba1705cb757fa904b25
+  item_date: "2015-03-23 11:08:49"
+  title: Randall Degges - Why I Love Basic Auth
+  url: https://www.rdegges.com/why-i-love-basic-auth/
+  domain: www.rdegges.com
+  image: ""
+- curated_id: 7d8378c2c3bdb65a177683aeaa1dcdfe
+  item_date: "2015-03-26 00:00:00"
+  title: Authentication Using JSON Web Token
+  url: http://www.codeproject.com/Articles/890684/Authentication-Using-JSON-Web-Token
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 56e58296af15620339c1e5ed83aebc14
+  item_date: "2015-04-01 00:00:00"
+  title: Salesforce buys mobile authentication startup Toopher
+  url: http://venturebeat.com/2015/04/01/salesforce-buys-mobile-authentication-startup-toopher/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 61da9851ac02c4507e1a9dfccd634ace
+  item_date: "2015-04-15 00:00:00"
+  title: Integrating Multiple Orgs using the OAuth 2.0 SAML Bearer Assertion Flow
+  url: https://developer.salesforce.com/blogs/isv/2015/04/integrating-multi-orgs-using-oauth.html
+  domain: developer.salesforce.com
+  image: ""
+- curated_id: 26805a9e7e3b0538630b3bf15c8d12bd
+  item_date: "2015-04-17 00:00:00"
+  title: Authenticating Users Through OAuth2 in Azure
+  url: http://www.codeproject.com/Tips/897584/Authenticating-Users-Through-OAuth-in-Azure
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 9e60fe61ee7a8c15aa3fdbac2fe8af0d
+  item_date: "2015-04-19 00:00:00"
+  title: Active Directory API - Gives You an Easier Way to Access Data Stored In...
+  url: http://www.sooperarticles.com/internet-articles/active-directory-api-gives-you-easier-way-access-data-stored-directories-1411686.html
+  domain: www.sooperarticles.com
+  image: ""
+- curated_id: 66cfa4c3e145f3d2c961816146ef6514
+  item_date: "2015-04-21 00:00:00"
+  title: 'A final farewell to ClientLogin, OAuth 1.0 (3LO), AuthSub, and OpenID 2.0 '
+  url: http://googledevelopers.blogspot.com/2015/04/a-final-farewell-to-clientlogin-oauth.html
+  domain: googledevelopers.blogspot.com
+  image: ""
+- curated_id: f2e29225cc6d62cbcb88b8de64e490d8
+  item_date: "2015-04-21 00:00:00"
+  title: Passwordless SMS Authentication Using Xamarin
+  url: https://www.twilio.com/blog/2015/04/passwordless-sms-authentication-using-xamarin.html
+  domain: www.twilio.com
+  image: ""
+- curated_id: db123a53da15c98d7aeca54006a163ea
+  item_date: "2015-04-24 00:00:00"
+  title: How to Authenticate Using the Konekt REST API
+  url: http://konekt.io/blog/how-to-authenticate-using-the-konekt-rest-api/
+  domain: konekt.io
+  image: ""
+- curated_id: e397643acbadc9bd4248699b5ff9ecd3
+  item_date: "2015-04-27 00:00:00"
+  title: Auth0 Europe Launches
+  url: https://auth0.com/blog/2015/04/27/auth0-europe-launches/
+  domain: auth0.com
+  image: ""
+- curated_id: 24ec1cc2bfbfaa11ef6e33755e75bb5c
+  item_date: "2015-04-27 00:00:00"
+  title: New ? Glacier Vault Access Policies
+  url: https://aws.amazon.com/blogs/aws/glacier-vault-access-policies/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: af1124a1a83c77b42dd806b9a7a59bbf
+  item_date: "2015-04-27 15:36:53"
+  title: API Keys - SendGrid Documentation
+  url: https://sendgrid.com/docs/User_Guide/Account/api_keys.html
+  domain: sendgrid.com
+  image: ""
+- curated_id: f04754cd66885159b4a1fe692738f879
+  item_date: "2015-04-28 00:00:00"
+  title: Announcing the Auth0 Open Source Single-Sign-On Dashboard
+  url: https://auth0.com/blog/2015/04/28/announcing-auth0-sso-dashboard/
+  domain: auth0.com
+  image: ""
+- curated_id: d6c0567e1d00b8163ffc8a595feeb402
+  item_date: "2015-05-17 00:00:00"
+  title: 'Meet MyUSA: Your one account for government'
+  url: https://18f.gsa.gov/2015/05/18/myusa/
+  domain: 18f.gsa.gov
+  image: ""
+- curated_id: f77549d0e8b7062b4fad73923c1c464b
+  item_date: "2015-05-20 00:00:00"
+  title: New SDKs, Code Samples,  Docs  for Login and Pay with Amazon
+  url: https://aws.amazon.com/blogs/aws/new-sdks-code-samples-docs-for-login-and-pay-with-amazon/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 5bb2c73f787b9e84934e986272bac1e2
+  item_date: "2015-05-20 00:00:00"
+  title: Introducing Digits Kit
+  url: https://blog.twitter.com/2015/introducing-digits-kit
+  domain: blog.twitter.com
+  image: ""
+- curated_id: 5241f96b96e969946249246f20c7e727
+  item_date: "2015-05-22 00:00:00"
+  title: 5 Things to Consider When Using RESTful APIs and OAuth 2.0
+  url: http://www.programmableweb.com/news/5-things-to-consider-when-using-restful-apis-and-oauth-2.0/elsewhere-web/2015/05/22
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 6514d272d9512b94b59819585dc561a5
+  item_date: "2015-05-22 00:00:00"
+  title: Amazon Releases SDKs for Login and Pay with Amazon
+  url: http://www.programmableweb.com/news/amazon-releases-sdks-login-and-pay-amazon/2015/05/22
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: cfd21d7ffd527202f925579fc14afddd
+  item_date: "2015-05-23 13:02:06"
+  title: Single Sign-On For Government Applications Coming in Weeks
+  url: http://www.nextgov.com/cio-briefing/2015/05/single-sign-government-applications-coming-weeks/113182/
+  domain: www.nextgov.com
+  image: ""
+- curated_id: 768cff88b5b49cbb145c63fa2581017f
+  item_date: "2015-05-28 00:00:00"
+  title: How to Implement Federated API and CLI Access Using SAML 2.0 and AD FS
+  url: https://blogs.aws.amazon.com/security/post/Tx1LDN0UBGJJ26Q/How-to-Implement-Federated-API-and-CLI-Access-Using-SAML-2-0-and-AD-FS
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: ab64d9361e3cffed0071651885db68a8
+  item_date: "2015-06-02 00:00:00"
+  title: 'Single Sign-On: The Enterprise Solution for Too Many Passwords '
+  url: http://www.smartsheet.com/blog/single-sign-enterprise-solution-too-many-passwords
+  domain: www.smartsheet.com
+  image: ""
+- curated_id: 75394f3be35b066b9a36c8fb348c13d8
+  item_date: "2015-06-09 00:00:00"
+  title: Ping unveils new IAM platform enabling multifactor authentication using Apple
+    Watch
+  url: http://www.fiercemobileit.com/story/ping-unveils-new-iam-platform-enabling-multifactor-authentication-using-app/2015-06-09
+  domain: www.fiercemobileit.com
+  image: ""
+- curated_id: 3a1a281e06cff33023ab4f3836a652fb
+  item_date: "2015-06-10 00:00:00"
+  title: The relation between OpenID Connect and OAuth 2
+  url: http://api-university.com/blog/the-relation-between-openid-connect-and-oauth-2/
+  domain: api-university.com
+  image: ""
+- curated_id: d0e14bbdc20d19b0d6c948e5b4374c4e
+  item_date: "2015-06-16 00:00:00"
+  title: Forms Authentication using Web API
+  url: http://www.codeproject.com/Tips/996859/Forms-Authentication-using-Web-API
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 5178e7ed71f84db0bf503ca23cc30385
+  item_date: "2015-06-16 00:00:00"
+  title: Two ways to create your APISpark account
+  url: http://restlet.com/blog/2015/06/16/two-ways-to-create-your-apispark-account/
+  domain: restlet.com
+  image: ""
+- curated_id: 822f3f05436ab6b8bbc23ff942b09129
+  item_date: "2015-06-19 00:00:00"
+  title: OAuth Quick Start
+  url: http://docs.brightcove.com/en/video-cloud/oauth-api/getting-started/quick-start.html
+  domain: docs.brightcove.com
+  image: ""
+- curated_id: 012dd917b7369b7d33bd32d975517685
+  item_date: "2015-06-22 09:00:04"
+  title: Announcing OAuth 2.0, Deprecating OAuth 1.0
+  url: http://blog.rdio.com/developers/2015/06/oauth-20-launch.html
+  domain: blog.rdio.com
+  image: ""
+- curated_id: da96c188a77141b98afc544e7dda23d2
+  item_date: "2015-06-25 17:42:04"
+  title: Announcing the formation of the OTTO WG
+  url: https://www.gluu.org/blog/announcing-the-formation-of-the-otto-wg/
+  domain: www.gluu.org
+  image: ""
+- curated_id: 059811fcb767544d07e9832b02521cf3
+  item_date: "2015-07-10 00:00:00"
+  title: Ingest Profiles API Authentication
+  url: http://docs.brightcove.com/en/video-cloud/ingest-profiles-api/guides/authentication.html
+  domain: docs.brightcove.com
+  image: ""
+- curated_id: ec0d459a9c1f1ac691047f8839b4f920
+  item_date: "2015-08-11 00:00:00"
+  title: Twitter Improves Digits Login Tool For Devs
+  url: http://www.programmableweb.com/news/twitter-improves-digits-login-tool-devs/2015/08/11
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: e304e151b7a79105dfb47630ae87011c
+  item_date: "2015-08-13 00:00:00"
+  title: Using OAuth 2.0 and the Google API Client Library for Javascript with Trigger.io
+    Forge
+  url: http://trigger.io/cross-platform-application-development-blog/2015/08/13/using-oauth-2-0-and-the-google-api-client-library-for-javascript-with-trigger-io-forge/
+  domain: trigger.io
+  image: ""
+- curated_id: d52188c139e17be5343fb96b5fc38fcb
+  item_date: "2015-08-13 00:00:00"
+  title: Microsoft Previews a More Unified Sign-In Approach for Applications
+  url: https://redmondmag.com/articles/2015/08/13/sign-in-approach-for-applications.aspx
+  domain: redmondmag.com
+  image: ""
+- curated_id: 168a001f1ab6f8712b4ff510ed391bd5
+  item_date: "2015-08-27 00:00:00"
+  title: Take control of all your IoT devices with Netvibes + SAMI
+  url: http://blog.netvibes.com/take-control-of-all-your-iot-devices-with-netvibes-sami/
+  domain: blog.netvibes.com
+  image: ""
+- curated_id: aa8598b512a1714fce5a392d7c48e823
+  item_date: "2015-09-24 00:00:00"
+  title: Adding Authentication to Shiny Open Source Edition
+  url: https://auth0.com/blog/2015/09/24/adding-authentication-to-shiny-open-source-edition/
+  domain: auth0.com
+  image: ""
+- curated_id: da6ba72982b5dfef946679ea8bbb52fb
+  item_date: "2015-12-09 00:00:00"
+  title: Apply an OAuth policy on a REST API
+  url: http://blogs.mulesoft.com/dev/newbie/apply-oauth-policy-on-a-rest-api/
+  domain: blogs.mulesoft.com
+  image: ""
+- curated_id: d5bfad86341ffe193948cbd3199dfb77
+  item_date: "2015-12-10 12:15:11"
+  title: Talking to OAuth2 Services with Node.js - Stormpath User Identity API
+  url: https://stormpath.com/blog/talking-to-oauth2-services-with-nodejs/
+  domain: stormpath.com
+  image: ""
+- curated_id: 3fd72abddaad616f51f20f1656c967d9
+  item_date: "2015-12-11 00:00:00"
+  title: Identity and access management for everyone
+  url: http://blogs.ca.com/2015/12/11/identity-and-access-management-for-everyone/
+  domain: blogs.ca.com
+  image: ""
+- curated_id: 49994a172026743199851974152a2d4d
+  item_date: "2015-12-16 00:00:00"
+  title: SSO for Heroku now in Public Beta
+  url: https://blog.heroku.com/archives/2015/12/17/SSO-for-Heroku
+  domain: blog.heroku.com
+  image: ""
+- curated_id: edb0e36f46140bafdb02188cc9ea57ad
+  item_date: "2015-12-17 00:00:00"
+  title: The Basics of SAML
+  url: http://www.gigya.com/blog/the-basics-of-saml/
+  domain: www.gigya.com
+  image: ""
+- curated_id: 4b167748792ae5b9fa75a222abd95d07
+  item_date: "2016-01-06 00:00:00"
+  title: How to use JSON Web Token
+  url: http://jexia.com/how-to-use-json-web-token/
+  domain: jexia.com
+  image: ""
+- curated_id: 095964c3a82c4e3b90fc620000975e8d
+  item_date: "2016-01-08 00:00:00"
+  title: IETF Moves to Simplify Sharing of OAuth Tokens ? Univers Smartphone
+  url: http://www.universmartphone.com/ietf-moves-to-simplify-sharing-of-oauth-tokens/
+  domain: www.universmartphone.com
+  image: ""
+- curated_id: 3c9d00a49639906744ef0b1f574479ea
+  item_date: "2016-01-11 09:16:13"
+  title: Building Simple Command Line Interfaces in Python
+  url: https://stormpath.com/blog/building-simple-cli-interfaces-in-python/
+  domain: stormpath.com
+  image: ""
+- curated_id: d191ccf5ce09870e4295b0582756f543
+  item_date: "2016-01-12 00:00:00"
+  title: How to Enable Web Apps for 2FA With the Nexmo Verify API
+  url: http://www.programmableweb.com/news/how-to-enable-web-apps-2fa-nexmo-verify-api/how-to/2016/01/12
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 3fdc80cd54d74238f7bed5229c0d3402
+  item_date: "2016-01-12 00:00:00"
+  title: Google Apps + Clever Instant Login
+  url: http://blog.clever.com/2016/01/google-apps-clever-instant-login/
+  domain: blog.clever.com
+  image: ""
+- curated_id: cd2564e8d4b99d964cb918a67bb35b7d
+  item_date: "2016-01-13 00:00:00"
+  title: The IAM Console Now Helps Prevent You From Accidentally Deleting In-Use Resources
+  url: https://blogs.aws.amazon.com/security/post/Tx1MBZIQS8JVWV/The-IAM-Console-Now-Helps-Prevent-You-From-Accidentally-Deleting-In-Use-Resource
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: b4e78108a607e8eaf4a793485658864c
+  item_date: "2016-01-19 00:00:00"
+  title: Introducing the OAuth Technology Preview in NGINX Plus R8
+  url: https://www.nginx.com/blog/oauth-technology-preview/
+  domain: www.nginx.com
+  image: ""
+- curated_id: c15df48c7c578712743e18e94fb8463a
+  item_date: "2016-01-19 00:00:00"
+  title: How to Record and Govern Your IAM Resource Configurations Using AWS Config
+  url: https://blogs.aws.amazon.com/security/post/Tx14ADBJOCAT9NS/How-to-Record-and-Govern-Your-IAM-Resource-Configurations-Using-AWS-Config
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: c5b5b97fb99274615cfea10fa278b152
+  item_date: "2016-01-20 00:00:00"
+  title: OAuth authentication on tvOS
+  url: http://www.codeproject.com/Articles/1073024/OAuth-authentication-on-tvOS
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 209b523494fce176548bdfb4748ed135
+  item_date: "2016-01-22 00:00:00"
+  title: 'Keycloak and dagger: Securing your APIs with OAuth2'
+  url: http://www.apiman.io/blog/gateway/security/oauth2/keycloak/authentication/authorization/1.2.x/2016/01/22/keycloak-oauth2-redux.html
+  domain: www.apiman.io
+  image: ""
+- curated_id: 895f650e14bc3e67fc22a944347ac33d
+  item_date: "2016-01-22 00:00:00"
+  title: Cover yourself up! Protecting your APIs with mutual auth
+  url: http://www.apiman.io/blog/gateway/security/mutual-auth/ssl/mtls/1.2.x/2016/01/22/mtls-mutual-auth-redux.html
+  domain: www.apiman.io
+  image: ""
+- curated_id: 752e483c139324c69078877dff9fe625
+  item_date: "2016-01-25 00:00:00"
+  title: Google Play Games API Adjustments Ease Sign-in and Permission Requirements
+  url: http://www.programmableweb.com/news/google-play-games-api-adjustments-ease-sign-and-permission-requirements/brief/2016/01/25
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 77b48c82b591167c6f603b70ed469163
+  item_date: "2016-01-25 00:00:00"
+  title: How to Encrypt OAuth Tokens in 10 minutes With SecureDB
+  url: http://www.programmableweb.com/news/how-to-encrypt-oauth-tokens-10-minutes-securedb/how-to/2016/01/25
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 55a4bdeee4a57ca7faf21d4371f67054
+  item_date: "2016-01-25 09:16:07"
+  title: OAuth with JSON Web Tokens In .NET - Stormpath User Identity API
+  url: https://stormpath.com/blog/token-based-authentication-in-dot-net/
+  domain: stormpath.com
+  image: ""
+- curated_id: 6da3417ee00ee5a8a83a3b6d36ba415b
+  item_date: "2016-01-26 00:00:00"
+  title: Using Google Sign-in With Your Server
+  url: https://dzone.com/articles/using-google-sign-in-with-your-server
+  domain: dzone.com
+  image: ""
+- curated_id: a699724a08d845522a0702f9bdcb2c96
+  item_date: "2016-01-26 00:00:00"
+  title: SSO for Heroku Now Generally Available
+  url: https://blog.heroku.com/archives/2016/1/26/SSO-for-Heroku-Enterprise
+  domain: blog.heroku.com
+  image: ""
+- curated_id: 2091a2abd36c26300f9f48aa5930d850
+  item_date: "2016-02-01 09:53:30"
+  title: Getting Started with SAML in PHP Applications - Stormpath User Identity API
+  url: https://stormpath.com/blog/saml-support-for-php-applications/
+  domain: stormpath.com
+  image: ""
+- curated_id: 30aac546a361d6d876f7d44504605f77
+  item_date: "2016-02-02 00:00:00"
+  title: SAML Single Sign-on With Tomcat and PicketLink
+  url: https://dzone.com/articles/saml-single-sign-on-with-tomcat-and-picketlink
+  domain: dzone.com
+  image: ""
+- curated_id: baa222bba275f69f06a931eaa154ae53
+  item_date: "2016-02-05 00:00:00"
+  title: Fitbit OAuth Update
+  url: http://blog.temboo.com/post/138733059786/fitbit-oauth-update#_=_
+  domain: blog.temboo.com
+  image: ""
+- curated_id: 64efc06657f6fdb5b504111a2428ac9f
+  item_date: "2016-02-09 00:00:00"
+  title: 'Securing Identities: Two-Factor Authentication in the Hacking Age'
+  url: http://janrain.com/blog/securing-identities-two-factor-authentication-in-the-hacking-age/
+  domain: janrain.com
+  image: ""
+- curated_id: cab1e165c4f6868c449d135c5633da55
+  item_date: "2016-02-12 00:00:00"
+  title: SAML SSO with GoodData
+  url: https://developer.gooddata.com/article/saml-sso-with-gooddata
+  domain: developer.gooddata.com
+  image: ""
+- curated_id: 9fe8ad6a0e40a4866e63d7aaf5bc4630
+  item_date: "2016-02-12 00:00:00"
+  title: How to Implement Basic Search with Google Maps API
+  url: http://www.programmableweb.com/news/how-to-implement-basic-search-google-maps-api/how-to/2016/02/12
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: d22ead4f855279132eef3505b316eff4
+  item_date: "2016-02-16 14:48:21"
+  title: Instagram Finally Adds Two-Factor Authentication To Fight Hackers
+  url: http://techcrunch.com/2016/02/16/instagram-two-factor/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 838847e4db74184e426a14cfeb373193
+  item_date: "2016-02-17 00:00:00"
+  title: 'New AWS Partner Network Blog Post: Securely Accessing Customers AWS Accounts
+    with Cross-Account IAM Roles'
+  url: https://blogs.aws.amazon.com/security/post/Tx3AQY76GAT1LN5/New-AWS-Partner-Network-Blog-Post-Securely-Accessing-Customers-AWS-Accounts-with
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: c55f9dcdd30d8f27c118e40a4f4a5047
+  item_date: "2016-02-17 00:00:00"
+  title: The ultimate guide to device authentication
+  url: http://thenextweb.com/future-of-communications/2016/02/17/the-ultimate-guide-to-selecting-a-device-authentication/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 0b5d29fa9acc0274397d63c6eee4d7ac
+  item_date: "2016-02-23 00:00:00"
+  title: MasterCard unveils selfie security checks, says heartbeat authentication
+    could follow
+  url: http://www.theverge.com/2016/2/23/11098540/mastercard-facial-recognition-heartbeat-security
+  domain: www.theverge.com
+  image: ""
+- curated_id: 2b2d34c74601cb1e74c066c4ee7943ec
+  item_date: "2016-02-27 00:00:00"
+  title: A Stateless OAuth 20 Proxy for Single Page Applications (SPAs)
+  url: https://dzone.com/articles/a-stateless-oauth-20-proxy-for-single
+  domain: dzone.com
+  image: ""
+- curated_id: 70a25fc2eb6ca1859f4e338ea7b82f51
+  item_date: "2016-02-29 00:00:00"
+  title: Extra Security with Two-factor Authentication!
+  url: https://nulab-inc.com/blog/nulab/extra-security-with-two-factor-authentication/
+  domain: nulab-inc.com
+  image: ""
+- curated_id: 6ac05fc1cff3e23ef6bd5213486fac59
+  item_date: "2016-03-01 00:00:00"
+  title: Never type the same API token twice
+  url: http://blog.papertrailapp.com/clone-alert-details/
+  domain: blog.papertrailapp.com
+  image: ""
+- curated_id: bcb72b284695464da30b48c0f2e903d9
+  item_date: "2016-03-04 00:00:00"
+  title: Introducing developer API tokens
+  url: https://hypothes.is/blog/introducing-developer-api-tokens/
+  domain: hypothes.is
+  image: ""
+- curated_id: ba8e894010408d148eb2e8f3121b6302
+  item_date: "2016-03-07 00:00:00"
+  title: HapiJS Authentication - Secure Your API With JWT
+  url: https://auth0.com/blog/2016/03/07/hapijs-authentication-secure-your-api-with-json-web-tokens/
+  domain: auth0.com
+  image: ""
+- curated_id: 44dbe944ceb76c813df9bd5c344a5b17
+  item_date: "2016-03-09 00:00:00"
+  title: Introducing Auth0 for Postman Collections
+  url: https://auth0.com/blog/2016/03/10/introducing-auth0-collections-for-postman/
+  domain: auth0.com
+  image: ""
+- curated_id: 10e59c53ab6296947d528d6fd91f1fb7
+  item_date: "2016-03-11 00:00:00"
+  title: Easy Guide on how to use OAuth to Access Google APIs
+  url: http://www.codeproject.com/Articles/1084750/Easy-Guide-on-how-to-use-OAuth-to-Access-Google-AP
+  domain: www.codeproject.com
+  image: ""
+- curated_id: 6942f859f5f068496e76105539fb32b7
+  item_date: "2016-03-21 00:00:00"
+  title: Test your OAuth2 secured API using DHC
+  url: http://restlet.com/blog/2016/03/21/test-your-oauth2-secured-api-using-dhc/
+  domain: restlet.com
+  image: ""
+- curated_id: d038f0039c971be50ad41b95af8730b0
+  item_date: "2016-03-22 00:00:00"
+  title: One time Authentication for Public Resource
+  url: https://blogs.msdn.microsoft.com/onenotedev/2016/03/22/693/
+  domain: blogs.msdn.microsoft.com
+  image: ""
+- curated_id: 25c874b8123dd6b888102de473edf198
+  item_date: "2016-03-22 00:00:00"
+  title: 'Tutorial: Build an Android Application with Secure User Authentication'
+  url: https://stormpath.com/blog/build-user-authentication-for-android-app
+  domain: stormpath.com
+  image: ""
+- curated_id: b7d4418188fd823d75e70941db7499ce
+  item_date: "2016-03-23 00:00:00"
+  title: Google Cloud Platform now offers identity and access management roles for
+    users
+  url: http://venturebeat.com/2016/03/23/google-cloud-platform-now-offers-identity-and-access-management-roles-for-users/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 945fb18425eeccd1ab5e24ce961a856c
+  item_date: "2016-03-28 00:00:00"
+  title: How to Easily Identify Your Federated Users by Using AWS CloudTrail
+  url: https://blogs.aws.amazon.com/security/post/Tx2VW7TIKH1TY5E/How-to-Easily-Identify-Your-Federated-Users-by-Using-AWS-CloudTrail
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: 94a4c601c7166868091e7fe2c8f659ed
+  item_date: "2016-03-28 08:59:47"
+  title: Four Key API Management Use Cases for the Enterprise
+  url: http://www.slideshare.net/CAinc/four-key-api-management-use-cases-for-the-enterprise
+  domain: www.slideshare.net
+  image: ""
+- curated_id: 791e57bbccfeb6011a684a1702cde77d
+  item_date: "2016-03-28 13:15:38"
+  title: 'Social Login: Facebook  Google in One API Call - Stormpath User Identity
+    API'
+  url: https://stormpath.com/blog/the-social-integration/
+  domain: stormpath.com
+  image: ""
+- curated_id: f1493e8ed0b2ce0cfdb732c873899a3f
+  item_date: "2016-03-29 00:00:00"
+  title: How to Detect and Automatically Revoke Unintended IAM Access with Amazon
+    CloudWatch Events
+  url: https://blogs.aws.amazon.com/security/post/Tx2XGINRKCK9XNS/How-to-Detect-and-Automatically-Revoke-Unintended-IAM-Access-with-Amazon-CloudWa
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: 8c567ada43b4324929dffa6affb20a83
+  item_date: "2016-03-29 00:00:00"
+  title: IAM best practice guides available now
+  url: https://cloudplatform.googleblog.com/2016/03/IAM-best-practice-guides-available-now.html
+  domain: cloudplatform.googleblog.com
+  image: ""
+- curated_id: 65a33282373a0231723d528b535c2d53
+  item_date: "2016-03-29 00:00:00"
+  title: JSON Web Token in Action With JAX-RS
+  url: https://dzone.com/articles/json-web-token-in-action-with-jax-rs
+  domain: dzone.com
+  image: ""
+- curated_id: 3029f1a98d22d3a150e528fb87cd3246
+  item_date: "2016-03-29 00:00:00"
+  title: 'Social logins: What?s really at risk?'
+  url: http://blogs.ca.com/2016/03/29/social-logins-whats-really-at-risk/
+  domain: blogs.ca.com
+  image: ""
+- curated_id: 0b86bf4e21e773f1596fcf31dd9fde08
+  item_date: "2016-03-29 00:00:00"
+  title: Announcing General Availability of Box KeySafe with AWS KMS
+  url: https://www.box.com/blog/box-keysafe-kms-availability/
+  domain: www.box.com
+  image: ""
+- curated_id: c716e8ad931c5b3b8ef4d9331940c657
+  item_date: "2016-04-04 00:00:00"
+  title: 'Identity and access management: Where security and operations meet'
+  url: http://blogs.ca.com/2016/04/04/identity-and-access-management-where-security-and-operations-meet/
+  domain: blogs.ca.com
+  image: ""
+- curated_id: 9c32b1a897bf5f09d0793dc417588577
+  item_date: "2016-04-05 00:00:00"
+  title: Token Based Authentication using Postman as Client and Web API 2 as Server
+  url: http://www.codeproject.com/Articles/1090252/Token-Based-Authentication-using-Postman-as-Client
+  domain: www.codeproject.com
+  image: ""
+- curated_id: e07106a91c61a38bf4afd05908fe94bf
+  item_date: "2016-04-07 00:00:00"
+  title: Announcing Clearbit Connect
+  url: http://blog.clearbit.com/clearbit-connect/
+  domain: blog.clearbit.com
+  image: ""
+- curated_id: 2f1b0a8bb73e3261183353c202a7e1eb
+  item_date: "2016-04-07 00:00:00"
+  title: Integrate Auth0 Into Your Existing SaaS Tools
+  url: https://auth0.com/blog/2016/04/07/integrate-auth0-into-your-existing-saas-tools/
+  domain: auth0.com
+  image: ""
+- curated_id: ae70e9832de877787af443172e7a69c0
+  item_date: "2016-04-12 00:00:00"
+  title: Facebook launches Account Kit, a tool that lets you sign in to apps without
+    passwords
+  url: http://venturebeat.com/2016/04/12/facebook-launches-account-kit-a-tool-that-lets-you-sign-in-to-apps-without-passwords/
+  domain: venturebeat.com
+  image: ""
+- curated_id: 786f3d19a147caf322342fc8fbc11b47
+  item_date: "2016-04-13 00:00:00"
+  title: Authentication in Golang with JWTs
+  url: https://auth0.com/blog/2016/04/13/authentication-in-golang/
+  domain: auth0.com
+  image: ""
+- curated_id: 328b917fa7a4c2a859cc46c71c92edfe
+  item_date: "2016-04-19 00:00:00"
+  title: Intermediate Delivery Reports - Make the most of 2-Factor Authentication
+  url: http://www.infobip.com/en/blog/two-factor-authentication-real-time-intermediate-delivery-reports
+  domain: www.infobip.com
+  image: ""
+- curated_id: 4b385bd909cf00b726770c65b467f94a
+  item_date: "2016-04-19 00:00:00"
+  title: New ? Your User Pools for Amazon Cognito
+  url: https://aws.amazon.com/blogs/aws/new-user-pools-for-amazon-cognito/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: fbebe86b52096bf11066a2b7e2a9c843
+  item_date: "2016-04-20 00:00:00"
+  title: Everything You Wanted to Know About OAuth 2 (But Were too Afraid to Ask)
+  url: https://auth0.com/blog/2016/04/20/everything-you-wanted-to-know-about-oauth-2-but-were-too-afraid-to-ask/
+  domain: auth0.com
+  image: ""
+- curated_id: 005fd87eb285e9673f71cec92969e760
+  item_date: "2016-04-22 00:00:00"
+  title: Saying goodbye to OAuth 1.0
+  url: https://developers.googleblog.com/2016/04/saying-goodbye-to-oauth-10-2lo.html
+  domain: developers.googleblog.com
+  image: ""
+- curated_id: e3d91e368bd5be8a56eeb2c0826482b2
+  item_date: "2016-04-25 00:00:00"
+  title: Getting Started with the Heroku Connect API
+  url: https://developer.salesforce.com/blogs/developer-relations/2016/04/getting-started-with-the-heroku-connect-api.html
+  domain: developer.salesforce.com
+  image: ""
+- curated_id: ddc0d39f3ada6ab879a6acfdf7d8b313
+  item_date: "2016-04-25 00:00:00"
+  title: Spring OAuth2 With JWT Sample
+  url: https://dzone.com/articles/spring-oauth2-with-jwt-sample
+  domain: dzone.com
+  image: ""
+- curated_id: 41b59d220e0f3ceab6285a9dc9661de6
+  item_date: "2016-04-27 00:00:00"
+  title: Integrating Tyk Open Source API Gateway with a Custom Identity Provider using
+    JSON Web Tokens
+  url: https://tyk.io/2016/04/27/integrating-tyk-open-source-api-gateway-custom-identity-provider-using-json-web-tokens/
+  domain: tyk.io
+  image: ""
+- curated_id: 13c88656942dcd8786b0f0410d002de9
+  item_date: "2016-04-27 00:00:00"
+  title: Lumen And Stormpath As Your Mobile Backend
+  url: https://stormpath.com/blog/lumen-stormpath-mobile-backend
+  domain: stormpath.com
+  image: ""
+- curated_id: ff3628def8573e4364b3944fe83609a3
+  item_date: "2016-04-28 00:00:00"
+  title: OpenID Connect Support in Tyk Cloud is Here!
+  url: https://tyk.io/2016/04/28/openid-connect-support-tyk-cloud/
+  domain: tyk.io
+  image: ""
+- curated_id: 3942856d4cd2f33ab9a6b7a68ade901e
+  item_date: "2016-04-28 00:00:00"
+  title: Developer-Friendly SAML Single Sign On Support
+  url: https://stormpath.com/blog/developer-friendly-saml-single-sign-on
+  domain: stormpath.com
+  image: ""
+- curated_id: 015346ba9b424d89dce62311ae933ff8
+  item_date: "2016-04-29 00:00:00"
+  title: HapiJS Authentication ? Secure Your API With JWT
+  url: https://dzone.com/articles/hapijs-authentication-secure-your-api-with-jwt
+  domain: dzone.com
+  image: ""
+- curated_id: 1fbd80477b08351e406f5989fc4db0b9
+  item_date: "2016-04-29 00:00:00"
+  title: 'Slack tokens: what they are, how they?re used, and how to keep your data
+    safe'
+  url: https://medium.com/slack-developer-blog/slack-tokens-what-they-are-how-theyre-used-and-how-to-keep-your-data-safe-ed1b00d2715a
+  domain: medium.com
+  image: ""
+- curated_id: a65cd7c402ad5e7b1fb1b15326735d90
+  item_date: "2016-05-03 00:00:00"
+  title: New Stormpath Integration Simplifies Adoption Of OAuth Authentication Flow
+  url: https://www.3scale.net/2016/05/new-stormpath-integration-simplifies-adoption-of-oauth-authentication-flow/
+  domain: www.3scale.net
+  image: ""
+- curated_id: 72483c94b2ec2cd256a243ad9d39923c
+  item_date: "2016-05-03 00:00:00"
+  title: 3scale Adds Stormpath Integration to Its Industry Leading API Platform
+  url: https://www.3scale.net/2016/05/3scale-adds-stormpath-integration-to-its-industry-leading-api-platform/
+  domain: www.3scale.net
+  image: ""
+- curated_id: 5d6e8c4b0e24b5c9650962910ca674dc
+  item_date: "2016-05-05 00:00:00"
+  title: Connecting Slack and Salesforce
+  url: https://medium.com/slack-developer-blog/connecting-slack-and-salesforce-d1578698683d
+  domain: medium.com
+  image: ""
+- curated_id: c82c778f289f5d598fc6061e3af93f48
+  item_date: "2016-05-05 08:11:52"
+  title: 'Introducing TAuth: Why OAuth 2.0 is bad for banking APIs and how were fixing
+    it'
+  url: https://blog.teller.io/2016/04/26/tauth.html
+  domain: blog.teller.io
+  image: ""
+- curated_id: b52d971627597938ef7c24567292d5a0
+  item_date: "2016-05-08 00:00:00"
+  title: How To Use Auth0 To Manage Your Multi-Tenancy Application
+  url: https://auth0.com/blog/2016/05/08/how-to-use-auth0-to-manage-your-multi-tenancy-application/
+  domain: auth0.com
+  image: ""
+- curated_id: 8161f0bb129293fb2936a744bb6142ea
+  item_date: "2016-05-10 00:00:00"
+  title: How to use API Connect to Manage LoopBack APIs
+  url: https://dzone.com/articles/how-to-use-api-connect-to-manage-loopback-apis
+  domain: dzone.com
+  image: ""
+- curated_id: d930db593f3c2ab7c00e2d4567ccfb1c
+  item_date: "2016-05-10 00:00:00"
+  title: 'Heroku Connect APIs Now GA '
+  url: https://blog.heroku.com/archives/2016/5/10/Heroku%20Connect%20APIs%20Now%20GA
+  domain: blog.heroku.com
+  image: ""
+- curated_id: 675c51384d7c1fb12d6a7268a3b4c2d0
+  item_date: "2016-05-10 00:00:00"
+  title: ?Sign-In with Slack? challenges Facebook, Twitter and Google for log-ins
+  url: http://thenextweb.com/dd/2016/05/10/sign-in-with-slack/
+  domain: thenextweb.com
+  image: ""
+- curated_id: 8972f0aff5eb1cf938a50dadd49588ce
+  item_date: "2016-05-10 00:00:00"
+  title: Introducing Improved User Search Functionality in the IAM Console
+  url: https://blogs.aws.amazon.com/security/post/Tx2GTHP2XG5MH7T/Introducing-Improved-User-Search-Functionality-in-the-IAM-Console
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: 078a4e3928ae97348058b6cd25d3a502
+  item_date: "2016-05-10 00:00:00"
+  title: Slack intros Sign in with Slack to streamline app logins
+  url: http://www.zdnet.com/article/slack-intros-sign-in-with-slack-to-streamline-app-logins/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: fbdefa57c2a9221ec60db733b5a97eee
+  item_date: "2016-05-10 00:00:00"
+  title: Introducing Sign in with Slack
+  url: https://medium.com/slack-developer-blog/introducing-sign-in-with-slack-290949e1c3f5
+  domain: medium.com
+  image: ""
+- curated_id: 5e89ebc349501a674f2d2a7811a578f4
+  item_date: "2016-05-10 00:00:00"
+  title: Sign in with Slack ? Let users login to your site with Slack
+  url: https://api.slack.com/docs/sign-in-with-slack
+  domain: api.slack.com
+  image: ""
+- curated_id: 977d0db45720c3b53008cd7d4dbfad5b
+  item_date: "2016-05-11 00:00:00"
+  title: 'Token Authentication: The Secret to Scalable User Management'
+  url: https://stormpath.com/blog/token-authentication-scalable-user-mgmt
+  domain: stormpath.com
+  image: ""
+- curated_id: b7990b982c11e2b9345827ee3f1a1db5
+  item_date: "2016-05-11 00:00:00"
+  title: Investing, Authentication, and a Few Bots Take the Stage at Finovate
+  url: http://bankinnovation.net/2016/05/investing-authentication-and-a-few-bots-take-the-stage-at-finovate/
+  domain: bankinnovation.net
+  image: ""
+- curated_id: 825b9f41ed6feea2815dffc1254a0f88
+  item_date: "2016-05-12 00:00:00"
+  title: OAuth2 Scope Sunset for DFP API
+  url: http://googleadsdeveloper.blogspot.com/2016/05/oauth2-scope-sunset-for-dfp-api.html
+  domain: googleadsdeveloper.blogspot.com
+  image: ""
+- curated_id: e44120fa3facfe57643d0862fe66e224
+  item_date: "2016-05-12 00:00:00"
+  title: Using the Auth0 Postman Collections
+  url: https://auth0.com/blog/2016/05/12/using-the-auth0-postman-collections/
+  domain: auth0.com
+  image: ""
+- curated_id: 042dd3f23091c65a988f46c1f1925e34
+  item_date: "2016-05-17 00:00:00"
+  title: Integrate Tyk with Auth0
+  url: https://tyk.io/2016/05/17/integrate-tyk-auth0/
+  domain: tyk.io
+  image: ""
+- curated_id: 86895b05fa79bfcf8de344a0ab292b74
+  item_date: "2016-05-17 00:00:00"
+  title: User-based Authentication with Loopback
+  url: https://strongloop.com/strongblog/user-based-authentication-with-loopback/
+  domain: strongloop.com
+  image: ""
+- curated_id: 7241f8f9a03e7fe223197891e5ed102c
+  item_date: "2016-05-17 00:00:00"
+  title: Why Federated Identity Management Matters
+  url: https://auth0.com/blog/2016/05/17/why-identity-federation-matters/
+  domain: auth0.com
+  image: ""
+- curated_id: 6b63935edda6ac9c027169093d039495
+  item_date: "2016-06-06 00:00:00"
+  title: Adding Authentication to a Native Desktop C# App with JWTs
+  url: https://dzone.com/articles/adding-authentication-to-a-native-desktop-c-app-wi
+  domain: dzone.com
+  image: ""
+- curated_id: 04ed5f8b7c0d86c10c109865b00053c8
+  item_date: "2016-06-07 00:00:00"
+  title: Visualize and Search Your Auth0 Logs Using Sumo Logic
+  url: https://dzone.com/articles/visualize-and-search-your-auth0-logs-using-sumo-lo
+  domain: dzone.com
+  image: ""
+- curated_id: 01f60f09fbc1b174704dfab157c65e0f
+  item_date: "2016-06-07 00:00:00"
+  title: Sharing Authentication Between Socket.io and a PHP Frontend (Using JSON Web
+    Tokens)
+  url: https://dzone.com/articles/sharing-authentication-between-socketio-and-a-php
+  domain: dzone.com
+  image: ""
+- curated_id: 91c0f97320b0fdd20ec2c3d9529ff210
+  item_date: "2016-06-08 00:00:00"
+  title: Slicker user authentication with Twitter Kit 2.2
+  url: https://blog.twitter.com/2016/slicker-user-authentication-with-twitter-kit-22
+  domain: blog.twitter.com
+  image: ""
+- curated_id: 5b9f7ffa14499315029fa1927add271b
+  item_date: "2016-06-10 00:00:00"
+  title: Firebase Authentication With the Firebase 3.0 SDK and Auth0 Integration
+  url: https://dzone.com/articles/firebase-authentication-with-the-firebase-30-sdk-a
+  domain: dzone.com
+  image: ""
+- curated_id: 717a9dd997d834235d34b60765158c78
+  item_date: "2016-06-10 00:00:00"
+  title: Everything you need to know about 3-legged authentication and Context.IO
+  url: http://blog.context.io/2016/06/everything-you-need-to-know-about-3-legged-authentication-and-context-io/
+  domain: blog.context.io
+  image: ""
+- curated_id: 69a96b8af85e197169cdc942b3616d81
+  item_date: "2016-06-19 00:00:00"
+  title: Adding Authentication to Your React Native App Using Json Web Tokens
+  url: https://dzone.com/articles/adding-authentication-to-your-react-native-app-usi-1
+  domain: dzone.com
+  image: ""
+- curated_id: b2b16274216738100e7dc89a30d1666e
+  item_date: "2016-06-20 00:00:00"
+  title: JSON Web Tokens With Spring Cloud Microservices
+  url: http://www.codeproject.com/Articles/1107850/JSON-Web-Tokens-With-Spring-Cloud-Microservices
+  domain: www.codeproject.com
+  image: ""
+- curated_id: ec96f1b867b2deedccc37b0dd2b7307e
+  item_date: "2016-06-21 00:00:00"
+  title: Using the new auth component for Angular 2
+  url: http://blog.dreamfactory.com/using-the-new-auth-component-for-angular-2
+  domain: blog.dreamfactory.com
+  image: ""
+- curated_id: e3483d8751b567ec5b2ac2e94fbce00e
+  item_date: "2016-06-22 00:00:00"
+  title: Creating your first Laravel app and adding authentication
+  url: https://auth0.com/blog/2016/06/23/creating-your-first-laravel-app-and-adding-authentication/
+  domain: auth0.com
+  image: ""
+- curated_id: 6020a11d3ddb1576b4883684f1f7278c
+  item_date: "2016-06-22 00:00:00"
+  title: Support for Universal 2nd Factor Authentication
+  url: https://about.gitlab.com/2016/06/22/gitlab-adds-support-for-u2f/
+  domain: about.gitlab.com
+  image: ""
+- curated_id: 83005754af2b3c8c9f4acb6d68ae3b2f
+  item_date: "2016-06-23 00:00:00"
+  title: Introducing Firebase Authentication
+  url: https://developers.googleblog.com/2016/06/introducing-firebase-authentication.html
+  domain: developers.googleblog.com
+  image: ""
+- curated_id: 7c0801d5ac1e5d1e99636eeb2b6f43df
+  item_date: "2016-06-23 00:00:00"
+  title: Avoiding Password Reuse Attacks With Auth0
+  url: https://dzone.com/articles/avoiding-password-reuse-attacks-with-auth0
+  domain: dzone.com
+  image: ""
+- curated_id: a00fad876ad1fbbd7f03aa35b3fbd2a2
+  item_date: "2016-06-24 00:00:00"
+  title: Using the New Auth Component for Angular 2 With DreamFactory
+  url: https://dzone.com/articles/using-the-new-auth-component-for-angular-2
+  domain: dzone.com
+  image: ""
+- curated_id: a3808aa0983c363fc0ac69f2fe27aa90
+  item_date: "2016-07-01 00:00:00"
+  title: 2-Factor Authentication Creates Trust, Security, and Competitive Advantage
+  url: http://www.infobip.com/en/blog/two-factor-authentication-creates-trust-security-and-competitive-advantage
+  domain: www.infobip.com
+  image: ""
+- curated_id: ac46b77ae2b93efe6d12aa5bff45983d
+  item_date: "2016-07-06 00:00:00"
+  title: '? Switching to Apple?s two-factor authentication'
+  url: https://sixcolors.com/post/2016/07/doing-the-two-step-switching-to-apples-two-factor-authentication/
+  domain: sixcolors.com
+  image: ""
+- curated_id: e9b9ff0657a39e6d63ac391f14afe48f
+  item_date: "2016-07-06 00:00:00"
+  title: 'Screencast: Test OAuth2 Secured API with DHC'
+  url: http://restlet.com/blog/2016/07/06/screencast-test-oauth2-secured-api-with-dhc/
+  domain: restlet.com
+  image: ""
+- curated_id: 6cefd3ceacf7406a7911aa8c1d231c89
+  item_date: "2016-07-12 00:00:00"
+  title: Two Factor Auth (2FA) ? List of websites and whether or not they support
+    2FA
+  url: https://twofactorauth.org/
+  domain: twofactorauth.org
+  image: ""
+- curated_id: 7d2ca84e51eb4f316293d66acc48c16d
+  item_date: "2016-07-12 00:00:00"
+  title: 'Presentation: Two-factor Authentication'
+  url: https://www.infoq.com/presentations/two-factor-authentication
+  domain: www.infoq.com
+  image: ""
+- curated_id: 9766c2666c9c5481d6c9656b6355d2e0
+  item_date: "2016-07-16 09:16:09"
+  title: Enable Client-Side SSL Authentication of an API with the API Gateway Console
+  url: http://docs.aws.amazon.com/apigateway/latest/developerguide/getting-started-client-side-ssl-authentication.html
+  domain: docs.aws.amazon.com
+  image: ""
+- curated_id: 7c7290166757c92c1e0f90fb8659ab30
+  item_date: "2016-07-18 00:00:00"
+  title: Announcing the Auth0 Partners Program
+  url: https://auth0.com/blog/2016/07/18/announcing-auth0-partners-program/
+  domain: auth0.com
+  image: ""
+- curated_id: 37b7ab49d2924198095d94526a0c67ab
+  item_date: "2016-07-20 00:00:00"
+  title: 'New AWS Compute Blog Post: Help Secure Container-Enabled Applications with
+    IAM Roles for ECS Tasks'
+  url: https://blogs.aws.amazon.com/security/post/Tx3GNI7M5YIAS6B/New-AWS-Compute-Blog-Post-Help-Secure-Container-Enabled-Applications-with-IAM-Ro
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: b70f7fe9ccdaf1c82463921c94e5f96e
+  item_date: "2016-07-25 08:32:20"
+  title: Is your app ready for token revoke?
+  url: https://developer.spotify.com/news-stories/2016/07/25/app-ready-token-revoke/
+  domain: developer.spotify.com
+  image: ""
+- curated_id: 97c6b4ba7ecac5771e1db1b65c63defd
+  item_date: "2016-07-26 16:21:15"
+  title: One password reset to rule them all!
+  url: https://scotthelme.co.uk/one-password-reset-to-rule-them-all/
+  domain: scotthelme.co.uk
+  image: ""
+- curated_id: 8042aed209a62f47006056150a560bd9
+  item_date: "2016-08-01 09:55:48"
+  title: 'Tweet: Social Security Administration now requires 2-factor SMS auth. Still
+    easy to sign up as someone else though https://t.co/Q4SrgrtAUz'
+  url: https://twitter.com/briankrebs/statuses/760157094272172036
+  domain: twitter.com
+  image: ""
+- curated_id: 2422b355fa7212761642e24508dc9bd2
+  item_date: "2016-08-02 00:00:00"
+  title: My Mommy Identity
+  url: http://www.janrain.com/blog/my-mommy-identity/
+  domain: www.janrain.com
+  image: ""
+- curated_id: ae25a29d3c9413d6eb4f10fec40a21b6
+  item_date: "2016-08-02 00:00:00"
+  title: 'Analyzing Enterprise Connections Data: What can we learn?'
+  url: https://auth0.com/blog/analysis-of-enterprise-connections-data/
+  domain: auth0.com
+  image: ""
+- curated_id: 2608972bb3f3653f7be2a65e57287eb4
+  item_date: "2016-08-03 00:00:00"
+  title: NIST is No Longer Recommending Two-Factor Authentication Using SMS
+  url: https://www.schneier.com/blog/archives/2016/08/nist_is_no_long.html
+  domain: www.schneier.com
+  image: ""
+- curated_id: 799f3669942cda54b7d00e698f3c4c78
+  item_date: "2016-08-04 00:00:00"
+  title: Dashlane and Google team up for OpenYOLO security project
+  url: http://www.pcworld.com/article/3104564/android/dashland-and-google-team-up-for-openyolo-security-project.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: e3d8d4474397505f3819d6da1c0b6ad4
+  item_date: "2016-08-04 00:00:00"
+  title: Google partners with Dashlane for an open-source login API
+  url: http://techaeris.com/2016/08/04/google-partners-dashlane-open-login/
+  domain: techaeris.com
+  image: ""
+- curated_id: 1a7ea0c38062edf2d95caeb871ef1e10
+  item_date: "2016-08-04 00:00:00"
+  title: Dashlane, Google launch ?OpenYOLO?, an API-based password project for Android
+    apps
+  url: https://techcrunch.com/2016/08/04/dashlane-google-launch-openyolo-an-api-based-password-project-for-android-apps/
+  domain: techcrunch.com
+  image: ""
+- curated_id: bb9f2948c985bdf2574869233e814022
+  item_date: "2016-08-04 00:00:00"
+  title: Dashlane Teases Open API for App Logins
+  url: http://in.pcmag.com/software/106194/news/dashlane-teases-open-api-for-app-logins
+  domain: in.pcmag.com
+  image: ""
+- curated_id: 349ce6432148cb91dc0d8cf41b1936e0
+  item_date: "2016-08-04 00:00:00"
+  title: JSON Web Tokens(JWTs) vs Sessions in Practice
+  url: https://auth0.com/jwts-vs-sessions-in-practice/.html
+  domain: auth0.com
+  image: ""
+- curated_id: c7498eeb0ea54e04cd50e3128fb50867
+  item_date: "2016-08-05 00:00:00"
+  title: Dashlane and Google Intro Open YOLO API for Secure Android Logins
+  url: http://www.programmableweb.com/news/dashlane-and-google-intro-open-yolo-api-secure-android-logins/2016/08/05
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: 946a7c9cc5f097181118ab0aca127ee9
+  item_date: "2016-08-06 00:00:00"
+  title: Google is trying to stop you having to put in passwords
+  url: https://verdictforu.com/2016/08/06/google-is-trying-to-stop-you-having-to-put-in-passwords/
+  domain: verdictforu.com
+  image: ""
+- curated_id: 0f06c30fe8ff66d0b86a7aa4893d5bac
+  item_date: "2016-08-07 00:00:00"
+  title: OAuth 2.0 Token Management With Stormpath and Spring Boot
+  url: https://dzone.com/articles/oauth2-token-management-with-stormpath-and-spring
+  domain: dzone.com
+  image: ""
+- curated_id: 8e539f6c64943f2bf68deac18fd2d8ae
+  item_date: "2016-08-09 00:00:00"
+  title: 'New feature: Assign rights by service'
+  url: https://www.3scale.net/2016/08/new-feature-assign-rights-by-service/
+  domain: www.3scale.net
+  image: ""
+- curated_id: 19af806b4e43527f30bb8f6606f3d0ab
+  item_date: "2016-08-09 00:00:00"
+  title: API Gateway Custom Authorization With Lambda, DynamoDB, and CloudFormation
+  url: https://dzone.com/articles/api-gateway-custom-authorization-with-lambda-dynam
+  domain: dzone.com
+  image: ""
+- curated_id: 270ae5f1f693329f5058eb5fc520dbb3
+  item_date: "2016-08-09 00:00:00"
+  title: Cookie Authentication and Session Management
+  url: https://dzone.com/articles/cookie-authentication-and-session-management
+  domain: dzone.com
+  image: ""
+- curated_id: 3f64d48a01c18be1eb6223cee0397c3e
+  item_date: "2016-08-11 00:00:00"
+  title: Enhanced third-party access protection for Google Sheets
+  url: http://googleappsdeveloper.blogspot.com/2016/08/enhanced-third-party-access-protection.html
+  domain: googleappsdeveloper.blogspot.com
+  image: ""
+- curated_id: 50a02c03153d0e1f0d247c170b0d1af8
+  item_date: "2016-08-11 00:00:00"
+  title: New ? Bring Your Own Keys with AWS Key Management Service
+  url: https://aws.amazon.com/blogs/aws/new-bring-your-own-keys-with-aws-key-management-service/
+  domain: aws.amazon.com
+  image: ""
+- curated_id: 6286aed291542965719ed8cde4b33656
+  item_date: "2016-08-11 00:00:00"
+  title: New! Import Your Own Keys into AWS Key Management Service
+  url: https://blogs.aws.amazon.com/security/post/TxBGJCU9X1DWJX/New-Import-Your-Own-Keys-into-AWS-Key-Management-Service
+  domain: blogs.aws.amazon.com
+  image: ""
+- curated_id: 1a6edbf7e08f7810582956374ea1a3a5
+  item_date: "2016-08-17 00:00:00"
+  title: Rackspace Cloud Identity Api 2.0
+  url: https://developer.rackspace.com/docs/cloud-identity/v2/
+  domain: developer.rackspace.com
+  image: ""
+- curated_id: 81c17e1526cb335e7c1c6018489cd91a
+  item_date: "2016-08-18 00:00:00"
+  title: Complete AWS IAM Reference
+  url: https://dzone.com/articles/complete-aws-iam-reference
+  domain: dzone.com
+  image: ""
+- curated_id: f380bdd75e95fe5aeb7b78db1977a41b
+  item_date: "2016-08-18 00:00:00"
+  title: Using HBase to Create an Enterprise Key Service
+  url: http://blog.zaloni.com/using-hbase-to-create-an-enterprise-key-service
+  domain: blog.zaloni.com
+  image: ""
+- curated_id: 01f141e87d595463b374cf9036eedd0d
+  item_date: "2016-08-22 00:00:00"
+  title: 2-Step Verification is here!
+  url: http://www.freeagent.com/central/two-step-verification-is-here/
+  domain: www.freeagent.com
+  image: ""
+- curated_id: c1a430d6f9450884f5a1a28ee659721f
+  item_date: "2016-08-24 00:00:00"
+  title: Announcing Password Breach Detection for Auth0
+  url: https://auth0.com/blog/announcing-password-breach-detection/
+  domain: auth0.com
+  image: ""
+- curated_id: 7b8badaa8279267e08eb30a036678ee7
+  item_date: "2016-08-24 08:40:03"
+  title: Authentication startup Auth0 raises $15M as it beefs up security features
+  url: https://techcrunch.com/2016/08/24/auth0-series-b/
+  domain: techcrunch.com
+  image: ""
+- curated_id: 1a591bf95493734af53885e231487cee
+  item_date: "2016-08-25 00:00:00"
+  title: Announcing Auth0 Guardian, Multifactor Made Easy
+  url: https://auth0.com/blog/announcing-Auth0-Guardian-a-new-way-to-login/
+  domain: auth0.com
+  image: ""
+- curated_id: 5774ea1f5048e6837d4ce8233ddbfc74
+  item_date: "2016-08-25 00:00:00"
+  title: Here?s Exactly Why SMS Two-Factor Is Not Enough
+  url: https://continuum.cisco.com/2016/08/25/heres-exactly-why-sms-two-factor-is-not-enough/
+  domain: continuum.cisco.com
+  image: ""
+- curated_id: 5514cd2cbd55ad061f29649ba5b448ad
+  item_date: "2016-08-25 00:00:00"
+  title: PlayStation Network Gets Two-Factor Authentication
+  url: http://www.pcmag.com/news/347329/playstation-network-gets-two-factor-authentication
+  domain: www.pcmag.com
+  image: ""
+- curated_id: 23a697267133468ef9ee0f0dc12fd3ee
+  item_date: "2016-08-28 00:00:00"
+  title: 'Login with Facebook ( In 20 lines of PHP code ) '
+  url: http://motyar.blogspot.com/2016/08/login-with-facebook-in-20-lines-of-php.html
+  domain: motyar.blogspot.com
+  image: ""
+- curated_id: 0b89f3a312ac3ebe182d54e1da34be79
+  item_date: "2016-08-30 00:00:00"
+  title: Google partners with Okta to enable secure multi-cloud deployments
+  url: http://www.zdnet.com/article/google-partners-with-okta-to-enable-secure-multi-cloud-deployments/
+  domain: www.zdnet.com
+  image: ""
+- curated_id: ff4ba049a28939089e5087249db3cb3f
+  item_date: "2016-08-30 00:00:00"
+  title: Oktas API access product targets the trend toward services
+  url: http://www.pcworld.com/article/3114229/oktas-api-access-product-targets-the-trend-toward-services.html#tk.rss_all
+  domain: www.pcworld.com
+  image: ""
+- curated_id: 964b4b139006692da34c2d41a32d4dce
+  item_date: "2016-08-31 00:00:00"
+  title: About license keys
+  url: https://seap.samsung.com/license-keys/about
+  domain: seap.samsung.com
+  image: ""
+- curated_id: 5796eb3b683078dbfb7c4d7987e58a00
+  item_date: "2016-08-31 00:00:00"
+  title: 'Stateless Sessions for Stateful Minds: JWTs Explained and How You Can Make
+    The Switch'
+  url: https://auth0.com/blog/stateless-auth-for-stateful-minds/
+  domain: auth0.com
+  image: ""
+- curated_id: bde1effd35d5a4f7786c9df7af064515
+  item_date: "2016-09-02 00:00:00"
+  title: 'OAuth: Get Client Credentials Using Postman'
+  url: http://docs.brightcove.com/en/video-cloud/oauth-api/guides/get-client-credentials-postman.html
+  domain: docs.brightcove.com
+  image: ""
+- curated_id: 6682876611faeb026af5ab31473efe85
+  item_date: "2016-09-05 00:00:00"
+  title: Spring Security OAuth2 ? Client Authentication Issue
+  url: https://dzone.com/articles/spring-security-oauth2-client-authentication-issue
+  domain: dzone.com
+  image: ""
+- curated_id: cafe89d10ae19d7e2002951b7a9f416d
+  item_date: "2016-09-07 00:00:00"
+  title: ""
+  url: https://www.nginx.com/blog/authenticating-users-existing-applications-openid-connect-nginx-plus/
+  domain: www.nginx.com
+  image: ""
+- curated_id: dc020a1a6bf70648162494935f72f7cb
+  item_date: "2016-09-08 00:00:00"
+  title: Use NGINX Plus and Auth0 to Authenticate API Clients
+  url: https://auth0.com/blog/use-nginx-plus-and-auth0-to-authenticate-api-clients/
+  domain: auth0.com
+  image: ""
+- curated_id: dab1369a33148b1100d236eb193a9b62
+  item_date: "2016-09-08 11:51:00"
+  title: 'Tweet: Intro to @QuickBooks Online REST #API with #OAuth1.0 by @manasmukh
+    https://t.co/K8vxfYB6q5 #developer'
+  url: https://twitter.com/IntuitDev/statuses/773956822570971136
+  domain: twitter.com
+  image: ""
+- curated_id: 24214bccdf54b7e85b45d39b632b4f3c
+  item_date: "2016-09-09 00:00:00"
+  title: 'Analyzing Passwordless Connections Data: What can we learn?'
+  url: https://auth0.com/blog/analysis-of-passwordless-connections/
+  domain: auth0.com
+  image: ""
+- curated_id: 72794922c46bab30bf1f6600161208f0
+  item_date: "2016-09-14 00:00:00"
+  title: Intuit OAuth Server Maintenance on September 21st, 2016 ? Some Action Required
+  url: https://developer.intuit.com/hub/blog/2016/09/14/oauth-maintenance-september-21st-2016-action-required-java-v1-8_20-v1-8_59-v1-7_71-v1-7_84
+  domain: developer.intuit.com
+  image: ""
+- curated_id: 677999870b4e6dfbc3c139b8a60f0a62
+  item_date: "2016-09-15 13:00:06"
+  title: 'Tweet: A personal hackathon with the goal of demystifying #OAuth2 in a fun
+    way! The result : OZorkAuth https://t.co/jPezy5tGsj'
+  url: https://twitter.com/goStormpath/statuses/776510927730536448
+  domain: twitter.com
+  image: ""
+- curated_id: d92baa1731b609b474870b5e441e110c
+  item_date: "2016-09-17 00:00:00"
+  title: Setting Expectations for Accessing User Data via OAuth
+  url: http://googleappsdeveloper.blogspot.com/2016/09/setting-expectations-for-accessing-user-data-via-oauth.html
+  domain: googleappsdeveloper.blogspot.com
+  image: ""
+- curated_id: 330b998c27a082ecbe3635c5f30b07b3
+  item_date: "2016-09-19 00:00:00"
+  title: Two-step authentication has arrived on iOS
+  url: http://www.xero.com/blog/2016/09/two-step-authentication-arrived-ios-2/
+  domain: www.xero.com
+  image: ""
+- curated_id: fb9d7ddf0a399692cfe910954dfb308f
+  item_date: "2016-09-21 00:00:00"
+  title: Moving from LDAP to SAML authentication
+  url: http://blogs.splunk.com/2016/09/21/moving-from-ldap-to-saml-authentication/
+  domain: blogs.splunk.com
+  image: ""
+- curated_id: 4bc633986fb7f697463d77f88ccaeae2
+  item_date: "2016-09-21 00:00:00"
+  title: Increased account security via OAuth 2.0 token revocation
+  url: http://googleappsdeveloper.blogspot.com/2016/09/increased-account-security-via-oauth-2-0-token-revocation.html
+  domain: googleappsdeveloper.blogspot.com
+  image: ""
+- curated_id: 54bd2abcab3dd0422a367153e2a97b39
+  item_date: "2016-09-22 00:00:00"
+  title: Apache Shiro Stormpath Integration 0.7.1 Released
+  url: https://stormpath.com/blog/apache-shiro-stormpath-0-7-1
+  domain: stormpath.com
+  image: ""
+- curated_id: 80b4828d641f368c128fa262ffde72c6
+  item_date: "2016-09-26 00:00:00"
+  title: Google embraces the log-in, leaving cookies behind in new advertising updates
+  url: https://techcrunch.com/2016/09/26/google-ads/
+  domain: techcrunch.com
+  image: ""
+- curated_id: d0604438ca0f71d7c37cb4b292fa0085
+  item_date: "2016-09-27 00:00:00"
+  title: Identity Management in Spring Boot with Twilio and Stormpath in 15 Minutes
+  url: https://stormpath.com/blog/identity-management-spring-boot-twilio
+  domain: stormpath.com
+  image: ""
+- curated_id: 31f494abc27eb3e8d6809195654af564
+  item_date: "2016-09-27 00:00:00"
+  title: BeyondTrust Announces Password Management API
+  url: http://www.programmableweb.com/news/beyondtrust-announces-password-management-api/brief/2016/09/27
+  domain: www.programmableweb.com
+  image: ""
+- curated_id: d63ebb9a74b0ada4e663800fa8c7c5b6
+  item_date: "2016-09-27 00:00:00"
+  title: Mobile Fraud Changes Outlook for Multifactor Authentication
+  url: http://www.darkreading.com/mobile/mobile-fraud-changes-outlook-for-multifactor-authentication/a/d-id/1327001
+  domain: www.darkreading.com
+  image: ""
+- curated_id: fbe471e0d267439611f439d6f2dac844
+  item_date: "2016-09-28 00:00:00"
+  title: Announcing Auth0s Identity Glossary
+  url: https://auth0.com/blog/announcing-identity-glossary/
+  domain: auth0.com
+  image: ""
+- curated_id: af252e57199d7db844826eedde07dd5a
+  item_date: "2016-09-29 00:00:00"
+  title: Angular 2 Authentication Tutorial
+  url: https://auth0.com/blog/angular-2-authentication/
+  domain: auth0.com
+  image: ""
+- curated_id: bffebbfa9297fd424428a58365f1f168
+  item_date: "2016-09-29 00:00:00"
+  title: Announcing the Sovrin Foundation
+  url: http://www.windley.com/archives/2016/09/announcing_the_sovrin_foundation.shtml
+  domain: www.windley.com
+  image: ""
+- curated_id: acf58054b07886d0fdf95d240e59bc4c
+  item_date: "2016-09-29 00:00:00"
+  title: Enhanced third-party access protection for Google Sheets
+  url: https://gsuite-developers.googleblog.com/2016/08/enhanced-third-party-access-protection.html
+  domain: gsuite-developers.googleblog.com
+  image: ""
+- curated_id: 34e55426816540f7aaaf72811f8fc4cb
+  item_date: "2016-09-29 00:00:00"
+  title: 'Saying goodbye to OAuth 1.0 (2LO) '
+  url: https://gsuite-developers.googleblog.com/2016/04/saying-goodbye-to-oauth-10-2lo.html
+  domain: gsuite-developers.googleblog.com
+  image: ""
+- curated_id: f6a478250579a8559ef80628a3b7a274
+  item_date: "2016-09-29 00:00:00"
+  title: Increased account security via OAuth 2.0 token revocation
+  url: https://gsuite-developers.googleblog.com/2016/09/increased-account-security-via-oauth-2-0-token-revocation.html
+  domain: gsuite-developers.googleblog.com
+  image: ""
+- curated_id: 0a3cea3bd8011a56eb5cc02058f5c69d
+  item_date: "2016-09-29 00:00:00"
+  title: Setting Expectations for Accessing User Data via OAuth
+  url: https://gsuite-developers.googleblog.com/2016/09/setting-expectations-for-accessing-user-data-via-oauth.html
+  domain: gsuite-developers.googleblog.com
+  image: ""
+- curated_id: 0eaac0b6326fd90d18f005451352f6b5
+  item_date: "2016-09-29 10:39:47"
+  title: Using API Gateways and JWTs for Identity Management in Microservice Based
+    APIs
+  url: https://medium.com/@nicklee1/using-api-gateways-and-jwts-for-identity-management-in-microservice-based-apis-9ba275864cef#.j9x64novb
+  domain: medium.com
+  image: ""
+- curated_id: 6ae0609192f9cf62e6788a2ebadf1b3d
+  item_date: "2016-09-30 00:00:00"
+  title: Lock Up Your Raspberry Pi with Google Authenticator
+  url: https://hackaday.com/2016/09/30/lock-up-your-raspberry-pi-with-help-from-google/
+  domain: hackaday.com
+  image: ""
+- curated_id: 8f8320d090223a3852ddaa0219f5f735
+  item_date: "2016-09-30 16:08:31"
+  title: 'Announcing: Multi-Factor Authentication in Stormpath! - Stormpath User Identity
+    API'
+  url: https://stormpath.com/blog/announcing-multi-factor-authentication-in-stormpath
+  domain: stormpath.com
+  image: ""
+- curated_id: bd3478b32c6305acd0fac4c57cf72205
+  item_date: "2016-10-03 00:00:00"
+  title: Enterprise Grade Authentication and Access Control on IoT (Part 2)
+  url: http://www.codeproject.com/Articles/1135478/Enterprise-Grade-Authentication-and-Access-Contr
+  domain: www.codeproject.com
+  image: ""
+- curated_id: feadb375b66e08398e0e81ad54e56eec
+  item_date: "2016-10-06 00:00:00"
+  title: Quantum Tokens for Digital Signatures
+  url: https://www.schneier.com/blog/archives/2016/10/quantum_tokens_.html
+  domain: www.schneier.com
+  image: ""
+- curated_id: f95e09047fc5bead69b24317cda937a0
+  item_date: "2016-10-06 00:00:00"
+  title: Limiting OpenID Connect Community Client Support
+  url: https://www.gluu.org/blog/limiting-openid-connect-community-client-support/
+  domain: www.gluu.org
+  image: ""
+- curated_id: 646f9f319f85e5d2b0604fedcd3a59bf
+  item_date: "2016-10-10 08:05:53"
+  title: 'Tweet: We#039;ve added support for Intercom to four OAuth libraries to make
+    it easier to get setup ndash; https://t.co/wKwCtaPcCF'
+  url: https://medium.com/intercom-developers/easier-oauth-setup-with-new-oauth-libraries-6e73b40f644c#.lwqaa2u5x
+  domain: medium.com
+  image: ""
+- curated_id: 9e043f8472ded003d03b9a172e4a2a89
+  item_date: "2016-10-10 08:05:53"
+  title: Easier OAuth setup with new OAuth libraries
+  url: https://medium.com/intercom-developers/easier-oauth-setup-with-new-oauth-libraries-6e73b40f644c#.nryvn1xzi
+  domain: medium.com
+  image: ""
+- curated_id: c5965bc5b45fc9f22432ee117fecd199
+  item_date: "2016-10-10 08:15:10"
+  title: JSON Web Tokens are made for Microservices
+  url: http://alexander.holbreich.org/jwt/
+  domain: alexander.holbreich.org
+  image: ""
+- curated_id: c133f097096fcdaa80159bd29bc4abbb
+  item_date: "2016-10-11 00:00:00"
+  title: Query Strings and URL Fragments in Login with Amazon Responses
+  url: https://developer.amazon.com/appsandservices/community/post/Tx2XUFUBNT8PRXE/Query-Strings-and-URL-Fragments-in-Login-with-Amazon-Responses
+  domain: developer.amazon.com
+  image: ""
+- curated_id: 3dfd0c8471c58bcd7f732fe220cab840
+  item_date: "2016-10-11 00:00:00"
+  title: Planet-scale authentication with Auth0 and Azure DocumentDB
+  url: https://auth0.com/blog/auth0-with-azure-documentdb/
+  domain: auth0.com
+  image: ""
+- curated_id: b99a9b75f155811465a4e7d734c06fef
+  item_date: "2016-10-12 00:00:00"
+  title: Protect Bearer Tokens Using Proof of Possession
+  url: https://forgerock.org/2016/10/protect-bearer-tokens-using-proof-possession/
+  domain: forgerock.org
+  image: ""
+- curated_id: cc0894754f7581a1869337a6d979790d
+  item_date: "2016-10-18 00:00:00"
+  title: Build together with App Collaborators
+  url: https://medium.com/slack-developer-blog/build-together-with-app-collaborators-8162e31800f1
+  domain: medium.com
+  image: ""
+- curated_id: abffb0460a3aa3630924549462e858a9
+  item_date: "2016-10-18 00:00:00"
+  title: Demystifying OAuth2 in DFP
+  url: http://googleadsdeveloper.blogspot.com/2016/10/demystifying-oauth2-in-dfp.html
+  domain: googleadsdeveloper.blogspot.com
+  image: ""
+- curated_id: f6e04f8bfd9ca7d7cf3826cc77c58da0
+  item_date: "2016-10-18 00:00:00"
+  title: Storing JSON objects in LDAP attributes?
+  url: https://forgerock.org/2016/10/storing-json-objects-ldap-attributes/
+  domain: forgerock.org
+  image: ""
+- curated_id: 788dd7ae88db6482145dc28c7926be62
+  item_date: "2016-10-19 00:00:00"
+  title: 'Two-Factor Authentication: Who Has It and How to Set It Up'
+  url: http://www.pcmag.com/article2/0,2817,2456400,00.asp
+  domain: www.pcmag.com
+  image: ""
+- curated_id: b829cc215592ad126fc07e2dcde487fc
+  item_date: "2016-10-19 00:00:00"
+  title: User Authentication in Java 8
+  url: https://stormpath.com/blog/user-authentication-java-8
+  domain: stormpath.com
+  image: ""
+- curated_id: 415b7cd184a12d9e2c73060b54ae4409
+  item_date: "2016-10-20 00:00:00"
+  title: An Introduction to AWS IAM
+  url: https://dzone.com/articles/introduction-to-aws-iam
+  domain: dzone.com
+  image: ""
+- curated_id: a00c793e8810c04d01781edeb54c1c5a
+  item_date: "2016-10-31 09:30:05"
+  title: 'API Best Practices: Authentication'
+  url: https://medium.com/m/global-identity
+  domain: medium.com
+  image: ""
+- curated_id: f95e266acd7ba8706444dc532c7755fc
+  item_date: "2016-11-08 00:00:00"
+  title: OAuth 2.0 Vulnerability Leads to Account Takeover
+  url: http://www.securityweek.com/oauth-20-vulnerability-leads-account-takeover
+  domain: www.securityweek.com
+  image: ""
+- curated_id: e68eacc6c7dd3c19a17b5b8833c64e74
+  item_date: "2016-11-10 00:00:00"
+  title: Securing JSPs with Spring Security and Stormpath
+  url: https://stormpath.com/blog/securing-jsps-spring-security
+  domain: stormpath.com
+  image: ""
+- curated_id: 753e07cdbd4ea7ba260f960eb3e42304
+  item_date: "2016-11-12 09:03:39"
+  title: Signing into One Billion Mobile App Accounts Effortlessly with OAuth2.0
+  url: https://www.blackhat.com/docs/eu-16/materials/eu-16-Yang-Signing-Into-Billion-Mobile-Apps-Effortlessly-With-OAuth20-wp.pdf
+  domain: www.blackhat.com
   image: ""
 ...
