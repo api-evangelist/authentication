@@ -2,7 +2,7 @@
 - title: API Authentication News
   image: https://s3.amazonaws.com/kinlane-productions/bw-icons/bw-news-icon.png
   header: These are the news items I've curated in my monitoring of the API space
-    that have some relevance to the API definition conversation and I wanted to include
+    that have some relevance to the API autehtnication conversation and I wanted to include
     in my research. I'm using all of these links to better understand how the space
     is testing their APIs, going beyond just monitoring and understand the details
     of each request and response.
