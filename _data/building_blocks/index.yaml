@@ -1,114 +1,165 @@
-- building_block_id: inline-token-generator
-  type: Authentication
-  category: Overview
-  name: Inline Token Generator
-  description: Allowing developers to request token inline with documentation.
-  image: ''
-  tags: Authentication
-- building_block_id: authentication-overview
-  type: Authentication
-  category: Overview
-  name: Authentication Overview
-  description: >-
-    An overview of how authentication is handled for a platform, and which
-    formats are supported, setting expectations for consumers.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-authentication.png
-  tags: Authentication
-- building_block_id: authentication-tester
-  type: Authentication
-  category: Overview
-  name: Authentication Tester
-  description: >-
-    Providing a testing tool for authentication, that allows developers to test
-    key and Basic Auth to oAuth, to help them understand how authentication
-    works and if they are using proper credentials.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-authentication-test.png
-  tags: Authentication
-- building_block_id: oauth-scopes
-  type: Authentication
-  category: Overview
-  name: OAuth Scopes
-  description: >-
-    Providing a dedicated page or section to listing out the different OAuth
-    scopes used by a platform. Providing a transparent window into all the
-    scopes available, and some of the logic into why they exist.
-  image: ''
-  tags: Authentication
-- building_block_id: test-token-generator
-  type: Authentication
-  category: Overview
-  name: Test Token Generator
-  description: >-
-    Providing the ability to generate test tokens for use in authenticating with
-    the API.
-  image: ''
-  tags: Authentication
-- building_block_id: basic-auth
-  type: Authentication
-  category: Approaches
-  name: Basic Auth
-  description: >-
-    Usage of the basic authentication format that is part of the standard HTTP
-    operations, employing a username and password as credentials for accessing
-    API resources.
-  image: ''
-  tags: Authentication
-- building_block_id: key-access
-  type: Authentication
-  category: Approaches
-  name: Key Access
-  description: >-
-    Providing simple tokens, often called API key as a common way to access to
-    APIs, issuing one to each developer and per application they register.
-  image: >-
-    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-key.png
-  tags: Authentication
-- building_block_id: json-web-token
-  type: Authentication
-  category: Approaches
-  name: JSON Web Token
-  description: >-
-    JSON Web Token (JWT) is an open standard (RFC 7519) that defines a compact
-    and self-contained way for securely transmitting information between parties
-    as a JSON object.
-  image: ''
-  tags: Authentication
-- building_block_id: oauth
-  type: Authentication
-  category: Approaches
-  name: oAuth
-  description: >-
-    Providing an oAuth layer to API operations, securing high value APIs, while
-    also opening up a conversation between an API platform, developers, and
-    end-users regarding the access of their content and data.
-  image: ''
-  tags: Authentication
-- building_block_id: application-only
-  type: Authentication
-  category: Additional
-  name: Application Only
-  description: Provides authenticated requests on behalf of the application only.
-  image: ''
-  tags: Authentication
-- building_block_id: pin-based-authorization
-  type: Authentication
-  category: Additional
-  name: PIN Based Authorization
-  description: >-
-    For applications which cannot access or embed a web browser, such as
-    command-line applications, embedded systems, game consoles, and certain
-    types of mobile apps.
-  image: ''
-  tags: Authentication
-- building_block_id: two-factor-authentication
-  type: Authentication
-  category: Additional
-  name: Two Factor Authentication
-  description: >-
-    Allowing API consumers to turn on and employ two factor authentication,
-    requiring an additional component to making changes to account security,
-    either by  SMS or authenticator app.
-  image: ''
-  tags: Authentication
+- building_block_id: web-concepts
+  type: Definitions
+  category: Formats
+  name: Web Concepts
+  descripion: >-
+    APIs are built on the web, and there are numerous web concepts in play that
+    should be considered as part of the API design process.
+  logo: ''
+  tags: Definitions
+- building_block_id: specification
+  type: Definitions
+  category: Formats
+  name: Specification
+  descripion: >-
+    The root specification for the API definition format, providing a base set
+    of rules for all services and tools that employ the spec.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-schema.png
+  tags: Definitions
+- building_block_id: schema
+  type: Definitions
+  category: Formats
+  name: Schema
+  descripion: >-
+    A representation of data model, used as part of an API request, or response,
+    usually in JSON, but increasingly YAML, and Markdown are also used.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-schema.png
+  tags: Definitions
+- building_block_id: generator
+  type: Definitions
+  category: Tooling
+  name: Generator
+  descripion: >-
+    Generating an API definition format from an existing system or platform,
+    outputting the portable machine readable format.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-generate.png
+  tags: Definitions
+- building_block_id: parser
+  type: Definitions
+  category: Tooling
+  name: Parser
+  descripion: >-
+    Parses a machine readable API definition and makes ready for use in specific
+    language, structure, or platform.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-parse.png
+  tags: Definitions
+- building_block_id: validator
+  type: Definitions
+  category: Tooling
+  name: Validator
+  descripion: >-
+    Validates an API definition against its formal specification and schema,
+    producing a valid or invalid response, with as much detail as possible.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-valid.png
+  tags: Definitions
+- building_block_id: converter
+  type: Definitions
+  category: Tooling
+  name: Converter
+  descripion: >-
+    The conversion of an API definition from one format into another, allowing
+    designers to share API definitions in any format.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-conversion.png
+  tags: Definitions
+- building_block_id: commandline
+  type: Definitions
+  category: Tooling
+  name: Command-Line
+  descripion: The usage of machine readable API definitions at the command line.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-command-line.png
+  tags: Definitions
+- building_block_id: powershell
+  type: Definitions
+  category: Tooling
+  name: Powershell
+  descripion: The usage of machine readable API definitions via the powershell interface.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-command-line.png
+  tags: Definitions
+- building_block_id: aggregator
+  type: Definitions
+  category: Tooling
+  name: Aggregator
+  descripion: Aggregation of APIs using a machine readable API definition format.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-arrow-aggregate.png
+  tags: Definitions
+- building_block_id: translator
+  type: Definitions
+  category: Tooling
+  name: Translator
+  descripion: >-
+    Being able to translate an API definition format from one format to another,
+    either manually or automatically.
+  logo: ''
+  tags: Definitions
+- building_block_id: merging
+  type: Definitions
+  category: Tooling
+  name: Merging
+  descripion: >-
+    Tooling or other APIs that provide for the merging of common API definition
+    formats, allowing the granularity of what elements get merged, or do not get
+    merged. Ideally, this is an API, as well as simple web-based or desktop
+    tooling for API providers and consumers.
+  logo: ''
+  tags: Definitions
+- building_block_id: diff
+  type: Definitions
+  category: Tooling
+  name: Diff
+  descripion: >-
+    Providing side by side comparison of two API definitions, programmatically
+    and visually helping identify between two API definitions. This allows for
+    API architects, designers, and consumers to understand the completeness of
+    two definitions, in relation to each other.
+  logo: ''
+  tags: Definitions
+- building_block_id: editors
+  type: Definitions
+  category: Environment
+  name: Editors
+  descripion: >-
+    API definition editor, allowing for the creation, import, and export of API
+    definition formats, providing a simple, IDE like API editing experience.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-editor.png
+  tags: Definitions
+- building_block_id: ide-plugin
+  type: Definitions
+  category: Environment
+  name: IDE Plugin
+  descripion: >-
+    Providing integration with existing integrated development environments
+    (IDE), giving developers API discovery, documentation, and integration
+    tooling within the IDE.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-editor.png
+  tags: Definitions
+- building_block_id: forms
+  type: Definitions
+  category: Environment
+  name: Forms
+  descripion: >-
+    Dynamically generating an HTML form from an API definition, allow for the
+    structure, and handling to be driven by an API definition.
+  logo: >-
+    http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/building-blocks/bw-forms.png
+  tags: Definitions
+- building_block_id: github
+  type: Definitions
+  category: Environment
+  name: GIthub
+  descripion: >-
+    Allowing for the import, publishing, and syncing of API definitions and
+    schemas to Github for forking, and management using the social coding
+    platform.
+  logo: ''
+  tags: Definitions
