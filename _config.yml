@@ -1,0 +1,20 @@
+title: Authentication
+description: A curated index of services, tooling, and open source solutions for API
+  authentication, authorization, identity management, and secrets management. This
+  collection covers identity providers, SSO platforms, privileged access management,
+  MFA, open source identity servers, and authentication standards including OAuth
+  2.0, OpenID Connect, SAML 2.0, FIDO2/WebAuthn, and SCIM.
+url: https://authentication.apievangelist.com
+collections:
+  api_stories:
+    output: false
+exclude:
+- README.md
+- Gemfile
+- Gemfile.lock
+- Dockerfile
+- examples
+- json-ld
+- json-schema
+- json-structure
+- vocabulary

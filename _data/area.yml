@@ -1,0 +1,131 @@
+meta:
+  name: Authentication
+  description: A curated index of services, tooling, and open source solutions for
+    API authentication, authorization, identity management, and secrets management.
+    This collection covers identity providers, SSO platforms, privileged access management,
+    MFA, open source identity servers, and authentication standards including OAuth
+    2.0, OpenID Connect, SAML 2.0, FIDO2/WebAuthn, and SCIM.
+  tags:
+  - Authentication
+  - Authorization
+  - Identity
+  - MFA
+  - OAuth
+  - OpenID Connect
+  - SAML
+  - Security
+  - SSO
+  portal: null
+  github: null
+  repo: authentication
+services_tools:
+- name: Amazon Cognito
+  repo: https://github.com/api-evangelist/aws-cognito
+  apisio: https://providers.apis.io/providers/aws-cognito/
+- name: Auth0
+  repo: https://github.com/api-evangelist/auth0
+  apisio: https://providers.apis.io/providers/auth0/
+- name: Authelia
+  repo: https://github.com/api-evangelist/authelia
+  apisio: https://providers.apis.io/providers/authelia/
+- name: Authentik
+  repo: https://github.com/api-evangelist/authentik
+  apisio: https://providers.apis.io/providers/authentik/
+- name: Casdoor
+  repo: https://github.com/api-evangelist/casdoor
+  apisio: https://providers.apis.io/providers/casdoor/
+- name: Cerbos
+  repo: https://github.com/api-evangelist/cerbos
+  apisio: https://providers.apis.io/providers/cerbos/
+- name: CyberArk
+  repo: https://github.com/api-evangelist/cyberark
+  apisio: https://providers.apis.io/providers/cyberark/
+- name: Duo Security
+  repo: https://github.com/api-evangelist/duo-security
+  apisio: https://providers.apis.io/providers/duo-security/
+- name: ForgeRock
+  repo: https://github.com/api-evangelist/forgerock
+  apisio: https://providers.apis.io/providers/forgerock/
+- name: HashiCorp Vault
+  repo: https://github.com/api-evangelist/hashicorp-vault
+  apisio: https://providers.apis.io/providers/hashicorp-vault/
+- name: Keycloak
+  repo: https://github.com/api-evangelist/keycloak
+  apisio: https://providers.apis.io/providers/keycloak/
+- name: Logto
+  repo: https://github.com/api-evangelist/logto
+  apisio: https://providers.apis.io/providers/logto/
+- name: Microsoft Entra ID
+  repo: https://github.com/api-evangelist/microsoft-entra-id
+  apisio: https://providers.apis.io/providers/microsoft-entra-id/
+- name: Okta
+  repo: https://github.com/api-evangelist/okta
+  apisio: https://providers.apis.io/providers/okta/
+- name: OneLogin
+  repo: https://github.com/api-evangelist/onelogin
+  apisio: https://providers.apis.io/providers/onelogin/
+- name: Ory
+  repo: https://github.com/api-evangelist/ory
+  apisio: https://providers.apis.io/providers/ory/
+- name: Ping Identity
+  repo: https://github.com/api-evangelist/ping-identity
+  apisio: https://providers.apis.io/providers/ping-identity/
+- name: SailPoint
+  repo: https://github.com/api-evangelist/sailpoint
+  apisio: https://providers.apis.io/providers/sailpoint/
+- name: SuperTokens
+  repo: https://github.com/api-evangelist/supertokens
+  apisio: https://providers.apis.io/providers/supertokens/
+- name: WorkOS
+  repo: https://github.com/api-evangelist/workos
+  apisio: https://providers.apis.io/providers/workos/
+- name: Zitadel
+  repo: https://github.com/api-evangelist/zitadel
+  apisio: https://providers.apis.io/providers/zitadel/
+features:
+- name: OAuth 2.0 Protocol Coverage
+  description: Comprehensive coverage of OAuth 2.0 authorization framework implementations
+    from cloud providers, open source projects, and commercial platforms.
+- name: OpenID Connect Providers
+  description: Index of OpenID Connect certified identity providers and implementations
+    spanning cloud, on-premises, and self-hosted deployments.
+- name: Multi-Factor Authentication
+  description: Coverage of MFA solutions including TOTP, SMS, push notification, WebAuthn/FIDO2,
+    and hardware token implementations.
+- name: Self-Hosted Identity Solutions
+  description: Open source identity servers that can be self-hosted including Keycloak,
+    Authelia, Authentik, Zitadel, and Casdoor.
+- name: Enterprise Identity Providers
+  description: Commercial enterprise IAM platforms including Okta, Auth0, ForgeRock,
+    Ping Identity, and Microsoft Entra ID.
+- name: Secrets and PAM
+  description: Privileged access management and secrets management tools including
+    HashiCorp Vault and CyberArk for secure credential storage.
+use_cases:
+- name: Identity Provider Selection
+  description: Compare authentication platforms across self-hosted, cloud, and enterprise
+    tiers to select the right identity provider.
+- name: SSO Implementation
+  description: Find SSO platforms and libraries for implementing single sign-on across
+    applications and services.
+- name: API Security Research
+  description: Research authentication standards, security patterns, and best practices
+    for securing REST, GraphQL, and gRPC APIs.
+- name: Zero Trust Architecture
+  description: Discover identity verification services for zero trust network access
+    and continuous authentication architectures.
+integrations:
+- name: OAuth 2.0 Standard
+  description: The foundational authorization framework implemented by every provider
+    in this collection.
+- name: OpenID Connect Standard
+  description: Identity layer on top of OAuth 2.0 providing standardized user info,
+    ID tokens, and discovery endpoints.
+- name: SAML 2.0 Standard
+  description: XML-based authentication standard widely used for enterprise SSO and
+    federation scenarios.
+- name: SCIM 2.0 Standard
+  description: System for Cross-domain Identity Management for automated user provisioning
+    and deprovisioning.
+- name: FIDO2/WebAuthn Standard
+  description: Web Authentication standard for passwordless and hardware-backed authentication.
