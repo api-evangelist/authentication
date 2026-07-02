@@ -3,8 +3,6 @@ A curated index of services, tooling, and open source solutions for API authenti
 
 **URL:** [https://raw.githubusercontent.com/api-evangelist/authentication/refs/heads/main/apis.yml](https://raw.githubusercontent.com/api-evangelist/authentication/refs/heads/main/apis.yml)
 
-**Run:** [Capabilities Using Naftiko](https://github.com/naftiko/fleet?utm_source=api-evangelist&utm_medium=readme&utm_campaign=company-api-evangelist&utm_content=repo)
-
 ## Tags:
 
  - Authentication, Authorization, Identity, MFA, OAuth, OpenID Connect, SAML, Security, SSO
