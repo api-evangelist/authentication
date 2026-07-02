@@ -1,0 +1,21 @@
+related:
+- name: Security
+  url: https://security.apievangelist.com
+  icon: https://security.apievangelist.com/icon.png
+  description: An index and topic collection covering API security, identity, access management, secrets
+    management, encryption, and threat protection. API security spans the full lifecycle of…
+- name: Containers
+  url: https://containers.apievangelist.com
+  icon: https://containers.apievangelist.com/icon.png
+  description: An index of container runtime, orchestration, registry, security, and build tool repositories
+    tracking the services and tools that package, deploy, and manage containerized…
+- name: SaaS Management
+  url: https://saas-management.apievangelist.com
+  icon: https://saas-management.apievangelist.com/icon.png
+  description: SaaS Management covers the tools, platforms, and practices used by organizations to discover,
+    manage, optimize, and secure their portfolio of SaaS applications. The global SaaS…
+- name: Analysis
+  url: https://analysis.apievangelist.com
+  icon: https://analysis.apievangelist.com/icon.png
+  description: A curated index of services, tooling, and open source solutions for API analysis, analytics,
+    linting, traffic inspection, and intelligence. This topic collection covers the full…
