@@ -1,7 +1,7 @@
 ---
-title: 'Connect Vapi to ChatGPT: Manage Assistants, Squads, and Calls via MCP'
-link: https://truto.one/blog/connect-vapi-to-chatgpt-manage-assistants-squads-and-calls/
-published: '2026-06-23'
+title: 'Connect Shopify to ChatGPT: Manage Orders, Products & Customers via MCP'
+link: https://truto.one/blog/connect-shopify-to-chatgpt-manage-orders-products-and-customers/
+published: '2026-08-04'
 provider: truto
 repo: https://github.com/api-evangelist/truto
 domain: truto.one
