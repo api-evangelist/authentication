@@ -1,7 +1,7 @@
 ---
-title: How to connect a BambooHR MCP with Claude Code (4 steps)
-link: https://www.merge.dev/blog/bamboohr-mcp-claude-code
-published: '2026-07-02'
+title: How to connect a HubSpot MCP to Cursor (4 steps)
+link: https://www.merge.dev/blog/hubspot-mcp-cursor
+published: '2026-07-09'
 provider: merge
 repo: https://github.com/api-evangelist/merge
 domain: www.merge.dev
