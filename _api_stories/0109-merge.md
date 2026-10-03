@@ -1,7 +1,7 @@
 ---
-title: How to connect an Outlook MCP with Claude Code (4 steps)
-link: https://www.merge.dev/blog/outlook-mcp-claude-code
-published: '2026-07-30'
+title: How to connect a Ramp MCP with Codex (4 steps)
+link: https://www.merge.dev/blog/ramp-mcp-codex
+published: '2026-08-04'
 provider: merge
 repo: https://github.com/api-evangelist/merge
 domain: www.merge.dev
