@@ -9,6 +9,15 @@ tags:
 - Authorization
 - Identity
 - MFA
+- OpenID Connect
+- SAML
+- Security
+- SSO
+tags_raw:
+- Authentication
+- Authorization
+- Identity
+- MFA
 - OAuth
 - OpenID Connect
 - SAML
