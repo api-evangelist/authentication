@@ -1,5 +1,6 @@
 aid: authentication
 name: Authentication
+kind: topic
 description: |
   A curated index of services, tooling, and open source solutions for API authentication, authorization, identity management, and secrets management. This collection covers identity providers, SSO platforms, privileged access management, MFA, open source identity servers, and authentication standards including OAuth 2.0, OpenID Connect, SAML 2.0, FIDO2/WebAuthn, and SCIM.
 type: Index
