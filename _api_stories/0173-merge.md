@@ -1,6 +1,6 @@
 ---
-title: How to connect a BambooHR MCP with Codex (4 steps)
-link: https://www.merge.dev/blog/bamboohr-mcp-codex
+title: How to connect a BambooHR MCP with Claude Code (4 steps)
+link: https://www.merge.dev/blog/bamboohr-mcp-claude-code
 published: '2026-07-02'
 provider: merge
 repo: https://github.com/api-evangelist/merge
