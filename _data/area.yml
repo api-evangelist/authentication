@@ -10,7 +10,6 @@ meta:
   - Authorization
   - Identity
   - MFA
-  - OAuth
   - OpenID Connect
   - SAML
   - Security
