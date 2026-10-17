@@ -1,7 +1,7 @@
 ---
-title: Connecting to the Botify MCP
-link: https://support.botify.com/en/articles/16950432-connecting-to-the-botify-mcp
-published: '2026-09-17'
+title: Understanding Security and Data Privacy in the Botify MCP
+link: https://support.botify.com/en/articles/17100243-understanding-security-and-data-privacy-in-the-botify-mcp
+published: '2026-09-23'
 provider: botify
 repo: https://github.com/api-evangelist/botify
 domain: support.botify.com
