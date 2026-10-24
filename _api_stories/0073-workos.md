@@ -1,7 +1,7 @@
 ---
-title: What is MCP authorization? How OAuth works for AI agents
-link: https://workos.com/blog/what-is-mcp-authorization
-published: '2026-09-03'
+title: 'MCP authorization: governing tool calls beyond OAuth'
+link: https://workos.com/blog/mcp-authorization-airlock
+published: '2026-09-15'
 provider: workos
 repo: https://github.com/api-evangelist/workos
 domain: workos.com
