@@ -1,75 +1,91 @@
-# Authentication (authentication)
+# Authentication
+
+<!-- API-EVANGELIST-PROVENANCE:BEGIN -->
+> ### About this repository
+>
+> **This is not our API.** This repository is an independent, third-party profile of a company's
+> **publicly available** API surface, maintained by [API Evangelist](https://apievangelist.com).
+> API Evangelist does not operate, host, resell, or support this company's APIs, and is not
+> affiliated with or endorsed by the company unless stated on the profile.
+>
+> **Where the information came from.** Everything here is assembled from material a member of the
+> public can reach with a browser and no credentials — the company's own website, developer portal
+> and documentation, the specifications it publishes for public use (OpenAPI, AsyncAPI, JSON Schema,
+> `apis.json`, `llms.txt` and similar), its public repositories, and its public status, pricing and
+> changelog pages. **Nothing here is obtained by breaching a system, defeating an access control, or
+> using credentials of any kind.**
+>
+> **The rating is an independent assessment.** The Kin Score and Agent Readiness rating are
+> independently calculated scores of a company's *public* API artifacts, produced by API Evangelist
+> against a published rubric. They are not certifications, endorsements, security assessments, or
+> audits, and they score published artifacts — not the quality, safety, or security of the software.
+>
+> **Corrections, re-scores, and removal are free.** No partnership, contract, or purchase is
+> required, and you do not need to justify the request.
+>
+> - **Something wrong?** Open an issue on this repository, or email
+>   [info@apievangelist.com](mailto:info@apievangelist.com).
+> - **Published something new?** Ask for a re-score and we will re-run the rating.
+> - **Want the listing taken down?** Say so and we will honor it. The profile is reduced to your
+>   company name, a factual description, and a link to your own site, and the company is recorded as
+>   **unrated** — never scored zero for having asked.
+>
+> **Response times.** Acknowledgement within **one business day**; removal or restriction within
+> **two business days**; corrections and re-scores within **five business days**.
+>
+> **Not from the company, and here with a question?** You are welcome here — we would rather be the
+> front line and point you the right way than have a good report go nowhere. What this repository
+> can answer is narrow, though, so it is worth knowing who you are actually looking for:
+>
+> - **A question about how the API works, an account, billing, or a bug in the service** — that is
+>   the company's own support, not us. We profile this API; we do not operate it and cannot see
+>   your account.
+> - **A bug in an open-source project we only catalog** — file it on that project's own repository.
+>   This has happened with a real and correct bug report that reached us instead of the people who
+>   could fix it, which helped nobody.
+> - **Anything about this listing itself** — the description, the tags, the rating, a missing or
+>   wrong artifact — is ours. Open an issue here.
+> - **Not sure, or something general about API Evangelist or APIs.io** — open an issue on the
+>   [APIs.io Inbox](https://github.com/api-search/inbox) and we will route it.
+>
+> **This repository contains no software, and we will never ask you to download anything.** There is
+> no build, release, installer, or binary here — only text and machine-readable API descriptions, so
+> there is nothing here that can be "corrupt" or need "repairing". Any issue, comment, or email
+> claiming otherwise and offering a download link is not from us and is hostile. Do not follow the
+> link; it is a lure. Report it to GitHub and, if you like, tell us at
+> [info@apievangelist.com](mailto:info@apievangelist.com) so we can take it down.
+>
+> **On a security or compliance team?** Email
+> [info@apievangelist.com](mailto:info@apievangelist.com) with *security* in the subject line and
+> you will get a person, not a form. We will tell you exactly which public URLs this profile was
+> built from so your team can see the same surface we did, and we will take the listing down on
+> request while you work through it.
+>
+> Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
+<!-- API-EVANGELIST-PROVENANCE:END -->
+
 A curated index of services, tooling, and open source solutions for API authentication, authorization, identity management, and secrets management. This collection covers identity providers, SSO platforms, privileged access management, MFA, open source identity servers, and authentication standards including OAuth 2.0, OpenID Connect, SAML 2.0, FIDO2/WebAuthn, and SCIM.
 
-**URL:** [https://raw.githubusercontent.com/api-evangelist/authentication/refs/heads/main/apis.yml](https://raw.githubusercontent.com/api-evangelist/authentication/refs/heads/main/apis.yml)
+**Areas:** Authentication · Authorization · Identity · MFA · OpenID Connect · SAML · Security · SSO
 
-## Tags:
+## Authentication on APIs.io
 
- - Authentication, Authorization, Identity, MFA, OAuth, OpenID Connect, SAML, Security, SSO
+Everything profiled for Authentication is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/authentication/](https://apis.io/providers/authentication/)** — or go straight to one of the APIs or properties below.
 
-## Timestamps
+## API Evangelist rating
 
-- **Created:** 2026-03-25
-- **Modified:** 2026-04-19
+**Unrated** — no public website could be reached for this company, so there was almost nothing to measure and nothing a reader could check.
 
-## Network
+This is not a score of zero. No rating is published for this company. If that is wrong because something public exists that we missed, say so on this repository or email [info@apievangelist.com](mailto:info@apievangelist.com) and it will be re-run — free, and no justification needed.
 
-This collection indexes the following authentication providers and platforms:
+## How this profile is made
 
-- [Amazon Cognito](https://raw.githubusercontent.com/api-evangelist/aws-cognito/refs/heads/main/apis.yml)
-- [Auth0](https://raw.githubusercontent.com/api-evangelist/auth0/refs/heads/main/apis.yml)
-- [Authelia](https://raw.githubusercontent.com/api-evangelist/authelia/refs/heads/main/apis.yml)
-- [Authentik](https://raw.githubusercontent.com/api-evangelist/authentik/refs/heads/main/apis.yml)
-- [Casdoor](https://raw.githubusercontent.com/api-evangelist/casdoor/refs/heads/main/apis.yml)
-- [Cerbos](https://raw.githubusercontent.com/api-evangelist/cerbos/refs/heads/main/apis.yml)
-- [CyberArk](https://raw.githubusercontent.com/api-evangelist/cyberark/refs/heads/main/apis.yml)
-- [Duo Security](https://raw.githubusercontent.com/api-evangelist/duo-security/refs/heads/main/apis.yml)
-- [ForgeRock](https://raw.githubusercontent.com/api-evangelist/forgerock/refs/heads/main/apis.yml)
-- [HashiCorp Vault](https://raw.githubusercontent.com/api-evangelist/hashicorp-vault/refs/heads/main/apis.yml)
-- [Keycloak](https://raw.githubusercontent.com/api-evangelist/keycloak/refs/heads/main/apis.yml)
-- [Logto](https://raw.githubusercontent.com/api-evangelist/logto/refs/heads/main/apis.yml)
-- [Microsoft Entra ID](https://raw.githubusercontent.com/api-evangelist/microsoft-entra-id/refs/heads/main/apis.yml)
-- [Okta](https://raw.githubusercontent.com/api-evangelist/okta/refs/heads/main/apis.yml)
-- [OneLogin](https://raw.githubusercontent.com/api-evangelist/onelogin/refs/heads/main/apis.yml)
-- [Ory](https://raw.githubusercontent.com/api-evangelist/ory/refs/heads/main/apis.yml)
-- [Ping Identity](https://raw.githubusercontent.com/api-evangelist/ping-identity/refs/heads/main/apis.yml)
-- [SailPoint](https://raw.githubusercontent.com/api-evangelist/sailpoint/refs/heads/main/apis.yml)
-- [SuperTokens](https://raw.githubusercontent.com/api-evangelist/supertokens/refs/heads/main/apis.yml)
-- [WorkOS](https://raw.githubusercontent.com/api-evangelist/workos/refs/heads/main/apis.yml)
-- [Zitadel](https://raw.githubusercontent.com/api-evangelist/zitadel/refs/heads/main/apis.yml)
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
 
-## Features
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Authentication: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
 
-| Name | Description |
-|------|-------------|
-| OAuth 2.0 Protocol Coverage | Comprehensive coverage of OAuth 2.0 authorization framework implementations from cloud providers, open source projects, and commercial platforms. |
-| OpenID Connect Providers | Index of OpenID Connect certified identity providers and implementations spanning cloud, on-premises, and self-hosted deployments. |
-| Multi-Factor Authentication | Coverage of MFA solutions including TOTP, SMS, push notification, WebAuthn/FIDO2, and hardware token implementations. |
-| Self-Hosted Identity Solutions | Open source identity servers that can be self-hosted including Keycloak, Authelia, Authentik, Zitadel, and Casdoor. |
-| Enterprise Identity Providers | Commercial enterprise IAM platforms including Okta, Auth0, ForgeRock, Ping Identity, and Microsoft Entra ID. |
-| Secrets and PAM | Privileged access management and secrets management tools including HashiCorp Vault and CyberArk for secure credential storage. |
+## Open an issue
 
-## Use Cases
-
-| Name | Description |
-|------|-------------|
-| Identity Provider Selection | Compare authentication platforms across self-hosted, cloud, and enterprise tiers to select the right identity provider. |
-| SSO Implementation | Find SSO platforms and libraries for implementing single sign-on across applications and services. |
-| API Security Research | Research authentication standards, security patterns, and best practices for securing REST, GraphQL, and gRPC APIs. |
-| Zero Trust Architecture | Discover identity verification services for zero trust network access and continuous authentication architectures. |
-
-## Integrations
-
-| Name | Description |
-|------|-------------|
-| OAuth 2.0 Standard | The foundational authorization framework implemented by every provider in this collection. |
-| OpenID Connect Standard | Identity layer on top of OAuth 2.0 providing standardized user info, ID tokens, and discovery endpoints. |
-| SAML 2.0 Standard | XML-based authentication standard widely used for enterprise SSO and federation scenarios. |
-| SCIM 2.0 Standard | System for Cross-domain Identity Management for automated user provisioning and deprovisioning. |
-| FIDO2/WebAuthn Standard | Web Authentication standard for passwordless and hardware-backed authentication. |
-
-## Maintainers
-
-**FN:** Kin Lane
-
-**Email:** kin@apievangelist.com
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/authentication/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
